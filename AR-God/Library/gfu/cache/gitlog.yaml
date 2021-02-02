@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2021-02-02T21:32:50.913+01:00
+  initializedAtString: 2021-02-02T21:18:49.437+01:00
+  log:
+  - commitID: 040d50d1dee733fdc01e3aa56cbea74f170f6857
+    mergeA: 
+    mergeB: 
+    authorName: Dyzing
+    authorEmail: 58467833+Dyzing@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Initial commit
+    description: 
+    timeString: 2021-02-02T19:26:57.000+01:00
+    commitTimeString: 2021-02-02T19:26:57.000+01:00
+    changes:
+    - path: README.md
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\README.md
+      projectPath: ..\README.md
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
