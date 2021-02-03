@@ -9,304 +9,460 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 995438498, guid: 60d420954e934404d89df943aaa1f550, type: 3}
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2021-02-03T20:55:05.415+01:00
-  initializedAtString: 2021-02-03T20:55:05.415+01:00
+  lastUpdatedAtString: 2021-02-03T23:08:09.793+01:00
+  initializedAtString: 2021-02-03T22:24:00.782+01:00
   entries:
   - path: AR-God\AR-God.sln
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\AR-God.sln
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\AR-God.sln
     projectPath: AR-God.sln
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: AR-God\Assembly-CSharp.csproj
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assembly-CSharp.csproj
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assembly-CSharp.csproj
     projectPath: Assembly-CSharp.csproj
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: AR-God\Assembly-CSharp-Editor-firstpass.csproj
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assembly-CSharp-Editor-firstpass.csproj
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assembly-CSharp-Editor-firstpass.csproj
     projectPath: Assembly-CSharp-Editor-firstpass.csproj
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: AR-God\Assets\Island\Prefabs\uploads_files_2011258_Volcano.blend
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\Island\Prefabs\uploads_files_2011258_Volcano.blend
+    projectPath: Assets\Island\Prefabs\uploads_files_2011258_Volcano.blend
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: AR-God\Assets\Island\Scenes\Demo.unity
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\Island\Scenes\Demo.unity
+    projectPath: Assets\Island\Scenes\Demo.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AR-God\Assets\Island\Scenes\Demo\LightingData.asset
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\Island\Scenes\Demo\LightingData.asset
+    projectPath: Assets\Island\Scenes\Demo\LightingData.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\Island\Scenes\Demo\NavMesh.asset
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\Island\Scenes\Demo\NavMesh.asset
+    projectPath: Assets\Island\Scenes\Demo\NavMesh.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\Island\Scenes\Demo\ReflectionProbe-0.exr
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\Island\Scenes\Demo\ReflectionProbe-0.exr
+    projectPath: Assets\Island\Scenes\Demo\ReflectionProbe-0.exr
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\Island\Textures\Lavabrick\Lavabrick.mat
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\Island\Textures\Lavabrick\Lavabrick.mat
+    projectPath: Assets\Island\Textures\Lavabrick\Lavabrick.mat
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AR-God\Assets\Island\Textures\Materials\Water.mat
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\Island\Textures\Materials\Water.mat
+    projectPath: Assets\Island\Textures\Materials\Water.mat
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AR-God\Assets\PolygonStarter\Prefabs\Characters\Player.prefab
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Prefabs\Characters\Player.prefab
+    projectPath: Assets\PolygonStarter\Prefabs\Characters\Player.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\PolygonStarter\Prefabs\Characters\SM_Bean_Cowboy_01.prefab
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Prefabs\Characters\SM_Bean_Cowboy_01.prefab
+    projectPath: Assets\PolygonStarter\Prefabs\Characters\SM_Bean_Cowboy_01.prefab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AR-God\Assets\Resources\VuforiaConfiguration.asset
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\Resources\VuforiaConfiguration.asset
+    projectPath: Assets\Resources\VuforiaConfiguration.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AR-God\Assets\Scripts\ClickAndGo.cs
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\Scripts\ClickAndGo.cs
+    projectPath: Assets\Scripts\ClickAndGo.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: AR-God\EditorMigrationScripts.csproj
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\EditorMigrationScripts.csproj
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\EditorMigrationScripts.csproj
     projectPath: EditorMigrationScripts.csproj
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: AR-God\Library\APIUpdater\project-dependencies.graph
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\APIUpdater\project-dependencies.graph
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\APIUpdater\project-dependencies.graph
     projectPath: Library\APIUpdater\project-dependencies.graph
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: AR-God\Library\CurrentLayout-default.dwlt
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\CurrentLayout-default.dwlt
+    projectPath: Library\CurrentLayout-default.dwlt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: AR-God\Library\EditorInstance.json
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\EditorInstance.json
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\EditorInstance.json
     projectPath: Library\EditorInstance.json
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
+  - path: AR-God\Library\gfu\cache\branches.yaml
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\gfu\cache\branches.yaml
+    projectPath: Library\gfu\cache\branches.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: AR-God\Library\gfu\cache\gitlocks.yaml
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\gfu\cache\gitlocks.yaml
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\gfu\cache\gitlocks.yaml
     projectPath: Library\gfu\cache\gitlocks.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: AR-God\Library\gfu\cache\gitlog.yaml
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: AR-God\Library\gfu\cache\gitstatusentries.yaml
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\gfu\cache\gitstatusentries.yaml
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\gfu\cache\gitstatusentries.yaml
     projectPath: Library\gfu\cache\gitstatusentries.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: AR-God\Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: AR-God\Library\gfu\cache\repoinfo.yaml
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\gfu\cache\repoinfo.yaml
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\gfu\cache\repoinfo.yaml
     projectPath: Library\gfu\cache\repoinfo.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: AR-God\Library\InspectorExpandedItems.asset
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\InspectorExpandedItems.asset
+    projectPath: Library\InspectorExpandedItems.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AR-God\Library\LastSceneManagerSetup.txt
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\LastSceneManagerSetup.txt
+    projectPath: Library\LastSceneManagerSetup.txt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: AR-God\Library\SceneVisibilityState.asset
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\SceneVisibilityState.asset
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\SceneVisibilityState.asset
     projectPath: Library\SceneVisibilityState.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: AR-God\Library\ScriptAssemblies\Assembly-CSharp.dll
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ScriptAssemblies\Assembly-CSharp.dll
     projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: AR-God\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
     projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: AR-God\Library\ScriptAssemblies\EditorMigrationScripts.dll
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ScriptAssemblies\EditorMigrationScripts.dll
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ScriptAssemblies\EditorMigrationScripts.dll
     projectPath: Library\ScriptAssemblies\EditorMigrationScripts.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: AR-God\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
     projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: AR-God\Library\ScriptAssemblies\Unity.Rider.Editor.dll
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ScriptAssemblies\Unity.Rider.Editor.dll
     projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: AR-God\Library\ScriptAssemblies\Unity.TextMeshPro.dll
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ScriptAssemblies\Unity.TextMeshPro.dll
     projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: AR-God\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
     projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: AR-God\Library\ScriptAssemblies\Unity.Timeline.dll
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ScriptAssemblies\Unity.Timeline.dll
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ScriptAssemblies\Unity.Timeline.dll
     projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: AR-God\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
     projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: AR-God\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
     projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: AR-God\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
     projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: AR-God\Library\ScriptAssemblies\UnityEditor.UI.dll
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ScriptAssemblies\UnityEditor.UI.dll
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ScriptAssemblies\UnityEditor.UI.dll
     projectPath: Library\ScriptAssemblies\UnityEditor.UI.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: AR-God\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
     projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: AR-God\Library\ScriptAssemblies\UnityEngine.UI.dll
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ScriptAssemblies\UnityEngine.UI.dll
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ScriptAssemblies\UnityEngine.UI.dll
     projectPath: Library\ScriptAssemblies\UnityEngine.UI.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: AR-God\Library\ScriptAssemblies\VuforiaEditorScripts.dll
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ScriptAssemblies\VuforiaEditorScripts.dll
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ScriptAssemblies\VuforiaEditorScripts.dll
     projectPath: Library\ScriptAssemblies\VuforiaEditorScripts.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: AR-God\Library\ScriptAssemblies\VuforiaScripts.dll
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ScriptAssemblies\VuforiaScripts.dll
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ScriptAssemblies\VuforiaScripts.dll
     projectPath: Library\ScriptAssemblies\VuforiaScripts.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: AR-God\Library\ShaderCache\3\3f154f89fe42ace0cf89d547fe482d5b.bin
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\3\3f154f89fe42ace0cf89d547fe482d5b.bin
-    projectPath: Library\ShaderCache\3\3f154f89fe42ace0cf89d547fe482d5b.bin
+  - path: AR-God\Library\ShaderCache\0\063d862e6ea302ba907fb068554439f2.bin
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\0\063d862e6ea302ba907fb068554439f2.bin
+    projectPath: Library\ShaderCache\0\063d862e6ea302ba907fb068554439f2.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Library\ShaderCache\9\96ffd35b4fa60f431b6053778a30e153.bin
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\9\96ffd35b4fa60f431b6053778a30e153.bin
-    projectPath: Library\ShaderCache\9\96ffd35b4fa60f431b6053778a30e153.bin
+  - path: AR-God\Library\ShaderCache\1\181e4230d450cf50088abd52f8d68b20.bin
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\1\181e4230d450cf50088abd52f8d68b20.bin
+    projectPath: Library\ShaderCache\1\181e4230d450cf50088abd52f8d68b20.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Library\ShaderCache\f\f3054202d65fb0d17ebb41634a5b5004.bin
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\f\f3054202d65fb0d17ebb41634a5b5004.bin
-    projectPath: Library\ShaderCache\f\f3054202d65fb0d17ebb41634a5b5004.bin
+  - path: AR-God\Library\ShaderCache\1\196a0e8eb8688772dc6fb85c0698b7e1.bin
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\1\196a0e8eb8688772dc6fb85c0698b7e1.bin
+    projectPath: Library\ShaderCache\1\196a0e8eb8688772dc6fb85c0698b7e1.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Library\ShaderCache\f\f9589f0996305d4f40c9f97f35b82bbd.bin
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\f\f9589f0996305d4f40c9f97f35b82bbd.bin
-    projectPath: Library\ShaderCache\f\f9589f0996305d4f40c9f97f35b82bbd.bin
+  - path: AR-God\Library\ShaderCache\1\1a695c213b8cb841647e75d2a5f5006c.bin
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\1\1a695c213b8cb841647e75d2a5f5006c.bin
+    projectPath: Library\ShaderCache\1\1a695c213b8cb841647e75d2a5f5006c.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Library\ShaderCache\2\2e28e6ecd78bac6987938be5c176aa07.bin
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\2\2e28e6ecd78bac6987938be5c176aa07.bin
+    projectPath: Library\ShaderCache\2\2e28e6ecd78bac6987938be5c176aa07.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Library\ShaderCache\3\32b85f59abbccffd738a94c53b4a963a.bin
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\3\32b85f59abbccffd738a94c53b4a963a.bin
+    projectPath: Library\ShaderCache\3\32b85f59abbccffd738a94c53b4a963a.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Library\ShaderCache\3\3dca62a9679c68cb0816c20001f6466b.bin
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\3\3dca62a9679c68cb0816c20001f6466b.bin
+    projectPath: Library\ShaderCache\3\3dca62a9679c68cb0816c20001f6466b.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Library\ShaderCache\7\7a1319e6c697eba24372d93a54ad5195.bin
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\7\7a1319e6c697eba24372d93a54ad5195.bin
+    projectPath: Library\ShaderCache\7\7a1319e6c697eba24372d93a54ad5195.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Library\ShaderCache\7\7b240e0e0e609d49865b0e1670b9899a.bin
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\7\7b240e0e0e609d49865b0e1670b9899a.bin
+    projectPath: Library\ShaderCache\7\7b240e0e0e609d49865b0e1670b9899a.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Library\ShaderCache\7\7b597978fe30066b09b98be324394e81.bin
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\7\7b597978fe30066b09b98be324394e81.bin
+    projectPath: Library\ShaderCache\7\7b597978fe30066b09b98be324394e81.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Library\ShaderCache\8\8d5317a830aa3264aaca8b2052dc94e0.bin
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\8\8d5317a830aa3264aaca8b2052dc94e0.bin
+    projectPath: Library\ShaderCache\8\8d5317a830aa3264aaca8b2052dc94e0.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Library\ShaderCache\9\9b927782b14f8d50f62fd74083ec1a74.bin
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\9\9b927782b14f8d50f62fd74083ec1a74.bin
+    projectPath: Library\ShaderCache\9\9b927782b14f8d50f62fd74083ec1a74.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Library\ShaderCache\a\a78b6eceb40a5f1d4ed1974c19948801.bin
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\a\a78b6eceb40a5f1d4ed1974c19948801.bin
+    projectPath: Library\ShaderCache\a\a78b6eceb40a5f1d4ed1974c19948801.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Library\ShaderCache\a\a81def7fe148d02c83b462f0685f6252.bin
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\a\a81def7fe148d02c83b462f0685f6252.bin
+    projectPath: Library\ShaderCache\a\a81def7fe148d02c83b462f0685f6252.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Library\ShaderCache\c\c8b396b82a717d3bb67396a2b6a89b4c.bin
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\c\c8b396b82a717d3bb67396a2b6a89b4c.bin
+    projectPath: Library\ShaderCache\c\c8b396b82a717d3bb67396a2b6a89b4c.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Library\ShaderCache\c\ca725dcf2cb2885af7b8cf99296d7885.bin
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\c\ca725dcf2cb2885af7b8cf99296d7885.bin
+    projectPath: Library\ShaderCache\c\ca725dcf2cb2885af7b8cf99296d7885.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Library\ShaderCache\d\d6118d21b6919f41d318061c4789fff8.bin
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\d\d6118d21b6919f41d318061c4789fff8.bin
+    projectPath: Library\ShaderCache\d\d6118d21b6919f41d318061c4789fff8.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Library\ShaderCache\e\e01a7c9c80fe641b46affe18be6f91cf.bin
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\e\e01a7c9c80fe641b46affe18be6f91cf.bin
+    projectPath: Library\ShaderCache\e\e01a7c9c80fe641b46affe18be6f91cf.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Library\ShaderCache\EditorEncounteredVariants
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\EditorEncounteredVariants
+    projectPath: Library\ShaderCache\EditorEncounteredVariants
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AR-God\Library\ShaderCache\f\f2e7577f0778964448a91a763afbe491.bin
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\f\f2e7577f0778964448a91a763afbe491.bin
+    projectPath: Library\ShaderCache\f\f2e7577f0778964448a91a763afbe491.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Library\ShaderCache\f\f53fb15bab641130d1c023db017844b6.bin
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\f\f53fb15bab641130d1c023db017844b6.bin
+    projectPath: Library\ShaderCache\f\f53fb15bab641130d1c023db017844b6.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
   - path: AR-God\Library\SourceAssetDB
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\SourceAssetDB
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\SourceAssetDB
     projectPath: Library\SourceAssetDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: AR-God\Library\StateCache\Hierarchy\97b062-e332982425ee2ec48b.json
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\StateCache\Hierarchy\97b062-e332982425ee2ec48b.json
+    projectPath: Library\StateCache\Hierarchy\97b062-e332982425ee2ec48b.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: AR-God\Library\StateCache\Hierarchy\97b062-mainStage.json
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\StateCache\Hierarchy\97b062-mainStage.json
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\StateCache\Hierarchy\97b062-mainStage.json
     projectPath: Library\StateCache\Hierarchy\97b062-mainStage.json
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: AR-God\Library\StateCache\SceneView\5d7aad-e332982425ee2ec48b.json
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\StateCache\SceneView\5d7aad-e332982425ee2ec48b.json
+    projectPath: Library\StateCache\SceneView\5d7aad-e332982425ee2ec48b.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Library\StateCache\SceneView\5d7aad-mainStage.json
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\StateCache\SceneView\5d7aad-mainStage.json
+    projectPath: Library\StateCache\SceneView\5d7aad-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AR-God\ProjectSettings\NavMeshAreas.asset
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\ProjectSettings\NavMeshAreas.asset
+    projectPath: ProjectSettings\NavMeshAreas.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AR-God\QCAR\somedata16
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\QCAR\somedata16
+    projectPath: QCAR\somedata16
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AR-God\Temp\__Backupscenes\0.backup
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Temp\__Backupscenes\0.backup
+    projectPath: Temp\__Backupscenes\0.backup
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: AR-God\Temp\UnityLockfile
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\UnityLockfile
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Temp\UnityLockfile
     projectPath: Temp\UnityLockfile
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Temp\UnityTempFile-02b828569a531f244a614f3bf91bb50b
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\UnityTempFile-02b828569a531f244a614f3bf91bb50b
-    projectPath: Temp\UnityTempFile-02b828569a531f244a614f3bf91bb50b
+  - path: AR-God\Temp\UnityTempFile-45bf8c3330b54c04d95f75806ad9d462
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Temp\UnityTempFile-45bf8c3330b54c04d95f75806ad9d462
+    projectPath: Temp\UnityTempFile-45bf8c3330b54c04d95f75806ad9d462
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Temp\UnityTempFile-087bee0bb545a1f419598a664108b99c
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\UnityTempFile-087bee0bb545a1f419598a664108b99c
-    projectPath: Temp\UnityTempFile-087bee0bb545a1f419598a664108b99c
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AR-God\Temp\UnityTempFile-1405864c05584324ba0f2efcdc2e7b0c
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\UnityTempFile-1405864c05584324ba0f2efcdc2e7b0c
-    projectPath: Temp\UnityTempFile-1405864c05584324ba0f2efcdc2e7b0c
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AR-God\Temp\UnityTempFile-2314562923810504099b1f2ec844523a
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\UnityTempFile-2314562923810504099b1f2ec844523a
-    projectPath: Temp\UnityTempFile-2314562923810504099b1f2ec844523a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AR-God\Temp\UnityTempFile-56b0b83ed8c1a454c8e39769e57fe1c8
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\UnityTempFile-56b0b83ed8c1a454c8e39769e57fe1c8
-    projectPath: Temp\UnityTempFile-56b0b83ed8c1a454c8e39769e57fe1c8
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AR-God\Temp\UnityTempFile-63a41b6ec90803241856b6b9d2d498a3
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\UnityTempFile-63a41b6ec90803241856b6b9d2d498a3
-    projectPath: Temp\UnityTempFile-63a41b6ec90803241856b6b9d2d498a3
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AR-God\Temp\UnityTempFile-7e8b00f71c33af347ac66b1be78d7b96
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\UnityTempFile-7e8b00f71c33af347ac66b1be78d7b96
-    projectPath: Temp\UnityTempFile-7e8b00f71c33af347ac66b1be78d7b96
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AR-God\Temp\UnityTempFile-8308de8f4e4b050489df37d344a42c05
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\UnityTempFile-8308de8f4e4b050489df37d344a42c05
-    projectPath: Temp\UnityTempFile-8308de8f4e4b050489df37d344a42c05
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AR-God\Temp\UnityTempFile-87268e5761382f240809b6afc6f157b8
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\UnityTempFile-87268e5761382f240809b6afc6f157b8
-    projectPath: Temp\UnityTempFile-87268e5761382f240809b6afc6f157b8
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AR-God\Temp\UnityTempFile-8a584b00afee3d346b24f76e8b94354b
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\UnityTempFile-8a584b00afee3d346b24f76e8b94354b
-    projectPath: Temp\UnityTempFile-8a584b00afee3d346b24f76e8b94354b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AR-God\Temp\UnityTempFile-944df2bb98eef244189b6023d7e057b3
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\UnityTempFile-944df2bb98eef244189b6023d7e057b3
-    projectPath: Temp\UnityTempFile-944df2bb98eef244189b6023d7e057b3
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AR-God\Temp\UnityTempFile-99366ed2fac8383438bf43c1f990f821
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\UnityTempFile-99366ed2fac8383438bf43c1f990f821
-    projectPath: Temp\UnityTempFile-99366ed2fac8383438bf43c1f990f821
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AR-God\Temp\UnityTempFile-a422ba1fc79588242bf97aa729ee1ef2
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\UnityTempFile-a422ba1fc79588242bf97aa729ee1ef2
-    projectPath: Temp\UnityTempFile-a422ba1fc79588242bf97aa729ee1ef2
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AR-God\Temp\UnityTempFile-e29f65e340069924290e8de92b569edd
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\UnityTempFile-e29f65e340069924290e8de92b569edd
-    projectPath: Temp\UnityTempFile-e29f65e340069924290e8de92b569edd
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AR-God\Temp\UnityTempFile-e38494fe0fa302749a729f29520ce92c
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\UnityTempFile-e38494fe0fa302749a729f29520ce92c
-    projectPath: Temp\UnityTempFile-e38494fe0fa302749a729f29520ce92c
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AR-God\Temp\UnityTempFile-ec9636bbe4979b34da734737df94b20b
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\UnityTempFile-ec9636bbe4979b34da734737df94b20b
-    projectPath: Temp\UnityTempFile-ec9636bbe4979b34da734737df94b20b
+  - path: AR-God\Temp\UnityTempFile-6782991c3fa26de40bde4a673a02f431
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Temp\UnityTempFile-6782991c3fa26de40bde4a673a02f431
+    projectPath: Temp\UnityTempFile-6782991c3fa26de40bde4a673a02f431
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
