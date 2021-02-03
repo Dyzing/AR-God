@@ -377,3 +377,5 @@ FodyWeavers.xsd
 *.pdb
 *.ilk
 *.exe
+AR-God/Library/ArtifactDB
+AR-God/Library/PackageCache/com.ptc.vuforia.engine@9.6.3/Vuforia/Plugins/iOS/Vuforia.framework/Vuforia
