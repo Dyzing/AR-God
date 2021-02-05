@@ -13,36 +13,414 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2021-02-03T20:55:05.415+01:00
-  initializedAtString: 2021-02-03T20:55:05.415+01:00
+  lastUpdatedAtString: 2021-02-05T19:05:21.694+01:00
+  initializedAtString: 2021-02-05T18:50:29.726+01:00
   entries:
-  - path: AR-God\AR-God.sln
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\AR-God.sln
-    projectPath: AR-God.sln
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: AR-God\Assembly-CSharp.csproj
     fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assembly-CSharp.csproj
     projectPath: Assembly-CSharp.csproj
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: AR-God\Assembly-CSharp-Editor-firstpass.csproj
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assembly-CSharp-Editor-firstpass.csproj
-    projectPath: Assembly-CSharp-Editor-firstpass.csproj
+  - path: AR-God\Assets\Boats\Demo\Demoscene.unity
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Boats\Demo\Demoscene.unity
+    projectPath: Assets\Boats\Demo\Demoscene.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\Boats\Demo\Post-Process_Profile_Rowboats.asset
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Boats\Demo\Post-Process_Profile_Rowboats.asset
+    projectPath: Assets\Boats\Demo\Post-Process_Profile_Rowboats.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\Boats\Legacy_Content\Boat_Aluminium.prefab
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Boats\Legacy_Content\Boat_Aluminium.prefab
+    projectPath: Assets\Boats\Legacy_Content\Boat_Aluminium.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\Boats\Legacy_Content\Boat_Mobile.prefab
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Boats\Legacy_Content\Boat_Mobile.prefab
+    projectPath: Assets\Boats\Legacy_Content\Boat_Mobile.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\Boats\Legacy_Content\Imports\Boat_Mobile.fbx
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Boats\Legacy_Content\Imports\Boat_Mobile.fbx
+    projectPath: Assets\Boats\Legacy_Content\Imports\Boat_Mobile.fbx
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\Boats\Legacy_Content\Imports\COL_Boat_Mobile.fbx
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Boats\Legacy_Content\Imports\COL_Boat_Mobile.fbx
+    projectPath: Assets\Boats\Legacy_Content\Imports\COL_Boat_Mobile.fbx
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\Boats\Legacy_Content\Imports\COL_Rowboat.fbx
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Boats\Legacy_Content\Imports\COL_Rowboat.fbx
+    projectPath: Assets\Boats\Legacy_Content\Imports\COL_Rowboat.fbx
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\Boats\Legacy_Content\Imports\Materials\Boat_Alum.mat
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Boats\Legacy_Content\Imports\Materials\Boat_Alum.mat
+    projectPath: Assets\Boats\Legacy_Content\Imports\Materials\Boat_Alum.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\Boats\Legacy_Content\Imports\Materials\Boat_Wood.mat
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Boats\Legacy_Content\Imports\Materials\Boat_Wood.mat
+    projectPath: Assets\Boats\Legacy_Content\Imports\Materials\Boat_Wood.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\Boats\Legacy_Content\Imports\Materials\Mobile_Boat.mat
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Boats\Legacy_Content\Imports\Materials\Mobile_Boat.mat
+    projectPath: Assets\Boats\Legacy_Content\Imports\Materials\Mobile_Boat.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\Boats\Legacy_Content\Imports\RowBoat.fbx
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Boats\Legacy_Content\Imports\RowBoat.fbx
+    projectPath: Assets\Boats\Legacy_Content\Imports\RowBoat.fbx
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\Boats\Legacy_Content\RowBoat.prefab
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Boats\Legacy_Content\RowBoat.prefab
+    projectPath: Assets\Boats\Legacy_Content\RowBoat.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\Boats\Legacy_Content\Textures\AluBoat_ao.png
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Boats\Legacy_Content\Textures\AluBoat_ao.png
+    projectPath: Assets\Boats\Legacy_Content\Textures\AluBoat_ao.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\Boats\Legacy_Content\Textures\AluBoat_diffuse.png
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Boats\Legacy_Content\Textures\AluBoat_diffuse.png
+    projectPath: Assets\Boats\Legacy_Content\Textures\AluBoat_diffuse.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\Boats\Legacy_Content\Textures\AluBoat_normal.png
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Boats\Legacy_Content\Textures\AluBoat_normal.png
+    projectPath: Assets\Boats\Legacy_Content\Textures\AluBoat_normal.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\Boats\Legacy_Content\Textures\AluBoat_specular.png
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Boats\Legacy_Content\Textures\AluBoat_specular.png
+    projectPath: Assets\Boats\Legacy_Content\Textures\AluBoat_specular.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\Boats\Legacy_Content\Textures\Boat_Mobile_Diffuse.png
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Boats\Legacy_Content\Textures\Boat_Mobile_Diffuse.png
+    projectPath: Assets\Boats\Legacy_Content\Textures\Boat_Mobile_Diffuse.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\Boats\Legacy_Content\Textures\RowBoat_Albedo.png
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Boats\Legacy_Content\Textures\RowBoat_Albedo.png
+    projectPath: Assets\Boats\Legacy_Content\Textures\RowBoat_Albedo.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\Boats\Legacy_Content\Textures\RowBoat_AO.png
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Boats\Legacy_Content\Textures\RowBoat_AO.png
+    projectPath: Assets\Boats\Legacy_Content\Textures\RowBoat_AO.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\Boats\Legacy_Content\Textures\RowBoat_Metallic.tif
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Boats\Legacy_Content\Textures\RowBoat_Metallic.tif
+    projectPath: Assets\Boats\Legacy_Content\Textures\RowBoat_Metallic.tif
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\Boats\Legacy_Content\Textures\RowBoat_nrm.png
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Boats\Legacy_Content\Textures\RowBoat_nrm.png
+    projectPath: Assets\Boats\Legacy_Content\Textures\RowBoat_nrm.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\Boats\Prefabs\Boat_Covered.prefab
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Boats\Prefabs\Boat_Covered.prefab
+    projectPath: Assets\Boats\Prefabs\Boat_Covered.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\Boats\Prefabs\OldWoodenRowboat.prefab
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Boats\Prefabs\OldWoodenRowboat.prefab
+    projectPath: Assets\Boats\Prefabs\OldWoodenRowboat.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\Boats\Prefabs\OldWoodenRowboat_Complete.prefab
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Boats\Prefabs\OldWoodenRowboat_Complete.prefab
+    projectPath: Assets\Boats\Prefabs\OldWoodenRowboat_Complete.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\Boats\Prefabs\Paddle.prefab
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Boats\Prefabs\Paddle.prefab
+    projectPath: Assets\Boats\Prefabs\Paddle.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\Boats\Source\Boat_Covered.FBX
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Boats\Source\Boat_Covered.FBX
+    projectPath: Assets\Boats\Source\Boat_Covered.FBX
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\Boats\Source\Materials\M_OldRowBoat.mat
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Boats\Source\Materials\M_OldRowBoat.mat
+    projectPath: Assets\Boats\Source\Materials\M_OldRowBoat.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\Boats\Source\Materials\M_Paddle_Tarp.mat
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Boats\Source\Materials\M_Paddle_Tarp.mat
+    projectPath: Assets\Boats\Source\Materials\M_Paddle_Tarp.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\Boats\Source\OldWoodenRowboat.FBX
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Boats\Source\OldWoodenRowboat.FBX
+    projectPath: Assets\Boats\Source\OldWoodenRowboat.FBX
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\Boats\Source\Paddle.FBX
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Boats\Source\Paddle.FBX
+    projectPath: Assets\Boats\Source\Paddle.FBX
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\Boats\Source\Textures\Boat_Wood_AO.png
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Boats\Source\Textures\Boat_Wood_AO.png
+    projectPath: Assets\Boats\Source\Textures\Boat_Wood_AO.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\Boats\Source\Textures\Boat_Wood_BC.png
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Boats\Source\Textures\Boat_Wood_BC.png
+    projectPath: Assets\Boats\Source\Textures\Boat_Wood_BC.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\Boats\Source\Textures\Boat_Wood_MS.tif
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Boats\Source\Textures\Boat_Wood_MS.tif
+    projectPath: Assets\Boats\Source\Textures\Boat_Wood_MS.tif
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\Boats\Source\Textures\Boat_Wood_Normal_OpenGL.png
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Boats\Source\Textures\Boat_Wood_Normal_OpenGL.png
+    projectPath: Assets\Boats\Source\Textures\Boat_Wood_Normal_OpenGL.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\Boats\Source\Textures\Paddle_Tarp_AO.png
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Boats\Source\Textures\Paddle_Tarp_AO.png
+    projectPath: Assets\Boats\Source\Textures\Paddle_Tarp_AO.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\Boats\Source\Textures\Paddle_Tarp_BC.png
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Boats\Source\Textures\Paddle_Tarp_BC.png
+    projectPath: Assets\Boats\Source\Textures\Paddle_Tarp_BC.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\Boats\Source\Textures\Paddle_tarp_MS.tif
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Boats\Source\Textures\Paddle_tarp_MS.tif
+    projectPath: Assets\Boats\Source\Textures\Paddle_tarp_MS.tif
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\Boats\Source\Textures\Paddle_Tarp_N.png
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Boats\Source\Textures\Paddle_Tarp_N.png
+    projectPath: Assets\Boats\Source\Textures\Paddle_Tarp_N.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\Island\Scenes\Demo.unity
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Island\Scenes\Demo.unity
+    projectPath: Assets\Island\Scenes\Demo.unity
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: AR-God\EditorMigrationScripts.csproj
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\EditorMigrationScripts.csproj
-    projectPath: EditorMigrationScripts.csproj
+  - path: AR-God\Assets\Island\Scenes\Demo\NavMesh.asset
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Island\Scenes\Demo\NavMesh.asset
+    projectPath: Assets\Island\Scenes\Demo\NavMesh.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: AR-God\Library\APIUpdater\project-dependencies.graph
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\APIUpdater\project-dependencies.graph
-    projectPath: Library\APIUpdater\project-dependencies.graph
+  - path: AR-God\Assets\Lava_Flowing_Shader\Materials\lava1.mat
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Lava_Flowing_Shader\Materials\lava1.mat
+    projectPath: Assets\Lava_Flowing_Shader\Materials\lava1.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\Lava_Flowing_Shader\Materials\lava1_transparent.mat
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Lava_Flowing_Shader\Materials\lava1_transparent.mat
+    projectPath: Assets\Lava_Flowing_Shader\Materials\lava1_transparent.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\Lava_Flowing_Shader\Materials\lava2.mat
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Lava_Flowing_Shader\Materials\lava2.mat
+    projectPath: Assets\Lava_Flowing_Shader\Materials\lava2.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\Lava_Flowing_Shader\Materials\lava3.mat
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Lava_Flowing_Shader\Materials\lava3.mat
+    projectPath: Assets\Lava_Flowing_Shader\Materials\lava3.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\Lava_Flowing_Shader\Materials\mtl_lava_diffuse.mat
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Lava_Flowing_Shader\Materials\mtl_lava_diffuse.mat
+    projectPath: Assets\Lava_Flowing_Shader\Materials\mtl_lava_diffuse.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\Lava_Flowing_Shader\Materials\mtl_lava_distort.mat
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Lava_Flowing_Shader\Materials\mtl_lava_distort.mat
+    projectPath: Assets\Lava_Flowing_Shader\Materials\mtl_lava_distort.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\Lava_Flowing_Shader\Materials\mtl_lava_distort_transparent.mat
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Lava_Flowing_Shader\Materials\mtl_lava_distort_transparent.mat
+    projectPath: Assets\Lava_Flowing_Shader\Materials\mtl_lava_distort_transparent.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\Lava_Flowing_Shader\Materials\mtl_lava_simple.mat
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Lava_Flowing_Shader\Materials\mtl_lava_simple.mat
+    projectPath: Assets\Lava_Flowing_Shader\Materials\mtl_lava_simple.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\Lava_Flowing_Shader\Prefabs\Lava_diffuse.prefab
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Lava_Flowing_Shader\Prefabs\Lava_diffuse.prefab
+    projectPath: Assets\Lava_Flowing_Shader\Prefabs\Lava_diffuse.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\Lava_Flowing_Shader\Prefabs\Lava_distort.prefab
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Lava_Flowing_Shader\Prefabs\Lava_distort.prefab
+    projectPath: Assets\Lava_Flowing_Shader\Prefabs\Lava_distort.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\Lava_Flowing_Shader\Prefabs\Lava_simple.prefab
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Lava_Flowing_Shader\Prefabs\Lava_simple.prefab
+    projectPath: Assets\Lava_Flowing_Shader\Prefabs\Lava_simple.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\Lava_Flowing_Shader\Prefabs\Lava_transparent.prefab
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Lava_Flowing_Shader\Prefabs\Lava_transparent.prefab
+    projectPath: Assets\Lava_Flowing_Shader\Prefabs\Lava_transparent.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\Lava_Flowing_Shader\ReadMe.txt
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Lava_Flowing_Shader\ReadMe.txt
+    projectPath: Assets\Lava_Flowing_Shader\ReadMe.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\Lava_Flowing_Shader\Scenes\FLowingLava.unity
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Lava_Flowing_Shader\Scenes\FLowingLava.unity
+    projectPath: Assets\Lava_Flowing_Shader\Scenes\FLowingLava.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\Lava_Flowing_Shader\Scripts\ScrollingUVs_Layers.cs
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Lava_Flowing_Shader\Scripts\ScrollingUVs_Layers.cs
+    projectPath: Assets\Lava_Flowing_Shader\Scripts\ScrollingUVs_Layers.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\Lava_Flowing_Shader\Shaders\Diffuse_Lava_Distort.shader
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Lava_Flowing_Shader\Shaders\Diffuse_Lava_Distort.shader
+    projectPath: Assets\Lava_Flowing_Shader\Shaders\Diffuse_Lava_Distort.shader
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\Lava_Flowing_Shader\Shaders\Unlit_Lava_Distort.shader
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Lava_Flowing_Shader\Shaders\Unlit_Lava_Distort.shader
+    projectPath: Assets\Lava_Flowing_Shader\Shaders\Unlit_Lava_Distort.shader
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\Lava_Flowing_Shader\Shaders\Unlit_Lava_Distort_Transparent.shader
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Lava_Flowing_Shader\Shaders\Unlit_Lava_Distort_Transparent.shader
+    projectPath: Assets\Lava_Flowing_Shader\Shaders\Unlit_Lava_Distort_Transparent.shader
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\Lava_Flowing_Shader\Shaders\Unlit_Lava_Simple.shader
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Lava_Flowing_Shader\Shaders\Unlit_Lava_Simple.shader
+    projectPath: Assets\Lava_Flowing_Shader\Shaders\Unlit_Lava_Simple.shader
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\Lava_Flowing_Shader\Textures\lava1.png
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Lava_Flowing_Shader\Textures\lava1.png
+    projectPath: Assets\Lava_Flowing_Shader\Textures\lava1.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\Lava_Flowing_Shader\Textures\lava1_transparent.png
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Lava_Flowing_Shader\Textures\lava1_transparent.png
+    projectPath: Assets\Lava_Flowing_Shader\Textures\lava1_transparent.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\Lava_Flowing_Shader\Textures\lava2.png
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Lava_Flowing_Shader\Textures\lava2.png
+    projectPath: Assets\Lava_Flowing_Shader\Textures\lava2.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\Lava_Flowing_Shader\Textures\lava3.png
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Lava_Flowing_Shader\Textures\lava3.png
+    projectPath: Assets\Lava_Flowing_Shader\Textures\lava3.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\PolygonStarter\Prefabs\Characters\Player.prefab
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Prefabs\Characters\Player.prefab
+    projectPath: Assets\PolygonStarter\Prefabs\Characters\Player.prefab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AR-God\Assets\Scripts\Spawner.cs
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Scripts\Spawner.cs
+    projectPath: Assets\Scripts\Spawner.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AR-God\Library\CurrentLayout-default.dwlt
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\CurrentLayout-default.dwlt
+    projectPath: Library\CurrentLayout-default.dwlt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AR-God\Library\CurrentMaximizeLayout.dwlt
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\CurrentMaximizeLayout.dwlt
+    projectPath: Library\CurrentMaximizeLayout.dwlt
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -64,9 +442,21 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: AR-God\Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: AR-God\Library\gfu\cache\repoinfo.yaml
     fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\gfu\cache\repoinfo.yaml
     projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AR-God\Library\InspectorExpandedItems.asset
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\InspectorExpandedItems.asset
+    projectPath: Library\InspectorExpandedItems.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -82,231 +472,219 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: AR-God\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+  - path: AR-God\Library\ScriptMapper
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ScriptMapper
+    projectPath: Library\ScriptMapper
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: AR-God\Library\ScriptAssemblies\EditorMigrationScripts.dll
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ScriptAssemblies\EditorMigrationScripts.dll
-    projectPath: Library\ScriptAssemblies\EditorMigrationScripts.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: AR-God\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: AR-God\Library\ScriptAssemblies\Unity.Rider.Editor.dll
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ScriptAssemblies\Unity.Rider.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: AR-God\Library\ScriptAssemblies\Unity.TextMeshPro.dll
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ScriptAssemblies\Unity.TextMeshPro.dll
-    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: AR-God\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: AR-God\Library\ScriptAssemblies\Unity.Timeline.dll
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ScriptAssemblies\Unity.Timeline.dll
-    projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: AR-God\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: AR-God\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: AR-God\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-    projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: AR-God\Library\ScriptAssemblies\UnityEditor.UI.dll
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ScriptAssemblies\UnityEditor.UI.dll
-    projectPath: Library\ScriptAssemblies\UnityEditor.UI.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: AR-God\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-    projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: AR-God\Library\ScriptAssemblies\UnityEngine.UI.dll
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ScriptAssemblies\UnityEngine.UI.dll
-    projectPath: Library\ScriptAssemblies\UnityEngine.UI.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: AR-God\Library\ScriptAssemblies\VuforiaEditorScripts.dll
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ScriptAssemblies\VuforiaEditorScripts.dll
-    projectPath: Library\ScriptAssemblies\VuforiaEditorScripts.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: AR-God\Library\ScriptAssemblies\VuforiaScripts.dll
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ScriptAssemblies\VuforiaScripts.dll
-    projectPath: Library\ScriptAssemblies\VuforiaScripts.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: AR-God\Library\ShaderCache\3\3f154f89fe42ace0cf89d547fe482d5b.bin
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\3\3f154f89fe42ace0cf89d547fe482d5b.bin
-    projectPath: Library\ShaderCache\3\3f154f89fe42ace0cf89d547fe482d5b.bin
+  - path: AR-God\Library\ShaderCache\0\006741c6eb05fcfec042b988d55d1cce.bin
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\0\006741c6eb05fcfec042b988d55d1cce.bin
+    projectPath: Library\ShaderCache\0\006741c6eb05fcfec042b988d55d1cce.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Library\ShaderCache\9\96ffd35b4fa60f431b6053778a30e153.bin
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\9\96ffd35b4fa60f431b6053778a30e153.bin
-    projectPath: Library\ShaderCache\9\96ffd35b4fa60f431b6053778a30e153.bin
+  - path: AR-God\Library\ShaderCache\1\1592003ab796e156c79dd029d4a5ae8e.bin
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\1\1592003ab796e156c79dd029d4a5ae8e.bin
+    projectPath: Library\ShaderCache\1\1592003ab796e156c79dd029d4a5ae8e.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Library\ShaderCache\f\f3054202d65fb0d17ebb41634a5b5004.bin
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\f\f3054202d65fb0d17ebb41634a5b5004.bin
-    projectPath: Library\ShaderCache\f\f3054202d65fb0d17ebb41634a5b5004.bin
+  - path: AR-God\Library\ShaderCache\1\18e1feb8f9984bee3e38c01fa7c95c11.bin
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\1\18e1feb8f9984bee3e38c01fa7c95c11.bin
+    projectPath: Library\ShaderCache\1\18e1feb8f9984bee3e38c01fa7c95c11.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Library\ShaderCache\f\f9589f0996305d4f40c9f97f35b82bbd.bin
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\f\f9589f0996305d4f40c9f97f35b82bbd.bin
-    projectPath: Library\ShaderCache\f\f9589f0996305d4f40c9f97f35b82bbd.bin
+  - path: AR-God\Library\ShaderCache\2\21ed4e0cf1a9844ef682e3155b5a548c.bin
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\2\21ed4e0cf1a9844ef682e3155b5a548c.bin
+    projectPath: Library\ShaderCache\2\21ed4e0cf1a9844ef682e3155b5a548c.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
+  - path: AR-God\Library\ShaderCache\3\3d6c2c2b0ef6dc069a1e734c651b0d6b.bin
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\3\3d6c2c2b0ef6dc069a1e734c651b0d6b.bin
+    projectPath: Library\ShaderCache\3\3d6c2c2b0ef6dc069a1e734c651b0d6b.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Library\ShaderCache\4\40bf8a6b819e7577662e6d4212d688fe.bin
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\4\40bf8a6b819e7577662e6d4212d688fe.bin
+    projectPath: Library\ShaderCache\4\40bf8a6b819e7577662e6d4212d688fe.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Library\ShaderCache\5\54059384d34974653a857a039d6bd0a1.bin
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\5\54059384d34974653a857a039d6bd0a1.bin
+    projectPath: Library\ShaderCache\5\54059384d34974653a857a039d6bd0a1.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Library\ShaderCache\6\66f6b38047054fffec21cebf823abc77.bin
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\6\66f6b38047054fffec21cebf823abc77.bin
+    projectPath: Library\ShaderCache\6\66f6b38047054fffec21cebf823abc77.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Library\ShaderCache\6\6b00585e64537cf87f7844b491740705.bin
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\6\6b00585e64537cf87f7844b491740705.bin
+    projectPath: Library\ShaderCache\6\6b00585e64537cf87f7844b491740705.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Library\ShaderCache\7\73ee08efa1a004c846f9fe3d1bc28dfe.bin
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\7\73ee08efa1a004c846f9fe3d1bc28dfe.bin
+    projectPath: Library\ShaderCache\7\73ee08efa1a004c846f9fe3d1bc28dfe.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Library\ShaderCache\8\83d61233e00b8df3660696e2bcc41a45.bin
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\8\83d61233e00b8df3660696e2bcc41a45.bin
+    projectPath: Library\ShaderCache\8\83d61233e00b8df3660696e2bcc41a45.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Library\ShaderCache\8\842952f44bdfec030baa9387d9c2e884.bin
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\8\842952f44bdfec030baa9387d9c2e884.bin
+    projectPath: Library\ShaderCache\8\842952f44bdfec030baa9387d9c2e884.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Library\ShaderCache\8\86271a46cffc9dc5d05139096af6c789.bin
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\8\86271a46cffc9dc5d05139096af6c789.bin
+    projectPath: Library\ShaderCache\8\86271a46cffc9dc5d05139096af6c789.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Library\ShaderCache\8\8a183d033f7760b9ef0a28c373820635.bin
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\8\8a183d033f7760b9ef0a28c373820635.bin
+    projectPath: Library\ShaderCache\8\8a183d033f7760b9ef0a28c373820635.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Library\ShaderCache\9\9e74e299e90128a9a54fb5bf46a12082.bin
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\9\9e74e299e90128a9a54fb5bf46a12082.bin
+    projectPath: Library\ShaderCache\9\9e74e299e90128a9a54fb5bf46a12082.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Library\ShaderCache\a\ab2ba153ee787985a59f0e674f7ad0aa.bin
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\a\ab2ba153ee787985a59f0e674f7ad0aa.bin
+    projectPath: Library\ShaderCache\a\ab2ba153ee787985a59f0e674f7ad0aa.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Library\ShaderCache\a\ad36e4b794fe89022178b89b449fafae.bin
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\a\ad36e4b794fe89022178b89b449fafae.bin
+    projectPath: Library\ShaderCache\a\ad36e4b794fe89022178b89b449fafae.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Library\ShaderCache\b\b38a7702172d8b3380a01e46acca6abc.bin
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\b\b38a7702172d8b3380a01e46acca6abc.bin
+    projectPath: Library\ShaderCache\b\b38a7702172d8b3380a01e46acca6abc.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Library\ShaderCache\b\b75e4400f066951aba1b5de3eb0a30e6.bin
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\b\b75e4400f066951aba1b5de3eb0a30e6.bin
+    projectPath: Library\ShaderCache\b\b75e4400f066951aba1b5de3eb0a30e6.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Library\ShaderCache\c\c5d551008c30074e1ca11c22eac91cd6.bin
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\c\c5d551008c30074e1ca11c22eac91cd6.bin
+    projectPath: Library\ShaderCache\c\c5d551008c30074e1ca11c22eac91cd6.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Library\ShaderCache\c\c62341298685f6fd01cffaebdc9a2dc7.bin
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\c\c62341298685f6fd01cffaebdc9a2dc7.bin
+    projectPath: Library\ShaderCache\c\c62341298685f6fd01cffaebdc9a2dc7.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Library\ShaderCache\d\d2403323a98fa04d86518d9c17049aa3.bin
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\d\d2403323a98fa04d86518d9c17049aa3.bin
+    projectPath: Library\ShaderCache\d\d2403323a98fa04d86518d9c17049aa3.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Library\ShaderCache\e\e69c752fef941bd1a5c050dc712f1eff.bin
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\e\e69c752fef941bd1a5c050dc712f1eff.bin
+    projectPath: Library\ShaderCache\e\e69c752fef941bd1a5c050dc712f1eff.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Library\ShaderCache\e\ef8681d4b52f8fe86689af2ad7fffd40.bin
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\e\ef8681d4b52f8fe86689af2ad7fffd40.bin
+    projectPath: Library\ShaderCache\e\ef8681d4b52f8fe86689af2ad7fffd40.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Library\ShaderCache\EditorEncounteredVariants
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\EditorEncounteredVariants
+    projectPath: Library\ShaderCache\EditorEncounteredVariants
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: AR-God\Library\SourceAssetDB
     fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\SourceAssetDB
     projectPath: Library\SourceAssetDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: AR-God\Library\StateCache\Hierarchy\97b062-mainStage.json
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\StateCache\Hierarchy\97b062-mainStage.json
-    projectPath: Library\StateCache\Hierarchy\97b062-mainStage.json
+  - path: AR-God\Library\StateCache\Hierarchy\bfc7b6-442e58fc1a9b09e4c8.json
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\StateCache\Hierarchy\bfc7b6-442e58fc1a9b09e4c8.json
+    projectPath: Library\StateCache\Hierarchy\bfc7b6-442e58fc1a9b09e4c8.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Library\StateCache\Hierarchy\bfc7b6-a89eef680e28b83449.json
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\StateCache\Hierarchy\bfc7b6-a89eef680e28b83449.json
+    projectPath: Library\StateCache\Hierarchy\bfc7b6-a89eef680e28b83449.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Library\StateCache\Hierarchy\bfc7b6-mainStage.json
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\StateCache\Hierarchy\bfc7b6-mainStage.json
+    projectPath: Library\StateCache\Hierarchy\bfc7b6-mainStage.json
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: AR-God\Library\StateCache\SceneView\51a48a-442e58fc1a9b09e4c8.json
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\StateCache\SceneView\51a48a-442e58fc1a9b09e4c8.json
+    projectPath: Library\StateCache\SceneView\51a48a-442e58fc1a9b09e4c8.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Library\StateCache\SceneView\51a48a-a89eef680e28b83449.json
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\StateCache\SceneView\51a48a-a89eef680e28b83449.json
+    projectPath: Library\StateCache\SceneView\51a48a-a89eef680e28b83449.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Library\StateCache\SceneView\51a48a-mainStage.json
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\StateCache\SceneView\51a48a-mainStage.json
+    projectPath: Library\StateCache\SceneView\51a48a-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AR-God\ProjectSettings\EditorSettings.asset
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\ProjectSettings\EditorSettings.asset
+    projectPath: ProjectSettings\EditorSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AR-God\Temp\__Backupscenes\0.backup
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\__Backupscenes\0.backup
+    projectPath: Temp\__Backupscenes\0.backup
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: AR-God\Temp\UnityLockfile
     fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\UnityLockfile
     projectPath: Temp\UnityLockfile
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AR-God\Temp\UnityTempFile-02b828569a531f244a614f3bf91bb50b
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\UnityTempFile-02b828569a531f244a614f3bf91bb50b
-    projectPath: Temp\UnityTempFile-02b828569a531f244a614f3bf91bb50b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AR-God\Temp\UnityTempFile-087bee0bb545a1f419598a664108b99c
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\UnityTempFile-087bee0bb545a1f419598a664108b99c
-    projectPath: Temp\UnityTempFile-087bee0bb545a1f419598a664108b99c
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AR-God\Temp\UnityTempFile-1405864c05584324ba0f2efcdc2e7b0c
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\UnityTempFile-1405864c05584324ba0f2efcdc2e7b0c
-    projectPath: Temp\UnityTempFile-1405864c05584324ba0f2efcdc2e7b0c
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AR-God\Temp\UnityTempFile-2314562923810504099b1f2ec844523a
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\UnityTempFile-2314562923810504099b1f2ec844523a
-    projectPath: Temp\UnityTempFile-2314562923810504099b1f2ec844523a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AR-God\Temp\UnityTempFile-56b0b83ed8c1a454c8e39769e57fe1c8
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\UnityTempFile-56b0b83ed8c1a454c8e39769e57fe1c8
-    projectPath: Temp\UnityTempFile-56b0b83ed8c1a454c8e39769e57fe1c8
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AR-God\Temp\UnityTempFile-63a41b6ec90803241856b6b9d2d498a3
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\UnityTempFile-63a41b6ec90803241856b6b9d2d498a3
-    projectPath: Temp\UnityTempFile-63a41b6ec90803241856b6b9d2d498a3
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AR-God\Temp\UnityTempFile-7e8b00f71c33af347ac66b1be78d7b96
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\UnityTempFile-7e8b00f71c33af347ac66b1be78d7b96
-    projectPath: Temp\UnityTempFile-7e8b00f71c33af347ac66b1be78d7b96
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AR-God\Temp\UnityTempFile-8308de8f4e4b050489df37d344a42c05
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\UnityTempFile-8308de8f4e4b050489df37d344a42c05
-    projectPath: Temp\UnityTempFile-8308de8f4e4b050489df37d344a42c05
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AR-God\Temp\UnityTempFile-87268e5761382f240809b6afc6f157b8
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\UnityTempFile-87268e5761382f240809b6afc6f157b8
-    projectPath: Temp\UnityTempFile-87268e5761382f240809b6afc6f157b8
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AR-God\Temp\UnityTempFile-8a584b00afee3d346b24f76e8b94354b
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\UnityTempFile-8a584b00afee3d346b24f76e8b94354b
-    projectPath: Temp\UnityTempFile-8a584b00afee3d346b24f76e8b94354b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AR-God\Temp\UnityTempFile-944df2bb98eef244189b6023d7e057b3
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\UnityTempFile-944df2bb98eef244189b6023d7e057b3
-    projectPath: Temp\UnityTempFile-944df2bb98eef244189b6023d7e057b3
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AR-God\Temp\UnityTempFile-99366ed2fac8383438bf43c1f990f821
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\UnityTempFile-99366ed2fac8383438bf43c1f990f821
-    projectPath: Temp\UnityTempFile-99366ed2fac8383438bf43c1f990f821
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AR-God\Temp\UnityTempFile-a422ba1fc79588242bf97aa729ee1ef2
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\UnityTempFile-a422ba1fc79588242bf97aa729ee1ef2
-    projectPath: Temp\UnityTempFile-a422ba1fc79588242bf97aa729ee1ef2
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AR-God\Temp\UnityTempFile-e29f65e340069924290e8de92b569edd
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\UnityTempFile-e29f65e340069924290e8de92b569edd
-    projectPath: Temp\UnityTempFile-e29f65e340069924290e8de92b569edd
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AR-God\Temp\UnityTempFile-e38494fe0fa302749a729f29520ce92c
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\UnityTempFile-e38494fe0fa302749a729f29520ce92c
-    projectPath: Temp\UnityTempFile-e38494fe0fa302749a729f29520ce92c
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AR-God\Temp\UnityTempFile-ec9636bbe4979b34da734737df94b20b
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\UnityTempFile-ec9636bbe4979b34da734737df94b20b
-    projectPath: Temp\UnityTempFile-ec9636bbe4979b34da734737df94b20b
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
