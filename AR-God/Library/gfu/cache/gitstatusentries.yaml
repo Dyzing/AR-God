@@ -9,1116 +9,2458 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 995438498, guid: 60d420954e934404d89df943aaa1f550, type: 3}
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2021-02-06T17:19:06.590+01:00
-  initializedAtString: 2021-02-06T16:30:09.011+01:00
+  lastUpdatedAtString: 2021-02-06T20:28:28.052+01:00
+  initializedAtString: 2021-02-06T19:49:18.564+01:00
   entries:
   - path: AR-God\AR-God.sln
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\AR-God.sln
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\AR-God.sln
     projectPath: AR-God.sln
     originalPath: 
-    indexStatus: 3
+    indexStatus: 0
     workTreeStatus: 3
   - path: AR-God\Assembly-CSharp.csproj
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assembly-CSharp.csproj
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assembly-CSharp.csproj
     projectPath: Assembly-CSharp.csproj
     originalPath: 
-    indexStatus: 9
-    workTreeStatus: 9
+    indexStatus: 0
+    workTreeStatus: 3
   - path: AR-God\Assembly-CSharp-Editor.csproj
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assembly-CSharp-Editor.csproj
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assembly-CSharp-Editor.csproj
     projectPath: Assembly-CSharp-Editor.csproj
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: AR-God\Assembly-CSharp-Editor-firstpass.csproj
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assembly-CSharp-Editor-firstpass.csproj
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assembly-CSharp-Editor-firstpass.csproj
     projectPath: Assembly-CSharp-Editor-firstpass.csproj
     originalPath: 
-    indexStatus: 3
+    indexStatus: 0
     workTreeStatus: 3
-  - path: AR-God\Assets\_TerrainAutoUpgrade\layer_CliffAlbedoSpecularcc0f254a2c535401.terrainlayer
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\_TerrainAutoUpgrade\layer_CliffAlbedoSpecularcc0f254a2c535401.terrainlayer
-    projectPath: Assets\_TerrainAutoUpgrade\layer_CliffAlbedoSpecularcc0f254a2c535401.terrainlayer
+  - path: AR-God\Assets\52SpecialEffectPack\Animation&Script\csAnimationSpin.cs
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Animation&Script\csAnimationSpin.cs
+    projectPath: Assets\52SpecialEffectPack\Animation&Script\csAnimationSpin.cs
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Assets\_TerrainAutoUpgrade\layer_GrassHillAlbedocc0f254a2c535401.terrainlayer
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\_TerrainAutoUpgrade\layer_GrassHillAlbedocc0f254a2c535401.terrainlayer
-    projectPath: Assets\_TerrainAutoUpgrade\layer_GrassHillAlbedocc0f254a2c535401.terrainlayer
+  - path: AR-God\Assets\52SpecialEffectPack\Animation&Script\csDestroyEffect.cs
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Animation&Script\csDestroyEffect.cs
+    projectPath: Assets\52SpecialEffectPack\Animation&Script\csDestroyEffect.cs
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Assets\_TerrainAutoUpgrade\layer_MudRockyAlbedoSpecularMudRockyNormalsb3407d0e55802f81.terrainlayer
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\_TerrainAutoUpgrade\layer_MudRockyAlbedoSpecularMudRockyNormalsb3407d0e55802f81.terrainlayer
-    projectPath: Assets\_TerrainAutoUpgrade\layer_MudRockyAlbedoSpecularMudRockyNormalsb3407d0e55802f81.terrainlayer
+  - path: AR-God\Assets\52SpecialEffectPack\Animation&Script\csMouseOrbit.cs
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Animation&Script\csMouseOrbit.cs
+    projectPath: Assets\52SpecialEffectPack\Animation&Script\csMouseOrbit.cs
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Assets\_TerrainAutoUpgrade\layer_SandAlbedocc0f254a2c535401.terrainlayer
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\_TerrainAutoUpgrade\layer_SandAlbedocc0f254a2c535401.terrainlayer
-    projectPath: Assets\_TerrainAutoUpgrade\layer_SandAlbedocc0f254a2c535401.terrainlayer
+  - path: AR-God\Assets\52SpecialEffectPack\Animation&Script\csParticleMove.cs
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Animation&Script\csParticleMove.cs
+    projectPath: Assets\52SpecialEffectPack\Animation&Script\csParticleMove.cs
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Assets\FROOD\Materials\Apple.mat
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\FROOD\Materials\Apple.mat
-    projectPath: Assets\FROOD\Materials\Apple.mat
+  - path: AR-God\Assets\52SpecialEffectPack\Animation&Script\csShowAllEffect.cs
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Animation&Script\csShowAllEffect.cs
+    projectPath: Assets\52SpecialEffectPack\Animation&Script\csShowAllEffect.cs
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Assets\FROOD\Materials\Bone.mat
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\FROOD\Materials\Bone.mat
-    projectPath: Assets\FROOD\Materials\Bone.mat
+  - path: AR-God\Assets\52SpecialEffectPack\Animation&Script\Spin.anim
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Animation&Script\Spin.anim
+    projectPath: Assets\52SpecialEffectPack\Animation&Script\Spin.anim
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Assets\FROOD\Materials\Bottle.mat
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\FROOD\Materials\Bottle.mat
-    projectPath: Assets\FROOD\Materials\Bottle.mat
+  - path: AR-God\Assets\52SpecialEffectPack\Animation&Script\Spin2.anim
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Animation&Script\Spin2.anim
+    projectPath: Assets\52SpecialEffectPack\Animation&Script\Spin2.anim
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Assets\FROOD\Materials\Cake.mat
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\FROOD\Materials\Cake.mat
-    projectPath: Assets\FROOD\Materials\Cake.mat
+  - path: AR-God\Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\BlueBall.prefab
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\BlueBall.prefab
+    projectPath: Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\BlueBall.prefab
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Assets\FROOD\Materials\Cake2.mat
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\FROOD\Materials\Cake2.mat
-    projectPath: Assets\FROOD\Materials\Cake2.mat
+  - path: AR-God\Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\DeadBall.prefab
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\DeadBall.prefab
+    projectPath: Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\DeadBall.prefab
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Assets\FROOD\Materials\Cake3.mat
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\FROOD\Materials\Cake3.mat
-    projectPath: Assets\FROOD\Materials\Cake3.mat
+  - path: AR-God\Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\DeadExplode.prefab
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\DeadExplode.prefab
+    projectPath: Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\DeadExplode.prefab
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Assets\FROOD\Materials\Cap.mat
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\FROOD\Materials\Cap.mat
-    projectPath: Assets\FROOD\Materials\Cap.mat
+  - path: AR-God\Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\ElementalArrow.prefab
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\ElementalArrow.prefab
+    projectPath: Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\ElementalArrow.prefab
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Assets\FROOD\Materials\Chocolate.mat
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\FROOD\Materials\Chocolate.mat
-    projectPath: Assets\FROOD\Materials\Chocolate.mat
+  - path: AR-God\Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\ElementalArrow2.prefab
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\ElementalArrow2.prefab
+    projectPath: Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\ElementalArrow2.prefab
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Assets\FROOD\Materials\Cookie.mat
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\FROOD\Materials\Cookie.mat
-    projectPath: Assets\FROOD\Materials\Cookie.mat
+  - path: AR-God\Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\ElementalBall.prefab
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\ElementalBall.prefab
+    projectPath: Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\ElementalBall.prefab
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Assets\FROOD\Materials\Drink1.mat
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\FROOD\Materials\Drink1.mat
-    projectPath: Assets\FROOD\Materials\Drink1.mat
+  - path: AR-God\Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\ElementalBall2.prefab
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\ElementalBall2.prefab
+    projectPath: Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\ElementalBall2.prefab
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Assets\FROOD\Materials\Drink2.mat
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\FROOD\Materials\Drink2.mat
-    projectPath: Assets\FROOD\Materials\Drink2.mat
+  - path: AR-God\Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\ElementalBall3.prefab
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\ElementalBall3.prefab
+    projectPath: Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\ElementalBall3.prefab
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Assets\FROOD\Materials\Floor.mat
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\FROOD\Materials\Floor.mat
-    projectPath: Assets\FROOD\Materials\Floor.mat
+  - path: AR-God\Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\ElementalBall4.prefab
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\ElementalBall4.prefab
+    projectPath: Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\ElementalBall4.prefab
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Assets\FROOD\Materials\Ham.mat
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\FROOD\Materials\Ham.mat
-    projectPath: Assets\FROOD\Materials\Ham.mat
+  - path: AR-God\Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\Explode.prefab
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\Explode.prefab
+    projectPath: Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\Explode.prefab
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Assets\FROOD\Materials\HamBone.mat
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\FROOD\Materials\HamBone.mat
-    projectPath: Assets\FROOD\Materials\HamBone.mat
+  - path: AR-God\Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\Explode10.prefab
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\Explode10.prefab
+    projectPath: Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\Explode10.prefab
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Assets\FROOD\Materials\HamRed.mat
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\FROOD\Materials\HamRed.mat
-    projectPath: Assets\FROOD\Materials\HamRed.mat
+  - path: AR-God\Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\Explode11.prefab
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\Explode11.prefab
+    projectPath: Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\Explode11.prefab
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Assets\FROOD\Materials\LiquidBlue.mat
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\FROOD\Materials\LiquidBlue.mat
-    projectPath: Assets\FROOD\Materials\LiquidBlue.mat
+  - path: AR-God\Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\Explode2.prefab
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\Explode2.prefab
+    projectPath: Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\Explode2.prefab
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Assets\FROOD\Materials\LiquidGreen.mat
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\FROOD\Materials\LiquidGreen.mat
-    projectPath: Assets\FROOD\Materials\LiquidGreen.mat
+  - path: AR-God\Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\Explode3.prefab
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\Explode3.prefab
+    projectPath: Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\Explode3.prefab
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Assets\FROOD\Materials\LiquidRed.mat
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\FROOD\Materials\LiquidRed.mat
-    projectPath: Assets\FROOD\Materials\LiquidRed.mat
+  - path: AR-God\Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\Explode4.prefab
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\Explode4.prefab
+    projectPath: Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\Explode4.prefab
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Assets\FROOD\Materials\Meat.mat
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\FROOD\Materials\Meat.mat
-    projectPath: Assets\FROOD\Materials\Meat.mat
+  - path: AR-God\Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\Explode5.prefab
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\Explode5.prefab
+    projectPath: Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\Explode5.prefab
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Assets\FROOD\Materials\Rice.mat
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\FROOD\Materials\Rice.mat
-    projectPath: Assets\FROOD\Materials\Rice.mat
+  - path: AR-God\Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\Explode6.prefab
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\Explode6.prefab
+    projectPath: Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\Explode6.prefab
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Assets\FROOD\Materials\Seed.mat
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\FROOD\Materials\Seed.mat
-    projectPath: Assets\FROOD\Materials\Seed.mat
+  - path: AR-God\Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\Explode7.prefab
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\Explode7.prefab
+    projectPath: Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\Explode7.prefab
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Assets\FROOD\Materials\Stalk.mat
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\FROOD\Materials\Stalk.mat
-    projectPath: Assets\FROOD\Materials\Stalk.mat
+  - path: AR-God\Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\Explode8.prefab
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\Explode8.prefab
+    projectPath: Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\Explode8.prefab
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Assets\FROOD\Materials\Strawberry.mat
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\FROOD\Materials\Strawberry.mat
-    projectPath: Assets\FROOD\Materials\Strawberry.mat
+  - path: AR-God\Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\Explode9.prefab
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\Explode9.prefab
+    projectPath: Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\Explode9.prefab
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Assets\FROOD\Materials\Watermelon.mat
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\FROOD\Materials\Watermelon.mat
-    projectPath: Assets\FROOD\Materials\Watermelon.mat
+  - path: AR-God\Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\FireBall.prefab
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\FireBall.prefab
+    projectPath: Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\FireBall.prefab
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Assets\FROOD\Materials\Watermelon2.mat
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\FROOD\Materials\Watermelon2.mat
-    projectPath: Assets\FROOD\Materials\Watermelon2.mat
+  - path: AR-God\Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\FlameEmission.prefab
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\FlameEmission.prefab
+    projectPath: Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\FlameEmission.prefab
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Assets\FROOD\Materials\Watermelon3.mat
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\FROOD\Materials\Watermelon3.mat
-    projectPath: Assets\FROOD\Materials\Watermelon3.mat
+  - path: AR-God\Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\Hole.prefab
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\Hole.prefab
+    projectPath: Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\Hole.prefab
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Assets\FROOD\Materials\Watermelon4.mat
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\FROOD\Materials\Watermelon4.mat
-    projectPath: Assets\FROOD\Materials\Watermelon4.mat
+  - path: AR-God\Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\IceBall.prefab
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\IceBall.prefab
+    projectPath: Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\IceBall.prefab
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Assets\FROOD\Materials\Wrap.mat
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\FROOD\Materials\Wrap.mat
-    projectPath: Assets\FROOD\Materials\Wrap.mat
+  - path: AR-God\Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\IceCloud.prefab
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\IceCloud.prefab
+    projectPath: Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\IceCloud.prefab
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Assets\FROOD\Models\Apple.fbx
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\FROOD\Models\Apple.fbx
-    projectPath: Assets\FROOD\Models\Apple.fbx
+  - path: AR-God\Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\Kunai.prefab
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\Kunai.prefab
+    projectPath: Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\Kunai.prefab
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Assets\FROOD\Models\BigBottle.fbx
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\FROOD\Models\BigBottle.fbx
-    projectPath: Assets\FROOD\Models\BigBottle.fbx
+  - path: AR-God\Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\Kunai2.prefab
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\Kunai2.prefab
+    projectPath: Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\Kunai2.prefab
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Assets\FROOD\Models\Bottle.fbx
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\FROOD\Models\Bottle.fbx
-    projectPath: Assets\FROOD\Models\Bottle.fbx
+  - path: AR-God\Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\Kunai3.prefab
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\Kunai3.prefab
+    projectPath: Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\Kunai3.prefab
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Assets\FROOD\Models\Cake.fbx
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\FROOD\Models\Cake.fbx
-    projectPath: Assets\FROOD\Models\Cake.fbx
+  - path: AR-God\Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\Kunai4.prefab
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\Kunai4.prefab
+    projectPath: Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\Kunai4.prefab
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Assets\FROOD\Models\Cookie.fbx
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\FROOD\Models\Cookie.fbx
-    projectPath: Assets\FROOD\Models\Cookie.fbx
+  - path: AR-God\Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\Kunai5.prefab
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\Kunai5.prefab
+    projectPath: Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\Kunai5.prefab
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Assets\FROOD\Models\Drink.fbx
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\FROOD\Models\Drink.fbx
-    projectPath: Assets\FROOD\Models\Drink.fbx
+  - path: AR-God\Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\LaserFire.prefab
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\LaserFire.prefab
+    projectPath: Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\LaserFire.prefab
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Assets\FROOD\Models\Ham.fbx
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\FROOD\Models\Ham.fbx
-    projectPath: Assets\FROOD\Models\Ham.fbx
+  - path: AR-God\Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\LaserFire2.prefab
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\LaserFire2.prefab
+    projectPath: Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\LaserFire2.prefab
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Assets\FROOD\Models\Onigiri.fbx
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\FROOD\Models\Onigiri.fbx
-    projectPath: Assets\FROOD\Models\Onigiri.fbx
+  - path: AR-God\Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\LightningBall.prefab
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\LightningBall.prefab
+    projectPath: Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\LightningBall.prefab
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Assets\FROOD\Models\Steack.fbx
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\FROOD\Models\Steack.fbx
-    projectPath: Assets\FROOD\Models\Steack.fbx
+  - path: AR-God\Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\LightningBall2.prefab
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\LightningBall2.prefab
+    projectPath: Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\LightningBall2.prefab
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Assets\FROOD\Models\Watermelon.fbx
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\FROOD\Models\Watermelon.fbx
-    projectPath: Assets\FROOD\Models\Watermelon.fbx
+  - path: AR-God\Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\LightningRotateBall.prefab
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\LightningRotateBall.prefab
+    projectPath: Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\LightningRotateBall.prefab
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Assets\FROOD\Prefabs\Apple.prefab
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\FROOD\Prefabs\Apple.prefab
-    projectPath: Assets\FROOD\Prefabs\Apple.prefab
+  - path: AR-God\Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\LigthningArrow.prefab
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\LigthningArrow.prefab
+    projectPath: Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\LigthningArrow.prefab
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Assets\FROOD\Prefabs\BigBottle.prefab
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\FROOD\Prefabs\BigBottle.prefab
-    projectPath: Assets\FROOD\Prefabs\BigBottle.prefab
+  - path: AR-God\Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\MagicCircleExplode.prefab
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\MagicCircleExplode.prefab
+    projectPath: Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\MagicCircleExplode.prefab
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Assets\FROOD\Prefabs\Bottle.prefab
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\FROOD\Prefabs\Bottle.prefab
-    projectPath: Assets\FROOD\Prefabs\Bottle.prefab
+  - path: AR-God\Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\MagicCircleRelease.prefab
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\MagicCircleRelease.prefab
+    projectPath: Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\MagicCircleRelease.prefab
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Assets\FROOD\Prefabs\Cake.prefab
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\FROOD\Prefabs\Cake.prefab
-    projectPath: Assets\FROOD\Prefabs\Cake.prefab
+  - path: AR-God\Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\MagicCube.prefab
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\MagicCube.prefab
+    projectPath: Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\MagicCube.prefab
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Assets\FROOD\Prefabs\Cookie.prefab
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\FROOD\Prefabs\Cookie.prefab
-    projectPath: Assets\FROOD\Prefabs\Cookie.prefab
+  - path: AR-God\Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\Pluie.prefab
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\Pluie.prefab
+    projectPath: Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\Pluie.prefab
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Assets\FROOD\Prefabs\Drink.prefab
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\FROOD\Prefabs\Drink.prefab
-    projectPath: Assets\FROOD\Prefabs\Drink.prefab
+  - path: AR-God\Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\PoisonExplode.prefab
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\PoisonExplode.prefab
+    projectPath: Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\PoisonExplode.prefab
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Assets\FROOD\Prefabs\Ham.prefab
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\FROOD\Prefabs\Ham.prefab
-    projectPath: Assets\FROOD\Prefabs\Ham.prefab
+  - path: AR-God\Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\Portal.prefab
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\Portal.prefab
+    projectPath: Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\Portal.prefab
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Assets\FROOD\Prefabs\Onigiri.prefab
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\FROOD\Prefabs\Onigiri.prefab
-    projectPath: Assets\FROOD\Prefabs\Onigiri.prefab
+  - path: AR-God\Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\Portal2.prefab
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\Portal2.prefab
+    projectPath: Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\Portal2.prefab
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Assets\FROOD\Prefabs\Steack.prefab
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\FROOD\Prefabs\Steack.prefab
-    projectPath: Assets\FROOD\Prefabs\Steack.prefab
+  - path: AR-God\Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\RainbowExplode.prefab
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\RainbowExplode.prefab
+    projectPath: Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\RainbowExplode.prefab
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Assets\FROOD\Prefabs\Watermelon.prefab
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\FROOD\Prefabs\Watermelon.prefab
-    projectPath: Assets\FROOD\Prefabs\Watermelon.prefab
+  - path: AR-God\Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\RainbowExplode2.prefab
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\RainbowExplode2.prefab
+    projectPath: Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\RainbowExplode2.prefab
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Assets\FROOD\Scenes\DemoScene.unity
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\FROOD\Scenes\DemoScene.unity
-    projectPath: Assets\FROOD\Scenes\DemoScene.unity
+  - path: AR-God\Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\RuneOfMagic.prefab
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\RuneOfMagic.prefab
+    projectPath: Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\RuneOfMagic.prefab
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Assets\FROOD\Scripts\Spin.cs
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\FROOD\Scripts\Spin.cs
-    projectPath: Assets\FROOD\Scripts\Spin.cs
+  - path: AR-God\Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\StarCore.prefab
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\StarCore.prefab
+    projectPath: Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\StarCore.prefab
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Assets\Island.zip
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Island.zip
-    projectPath: Assets\Island.zip
+  - path: AR-God\Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\StormCloud.prefab
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\StormCloud.prefab
+    projectPath: Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\StormCloud.prefab
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Assets\Island\Prefabs\Pluie.prefab
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Island\Prefabs\Pluie.prefab
-    projectPath: Assets\Island\Prefabs\Pluie.prefab
+  - path: AR-God\Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\SummonMagicCircle.prefab
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\SummonMagicCircle.prefab
+    projectPath: Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\SummonMagicCircle.prefab
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Assets\Island\Prefabs\Scripts\BateauMove.cs
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Island\Prefabs\Scripts\BateauMove.cs
-    projectPath: Assets\Island\Prefabs\Scripts\BateauMove.cs
+  - path: AR-God\Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\SummonMagicCircle2.prefab
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\SummonMagicCircle2.prefab
+    projectPath: Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\SummonMagicCircle2.prefab
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Assets\Island\Prefabs\Scripts\Canvas Script\PauseMenuScript.cs
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Island\Prefabs\Scripts\Canvas
-      Script\PauseMenuScript.cs
-    projectPath: Assets\Island\Prefabs\Scripts\Canvas Script\PauseMenuScript.cs
+  - path: AR-God\Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\SummonMagicCircle3.prefab
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\SummonMagicCircle3.prefab
+    projectPath: Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\SummonMagicCircle3.prefab
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Assets\Island\Prefabs\Scripts\Canvas Script\Quitter.cs
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Island\Prefabs\Scripts\Canvas
-      Script\Quitter.cs
-    projectPath: Assets\Island\Prefabs\Scripts\Canvas Script\Quitter.cs
+  - path: AR-God\Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\Swamp.prefab
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\Swamp.prefab
+    projectPath: Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\Swamp.prefab
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Assets\Island\Prefabs\Scripts\ClickAndGo.cs
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Island\Prefabs\Scripts\ClickAndGo.cs
-    projectPath: Assets\Island\Prefabs\Scripts\ClickAndGo.cs
+  - path: AR-God\Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\SwampBall.prefab
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\SwampBall.prefab
+    projectPath: Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\SwampBall.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\WaterEffect.prefab
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\WaterEffect.prefab
+    projectPath: Assets\52SpecialEffectPack\Effect\Effect(Shuriken)\WaterEffect.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\52SpecialEffectPack\EffectEditor\ShurikenEffectEditor\csShurikenEffectChanger.cs
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\EffectEditor\ShurikenEffectEditor\csShurikenEffectChanger.cs
+    projectPath: Assets\52SpecialEffectPack\EffectEditor\ShurikenEffectEditor\csShurikenEffectChanger.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\52SpecialEffectPack\EffectEditor\ShurikenEffectEditor\csShurikenEffectEditor.cs
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\EffectEditor\ShurikenEffectEditor\csShurikenEffectEditor.cs
+    projectPath: Assets\52SpecialEffectPack\EffectEditor\ShurikenEffectEditor\csShurikenEffectEditor.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\52SpecialEffectPack\EffectEditor\ShurikenEffectEditor\Shuriken
+      Effect Editor Manual.pdf
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\EffectEditor\ShurikenEffectEditor\Shuriken
+      Effect Editor Manual.pdf
+    projectPath: Assets\52SpecialEffectPack\EffectEditor\ShurikenEffectEditor\Shuriken
+      Effect Editor Manual.pdf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\52SpecialEffectPack\SampleScence.unity
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\SampleScence.unity
+    projectPath: Assets\52SpecialEffectPack\SampleScence.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\52SpecialEffectPack\Texture\Arrow.mat
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Texture\Arrow.mat
+    projectPath: Assets\52SpecialEffectPack\Texture\Arrow.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\52SpecialEffectPack\Texture\Arrow.png
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Texture\Arrow.png
+    projectPath: Assets\52SpecialEffectPack\Texture\Arrow.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\52SpecialEffectPack\Texture\black.mat
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Texture\black.mat
+    projectPath: Assets\52SpecialEffectPack\Texture\black.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\52SpecialEffectPack\Texture\Core.mat
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Texture\Core.mat
+    projectPath: Assets\52SpecialEffectPack\Texture\Core.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\52SpecialEffectPack\Texture\Core.png
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Texture\Core.png
+    projectPath: Assets\52SpecialEffectPack\Texture\Core.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\52SpecialEffectPack\Texture\Core2.mat
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Texture\Core2.mat
+    projectPath: Assets\52SpecialEffectPack\Texture\Core2.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\52SpecialEffectPack\Texture\Core2.png
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Texture\Core2.png
+    projectPath: Assets\52SpecialEffectPack\Texture\Core2.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\52SpecialEffectPack\Texture\Core3.mat
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Texture\Core3.mat
+    projectPath: Assets\52SpecialEffectPack\Texture\Core3.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\52SpecialEffectPack\Texture\Core3.png
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Texture\Core3.png
+    projectPath: Assets\52SpecialEffectPack\Texture\Core3.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\52SpecialEffectPack\Texture\Core4.mat
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Texture\Core4.mat
+    projectPath: Assets\52SpecialEffectPack\Texture\Core4.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\52SpecialEffectPack\Texture\Kunai.mat
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Texture\Kunai.mat
+    projectPath: Assets\52SpecialEffectPack\Texture\Kunai.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\52SpecialEffectPack\Texture\Kunai.png
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Texture\Kunai.png
+    projectPath: Assets\52SpecialEffectPack\Texture\Kunai.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\52SpecialEffectPack\Texture\Kunai2.mat
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Texture\Kunai2.mat
+    projectPath: Assets\52SpecialEffectPack\Texture\Kunai2.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\52SpecialEffectPack\Texture\Kunai2.png
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Texture\Kunai2.png
+    projectPath: Assets\52SpecialEffectPack\Texture\Kunai2.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\52SpecialEffectPack\Texture\Laser.mat
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Texture\Laser.mat
+    projectPath: Assets\52SpecialEffectPack\Texture\Laser.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\52SpecialEffectPack\Texture\Laser.png
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Texture\Laser.png
+    projectPath: Assets\52SpecialEffectPack\Texture\Laser.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\52SpecialEffectPack\Texture\Laser2.mat
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Texture\Laser2.mat
+    projectPath: Assets\52SpecialEffectPack\Texture\Laser2.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\52SpecialEffectPack\Texture\Laser2.png
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Texture\Laser2.png
+    projectPath: Assets\52SpecialEffectPack\Texture\Laser2.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\52SpecialEffectPack\Texture\Light.mat
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Texture\Light.mat
+    projectPath: Assets\52SpecialEffectPack\Texture\Light.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\52SpecialEffectPack\Texture\Light.png
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Texture\Light.png
+    projectPath: Assets\52SpecialEffectPack\Texture\Light.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\52SpecialEffectPack\Texture\Light2.png
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Texture\Light2.png
+    projectPath: Assets\52SpecialEffectPack\Texture\Light2.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\52SpecialEffectPack\Texture\Light3.mat
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Texture\Light3.mat
+    projectPath: Assets\52SpecialEffectPack\Texture\Light3.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\52SpecialEffectPack\Texture\Light3.png
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Texture\Light3.png
+    projectPath: Assets\52SpecialEffectPack\Texture\Light3.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\52SpecialEffectPack\Texture\Line.mat
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Texture\Line.mat
+    projectPath: Assets\52SpecialEffectPack\Texture\Line.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\52SpecialEffectPack\Texture\Line.png
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Texture\Line.png
+    projectPath: Assets\52SpecialEffectPack\Texture\Line.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\52SpecialEffectPack\Texture\Line2.mat
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Texture\Line2.mat
+    projectPath: Assets\52SpecialEffectPack\Texture\Line2.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\52SpecialEffectPack\Texture\Line2.png
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Texture\Line2.png
+    projectPath: Assets\52SpecialEffectPack\Texture\Line2.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\52SpecialEffectPack\Texture\Line3.mat
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Texture\Line3.mat
+    projectPath: Assets\52SpecialEffectPack\Texture\Line3.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\52SpecialEffectPack\Texture\Line3.png
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Texture\Line3.png
+    projectPath: Assets\52SpecialEffectPack\Texture\Line3.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\52SpecialEffectPack\Texture\MagicCircle.mat
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Texture\MagicCircle.mat
+    projectPath: Assets\52SpecialEffectPack\Texture\MagicCircle.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\52SpecialEffectPack\Texture\MagicCircle.png
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Texture\MagicCircle.png
+    projectPath: Assets\52SpecialEffectPack\Texture\MagicCircle.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\52SpecialEffectPack\Texture\MagicCircle2.mat
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Texture\MagicCircle2.mat
+    projectPath: Assets\52SpecialEffectPack\Texture\MagicCircle2.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\52SpecialEffectPack\Texture\MagicCircle2.png
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Texture\MagicCircle2.png
+    projectPath: Assets\52SpecialEffectPack\Texture\MagicCircle2.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\52SpecialEffectPack\Texture\MagicCircle3.mat
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Texture\MagicCircle3.mat
+    projectPath: Assets\52SpecialEffectPack\Texture\MagicCircle3.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\52SpecialEffectPack\Texture\MagicCircle3.png
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Texture\MagicCircle3.png
+    projectPath: Assets\52SpecialEffectPack\Texture\MagicCircle3.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\52SpecialEffectPack\Texture\MagicCircle4.mat
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Texture\MagicCircle4.mat
+    projectPath: Assets\52SpecialEffectPack\Texture\MagicCircle4.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\52SpecialEffectPack\Texture\MagicCircle4.png
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Texture\MagicCircle4.png
+    projectPath: Assets\52SpecialEffectPack\Texture\MagicCircle4.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\52SpecialEffectPack\Texture\MagicLine.mat
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Texture\MagicLine.mat
+    projectPath: Assets\52SpecialEffectPack\Texture\MagicLine.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\52SpecialEffectPack\Texture\MagicLine.png
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Texture\MagicLine.png
+    projectPath: Assets\52SpecialEffectPack\Texture\MagicLine.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\52SpecialEffectPack\Texture\Ring.mat
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Texture\Ring.mat
+    projectPath: Assets\52SpecialEffectPack\Texture\Ring.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\52SpecialEffectPack\Texture\Ring.png
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Texture\Ring.png
+    projectPath: Assets\52SpecialEffectPack\Texture\Ring.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\52SpecialEffectPack\Texture\Ring2.mat
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Texture\Ring2.mat
+    projectPath: Assets\52SpecialEffectPack\Texture\Ring2.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\52SpecialEffectPack\Texture\Ring2.png
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Texture\Ring2.png
+    projectPath: Assets\52SpecialEffectPack\Texture\Ring2.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\52SpecialEffectPack\Texture\Ring3.mat
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Texture\Ring3.mat
+    projectPath: Assets\52SpecialEffectPack\Texture\Ring3.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\52SpecialEffectPack\Texture\Ring3.png
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Texture\Ring3.png
+    projectPath: Assets\52SpecialEffectPack\Texture\Ring3.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\52SpecialEffectPack\Texture\Ring4.mat
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Texture\Ring4.mat
+    projectPath: Assets\52SpecialEffectPack\Texture\Ring4.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\52SpecialEffectPack\Texture\Ring4.png
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Texture\Ring4.png
+    projectPath: Assets\52SpecialEffectPack\Texture\Ring4.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\52SpecialEffectPack\Texture\Ring5.mat
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Texture\Ring5.mat
+    projectPath: Assets\52SpecialEffectPack\Texture\Ring5.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\52SpecialEffectPack\Texture\Ring5.png
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Texture\Ring5.png
+    projectPath: Assets\52SpecialEffectPack\Texture\Ring5.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\52SpecialEffectPack\Texture\Ring6.mat
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Texture\Ring6.mat
+    projectPath: Assets\52SpecialEffectPack\Texture\Ring6.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\52SpecialEffectPack\Texture\Ring6.png
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Texture\Ring6.png
+    projectPath: Assets\52SpecialEffectPack\Texture\Ring6.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\52SpecialEffectPack\Texture\Ring7.mat
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Texture\Ring7.mat
+    projectPath: Assets\52SpecialEffectPack\Texture\Ring7.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\52SpecialEffectPack\Texture\Ring7.png
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Texture\Ring7.png
+    projectPath: Assets\52SpecialEffectPack\Texture\Ring7.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\52SpecialEffectPack\Texture\Smoke.mat
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Texture\Smoke.mat
+    projectPath: Assets\52SpecialEffectPack\Texture\Smoke.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\52SpecialEffectPack\Texture\Smoke.png
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Texture\Smoke.png
+    projectPath: Assets\52SpecialEffectPack\Texture\Smoke.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\52SpecialEffectPack\Texture\Smoke2.mat
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Texture\Smoke2.mat
+    projectPath: Assets\52SpecialEffectPack\Texture\Smoke2.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\52SpecialEffectPack\Texture\Smoke2.png
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Texture\Smoke2.png
+    projectPath: Assets\52SpecialEffectPack\Texture\Smoke2.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\52SpecialEffectPack\Texture\Smoke3.mat
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Texture\Smoke3.mat
+    projectPath: Assets\52SpecialEffectPack\Texture\Smoke3.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\52SpecialEffectPack\Texture\Smoke3.png
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Texture\Smoke3.png
+    projectPath: Assets\52SpecialEffectPack\Texture\Smoke3.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\52SpecialEffectPack\Texture\Spark.mat
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Texture\Spark.mat
+    projectPath: Assets\52SpecialEffectPack\Texture\Spark.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\52SpecialEffectPack\Texture\Spark.png
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Texture\Spark.png
+    projectPath: Assets\52SpecialEffectPack\Texture\Spark.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\52SpecialEffectPack\Texture\Spark2.mat
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Texture\Spark2.mat
+    projectPath: Assets\52SpecialEffectPack\Texture\Spark2.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\52SpecialEffectPack\Texture\Spark2.png
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Texture\Spark2.png
+    projectPath: Assets\52SpecialEffectPack\Texture\Spark2.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\52SpecialEffectPack\Texture\Spark3.mat
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Texture\Spark3.mat
+    projectPath: Assets\52SpecialEffectPack\Texture\Spark3.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\52SpecialEffectPack\Texture\Spark3.png
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Texture\Spark3.png
+    projectPath: Assets\52SpecialEffectPack\Texture\Spark3.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\52SpecialEffectPack\Texture\Spark4.mat
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Texture\Spark4.mat
+    projectPath: Assets\52SpecialEffectPack\Texture\Spark4.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\52SpecialEffectPack\Texture\Spark4.png
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Texture\Spark4.png
+    projectPath: Assets\52SpecialEffectPack\Texture\Spark4.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\52SpecialEffectPack\Texture\Spark5.mat
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Texture\Spark5.mat
+    projectPath: Assets\52SpecialEffectPack\Texture\Spark5.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\52SpecialEffectPack\Texture\Spark5.png
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Texture\Spark5.png
+    projectPath: Assets\52SpecialEffectPack\Texture\Spark5.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\52SpecialEffectPack\Texture\Spark6.mat
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Texture\Spark6.mat
+    projectPath: Assets\52SpecialEffectPack\Texture\Spark6.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\52SpecialEffectPack\Texture\Spark6.png
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Texture\Spark6.png
+    projectPath: Assets\52SpecialEffectPack\Texture\Spark6.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\52SpecialEffectPack\Texture\Star.mat
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Texture\Star.mat
+    projectPath: Assets\52SpecialEffectPack\Texture\Star.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\52SpecialEffectPack\Texture\Star.png
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Texture\Star.png
+    projectPath: Assets\52SpecialEffectPack\Texture\Star.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\52SpecialEffectPack\Texture\Star2.mat
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Texture\Star2.mat
+    projectPath: Assets\52SpecialEffectPack\Texture\Star2.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\52SpecialEffectPack\Texture\Star2.png
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Texture\Star2.png
+    projectPath: Assets\52SpecialEffectPack\Texture\Star2.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\52SpecialEffectPack\Texture\Star3.mat
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Texture\Star3.mat
+    projectPath: Assets\52SpecialEffectPack\Texture\Star3.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\52SpecialEffectPack\Texture\Star3.png
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Texture\Star3.png
+    projectPath: Assets\52SpecialEffectPack\Texture\Star3.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\52SpecialEffectPack\Texture\Star4.mat
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Texture\Star4.mat
+    projectPath: Assets\52SpecialEffectPack\Texture\Star4.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\52SpecialEffectPack\Texture\Star4.png
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Texture\Star4.png
+    projectPath: Assets\52SpecialEffectPack\Texture\Star4.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\52SpecialEffectPack\Texture\Star5.mat
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Texture\Star5.mat
+    projectPath: Assets\52SpecialEffectPack\Texture\Star5.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\52SpecialEffectPack\Texture\Star5.png
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\52SpecialEffectPack\Texture\Star5.png
+    projectPath: Assets\52SpecialEffectPack\Texture\Star5.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
   - path: AR-God\Assets\Island\Prefabs\Scripts\DeathZone.cs
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Island\Prefabs\Scripts\DeathZone.cs
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\Island\Prefabs\Scripts\DeathZone.cs
     projectPath: Assets\Island\Prefabs\Scripts\DeathZone.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AR-God\Assets\Island\Prefabs\Scripts\FallingObjects.cs
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Island\Prefabs\Scripts\FallingObjects.cs
-    projectPath: Assets\Island\Prefabs\Scripts\FallingObjects.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AR-God\Assets\Island\Prefabs\Scripts\PlayerController.cs
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Island\Prefabs\Scripts\PlayerController.cs
-    projectPath: Assets\Island\Prefabs\Scripts\PlayerController.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AR-God\Assets\Island\Prefabs\Scripts\Spawner.cs
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Island\Prefabs\Scripts\Spawner.cs
-    projectPath: Assets\Island\Prefabs\Scripts\Spawner.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AR-God\Assets\Island\Prefabs\Scripts\WaterFlooding.cs
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Island\Prefabs\Scripts\WaterFlooding.cs
-    projectPath: Assets\Island\Prefabs\Scripts\WaterFlooding.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AR-God\Assets\Island\Scenes\Demo.unity
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Island\Scenes\Demo.unity
-    projectPath: Assets\Island\Scenes\Demo.unity
-    originalPath: 
-    indexStatus: 9
-    workTreeStatus: 9
-  - path: AR-God\Assets\Island\Scenes\Demo\NavMesh.asset
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Island\Scenes\Demo\NavMesh.asset
-    projectPath: Assets\Island\Scenes\Demo\NavMesh.asset
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 4
-  - path: AR-God\Assets\Island\Textures\Core4.mat
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Island\Textures\Core4.mat
-    projectPath: Assets\Island\Textures\Core4.mat
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AR-God\Assets\Lava_Flowing_Shader\Materials\mtl_lava_diffuse.mat
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Lava_Flowing_Shader\Materials\mtl_lava_diffuse.mat
-    projectPath: Assets\Lava_Flowing_Shader\Materials\mtl_lava_diffuse.mat
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: AR-God\Assets\PolygonStarter\Prefabs\Characters\Player.prefab
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Prefabs\Characters\Player.prefab
-    projectPath: Assets\PolygonStarter\Prefabs\Characters\Player.prefab
+  - path: AR-God\Assets\Island\Scenes\Demo.unity
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\Island\Scenes\Demo.unity
+    projectPath: Assets\Island\Scenes\Demo.unity
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 4
-  - path: AR-God\Assets\PolygonStarter\Prefabs\Characters\SM_Bean_Cowboy_01.prefab
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Prefabs\Characters\SM_Bean_Cowboy_01.prefab
-    projectPath: Assets\PolygonStarter\Prefabs\Characters\SM_Bean_Cowboy_01.prefab
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AR-God\Assets\Island\Scenes\Demo\NavMesh.asset
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\Island\Scenes\Demo\NavMesh.asset
+    projectPath: Assets\Island\Scenes\Demo\NavMesh.asset
     originalPath: 
-    indexStatus: 9
-    workTreeStatus: 9
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AR-God\Assets\merge\CHANGELOG.md
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\merge\CHANGELOG.md
+    projectPath: Assets\merge\CHANGELOG.md
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\merge\Editor\GameObjectMergeActions.cs
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\merge\Editor\GameObjectMergeActions.cs
+    projectPath: Assets\merge\Editor\GameObjectMergeActions.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\merge\Editor\GitMergeWindow.cs
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\merge\Editor\GitMergeWindow.cs
+    projectPath: Assets\merge\Editor\GitMergeWindow.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\merge\Editor\MergeActions\MergeAction.cs
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\merge\Editor\MergeActions\MergeAction.cs
+    projectPath: Assets\merge\Editor\MergeActions\MergeAction.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\merge\Editor\MergeActions\MergeActionChangeValues.cs
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\merge\Editor\MergeActions\MergeActionChangeValues.cs
+    projectPath: Assets\merge\Editor\MergeActions\MergeActionChangeValues.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\merge\Editor\MergeActions\MergeActionDeleteComponent.cs
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\merge\Editor\MergeActions\MergeActionDeleteComponent.cs
+    projectPath: Assets\merge\Editor\MergeActions\MergeActionDeleteComponent.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\merge\Editor\MergeActions\MergeActionDeleteGameObject.cs
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\merge\Editor\MergeActions\MergeActionDeleteGameObject.cs
+    projectPath: Assets\merge\Editor\MergeActions\MergeActionDeleteGameObject.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\merge\Editor\MergeActions\MergeActionExistence.cs
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\merge\Editor\MergeActions\MergeActionExistence.cs
+    projectPath: Assets\merge\Editor\MergeActions\MergeActionExistence.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\merge\Editor\MergeActions\MergeActionNewComponent.cs
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\merge\Editor\MergeActions\MergeActionNewComponent.cs
+    projectPath: Assets\merge\Editor\MergeActions\MergeActionNewComponent.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\merge\Editor\MergeActions\MergeActionNewGameObject.cs
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\merge\Editor\MergeActions\MergeActionNewGameObject.cs
+    projectPath: Assets\merge\Editor\MergeActions\MergeActionNewGameObject.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\merge\Editor\MergeActions\MergeActionParenting.cs
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\merge\Editor\MergeActions\MergeActionParenting.cs
+    projectPath: Assets\merge\Editor\MergeActions\MergeActionParenting.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\merge\Editor\MergeManager.cs
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\merge\Editor\MergeManager.cs
+    projectPath: Assets\merge\Editor\MergeManager.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\merge\Editor\MergeManagerPrefab.cs
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\merge\Editor\MergeManagerPrefab.cs
+    projectPath: Assets\merge\Editor\MergeManagerPrefab.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\merge\Editor\MergeManagerScene.cs
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\merge\Editor\MergeManagerScene.cs
+    projectPath: Assets\merge\Editor\MergeManagerScene.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\merge\Editor\ObjectDictionaries.cs
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\merge\Editor\ObjectDictionaries.cs
+    projectPath: Assets\merge\Editor\ObjectDictionaries.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\merge\Editor\Resources.cs
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\merge\Editor\Resources.cs
+    projectPath: Assets\merge\Editor\Resources.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\merge\Editor\Resources\GitMergeBox.psd
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\merge\Editor\Resources\GitMergeBox.psd
+    projectPath: Assets\merge\Editor\Resources\GitMergeBox.psd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\merge\Editor\Resources\GitMergeLogo.psd
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\merge\Editor\Resources\GitMergeLogo.psd
+    projectPath: Assets\merge\Editor\Resources\GitMergeLogo.psd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\merge\Editor\Resources\GitMergeStyles.asset
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\merge\Editor\Resources\GitMergeStyles.asset
+    projectPath: Assets\merge\Editor\Resources\GitMergeStyles.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\merge\Editor\Resources\Licenses.txt
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\merge\Editor\Resources\Licenses.txt
+    projectPath: Assets\merge\Editor\Resources\Licenses.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\merge\Editor\ThirteenPixels.GitMerge.asmdef
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\merge\Editor\ThirteenPixels.GitMerge.asmdef
+    projectPath: Assets\merge\Editor\ThirteenPixels.GitMerge.asmdef
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\merge\Editor\Utilities\GameObjectExtensions.cs
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\merge\Editor\Utilities\GameObjectExtensions.cs
+    projectPath: Assets\merge\Editor\Utilities\GameObjectExtensions.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\merge\Editor\Utilities\MergeFilter.cs
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\merge\Editor\Utilities\MergeFilter.cs
+    projectPath: Assets\merge\Editor\Utilities\MergeFilter.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\merge\Editor\Utilities\MergeFilterBar.cs
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\merge\Editor\Utilities\MergeFilterBar.cs
+    projectPath: Assets\merge\Editor\Utilities\MergeFilterBar.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\merge\Editor\Utilities\ObjectExtensions.cs
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\merge\Editor\Utilities\ObjectExtensions.cs
+    projectPath: Assets\merge\Editor\Utilities\ObjectExtensions.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\merge\Editor\Utilities\ObjectID.cs
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\merge\Editor\Utilities\ObjectID.cs
+    projectPath: Assets\merge\Editor\Utilities\ObjectID.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\merge\Editor\Utilities\PageView.cs
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\merge\Editor\Utilities\PageView.cs
+    projectPath: Assets\merge\Editor\Utilities\PageView.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\merge\Editor\Utilities\SerializedPropertyExtensions.cs
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\merge\Editor\Utilities\SerializedPropertyExtensions.cs
+    projectPath: Assets\merge\Editor\Utilities\SerializedPropertyExtensions.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\merge\Editor\VCS\VCS.cs
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\merge\Editor\VCS\VCS.cs
+    projectPath: Assets\merge\Editor\VCS\VCS.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\merge\Editor\VCS\VCSException.cs
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\merge\Editor\VCS\VCSException.cs
+    projectPath: Assets\merge\Editor\VCS\VCSException.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\merge\Editor\VCS\VCSGit.cs
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\merge\Editor\VCS\VCSGit.cs
+    projectPath: Assets\merge\Editor\VCS\VCSGit.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\merge\LICENSE.md
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\merge\LICENSE.md
+    projectPath: Assets\merge\LICENSE.md
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\merge\package.json
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\merge\package.json
+    projectPath: Assets\merge\package.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\merge\README.md
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\merge\README.md
+    projectPath: Assets\merge\README.md
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\Prefabs\Canvas 1.prefab
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\Prefabs\Canvas 1.prefab
+    projectPath: Assets\Prefabs\Canvas 1.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\Prefabs\Components.prefab
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\Prefabs\Components.prefab
+    projectPath: Assets\Prefabs\Components.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\Prefabs\DeathZone(volcan).prefab
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\Prefabs\DeathZone(volcan).prefab
+    projectPath: Assets\Prefabs\DeathZone(volcan).prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\Prefabs\DeathZone(Water).prefab
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\Prefabs\DeathZone(Water).prefab
+    projectPath: Assets\Prefabs\DeathZone(Water).prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\Prefabs\Ile.prefab
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\Prefabs\Ile.prefab
+    projectPath: Assets\Prefabs\Ile.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\Prefabs\ImageTarget.prefab
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\Prefabs\ImageTarget.prefab
+    projectPath: Assets\Prefabs\ImageTarget.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\Prefabs\Pluie.prefab
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\Prefabs\Pluie.prefab
+    projectPath: Assets\Prefabs\Pluie.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\Prefabs\SM_Bean_Cowboy_01.prefab
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\Prefabs\SM_Bean_Cowboy_01.prefab
+    projectPath: Assets\Prefabs\SM_Bean_Cowboy_01.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: AR-God\Assets\RainMaker\Demo\Background.prefab
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\RainMaker\Demo\Background.prefab
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\RainMaker\Demo\Background.prefab
     projectPath: Assets\RainMaker\Demo\Background.prefab
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: AR-God\Assets\RainMaker\Demo\DemoScene.unity
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\RainMaker\Demo\DemoScene.unity
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\RainMaker\Demo\DemoScene.unity
     projectPath: Assets\RainMaker\Demo\DemoScene.unity
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: AR-God\Assets\RainMaker\Demo\DemoScene2D.unity
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\RainMaker\Demo\DemoScene2D.unity
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\RainMaker\Demo\DemoScene2D.unity
     projectPath: Assets\RainMaker\Demo\DemoScene2D.unity
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: AR-God\Assets\RainMaker\Demo\DemoSceneSimple.unity
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\RainMaker\Demo\DemoSceneSimple.unity
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\RainMaker\Demo\DemoSceneSimple.unity
     projectPath: Assets\RainMaker\Demo\DemoSceneSimple.unity
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: AR-God\Assets\RainMaker\Demo\DemoSceneSimple3D.unity
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\RainMaker\Demo\DemoSceneSimple3D.unity
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\RainMaker\Demo\DemoSceneSimple3D.unity
     projectPath: Assets\RainMaker\Demo\DemoSceneSimple3D.unity
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: AR-God\Assets\RainMaker\Demo\DemoScript.cs
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\RainMaker\Demo\DemoScript.cs
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\RainMaker\Demo\DemoScript.cs
     projectPath: Assets\RainMaker\Demo\DemoScript.cs
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: AR-God\Assets\RainMaker\Demo\DemoScript2D.cs
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\RainMaker\Demo\DemoScript2D.cs
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\RainMaker\Demo\DemoScript2D.cs
     projectPath: Assets\RainMaker\Demo\DemoScript2D.cs
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: AR-God\Assets\RainMaker\Demo\DemoScriptStartRainOnSpaceBar.cs
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\RainMaker\Demo\DemoScriptStartRainOnSpaceBar.cs
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\RainMaker\Demo\DemoScriptStartRainOnSpaceBar.cs
     projectPath: Assets\RainMaker\Demo\DemoScriptStartRainOnSpaceBar.cs
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: AR-God\Assets\RainMaker\Demo\FlashlightCookie.tif
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\RainMaker\Demo\FlashlightCookie.tif
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\RainMaker\Demo\FlashlightCookie.tif
     projectPath: Assets\RainMaker\Demo\FlashlightCookie.tif
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: AR-God\Assets\RainMaker\Demo\GrayMaterial.mat
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\RainMaker\Demo\GrayMaterial.mat
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\RainMaker\Demo\GrayMaterial.mat
     projectPath: Assets\RainMaker\Demo\GrayMaterial.mat
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: AR-God\Assets\RainMaker\Demo\NatureLandscape.png
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\RainMaker\Demo\NatureLandscape.png
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\RainMaker\Demo\NatureLandscape.png
     projectPath: Assets\RainMaker\Demo\NatureLandscape.png
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: AR-God\Assets\RainMaker\Demo\New Terrain.asset
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\RainMaker\Demo\New Terrain.asset
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\RainMaker\Demo\New
+      Terrain.asset
     projectPath: Assets\RainMaker\Demo\New Terrain.asset
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: AR-God\Assets\RainMaker\Demo\PhysicsMaterialBall.physicsMaterial2D
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\RainMaker\Demo\PhysicsMaterialBall.physicsMaterial2D
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\RainMaker\Demo\PhysicsMaterialBall.physicsMaterial2D
     projectPath: Assets\RainMaker\Demo\PhysicsMaterialBall.physicsMaterial2D
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: AR-God\Assets\RainMaker\Demo\PhysicsMaterialGround.physicsMaterial2D
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\RainMaker\Demo\PhysicsMaterialGround.physicsMaterial2D
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\RainMaker\Demo\PhysicsMaterialGround.physicsMaterial2D
     projectPath: Assets\RainMaker\Demo\PhysicsMaterialGround.physicsMaterial2D
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: AR-God\Assets\RainMaker\Demo\Standard Assets\Environment\TerrainAssets\BillboardTextures\GrassFrond01AlbedoAlpha.psd
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\RainMaker\Demo\Standard Assets\Environment\TerrainAssets\BillboardTextures\GrassFrond01AlbedoAlpha.psd
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\RainMaker\Demo\Standard
+      Assets\Environment\TerrainAssets\BillboardTextures\GrassFrond01AlbedoAlpha.psd
     projectPath: Assets\RainMaker\Demo\Standard Assets\Environment\TerrainAssets\BillboardTextures\GrassFrond01AlbedoAlpha.psd
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: AR-God\Assets\RainMaker\Demo\Standard Assets\Environment\TerrainAssets\BillboardTextures\GrassFrond02AlbedoAlpha.psd
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\RainMaker\Demo\Standard Assets\Environment\TerrainAssets\BillboardTextures\GrassFrond02AlbedoAlpha.psd
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\RainMaker\Demo\Standard
+      Assets\Environment\TerrainAssets\BillboardTextures\GrassFrond02AlbedoAlpha.psd
     projectPath: Assets\RainMaker\Demo\Standard Assets\Environment\TerrainAssets\BillboardTextures\GrassFrond02AlbedoAlpha.psd
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: AR-God\Assets\RainMaker\Demo\Standard Assets\Environment\TerrainAssets\SurfaceTextures\CliffAlbedoSpecular.psd
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\RainMaker\Demo\Standard Assets\Environment\TerrainAssets\SurfaceTextures\CliffAlbedoSpecular.psd
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\RainMaker\Demo\Standard
+      Assets\Environment\TerrainAssets\SurfaceTextures\CliffAlbedoSpecular.psd
     projectPath: Assets\RainMaker\Demo\Standard Assets\Environment\TerrainAssets\SurfaceTextures\CliffAlbedoSpecular.psd
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: AR-God\Assets\RainMaker\Demo\Standard Assets\Environment\TerrainAssets\SurfaceTextures\GrassHillAlbedo.psd
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\RainMaker\Demo\Standard Assets\Environment\TerrainAssets\SurfaceTextures\GrassHillAlbedo.psd
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\RainMaker\Demo\Standard
+      Assets\Environment\TerrainAssets\SurfaceTextures\GrassHillAlbedo.psd
     projectPath: Assets\RainMaker\Demo\Standard Assets\Environment\TerrainAssets\SurfaceTextures\GrassHillAlbedo.psd
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: AR-God\Assets\RainMaker\Demo\Standard Assets\Environment\TerrainAssets\SurfaceTextures\GrassRockyAlbedo.psd
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\RainMaker\Demo\Standard Assets\Environment\TerrainAssets\SurfaceTextures\GrassRockyAlbedo.psd
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\RainMaker\Demo\Standard
+      Assets\Environment\TerrainAssets\SurfaceTextures\GrassRockyAlbedo.psd
     projectPath: Assets\RainMaker\Demo\Standard Assets\Environment\TerrainAssets\SurfaceTextures\GrassRockyAlbedo.psd
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: AR-God\Assets\RainMaker\Demo\Standard Assets\Environment\TerrainAssets\SurfaceTextures\MudRockyAlbedoSpecular.bmp
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\RainMaker\Demo\Standard Assets\Environment\TerrainAssets\SurfaceTextures\MudRockyAlbedoSpecular.bmp
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\RainMaker\Demo\Standard
+      Assets\Environment\TerrainAssets\SurfaceTextures\MudRockyAlbedoSpecular.bmp
     projectPath: Assets\RainMaker\Demo\Standard Assets\Environment\TerrainAssets\SurfaceTextures\MudRockyAlbedoSpecular.bmp
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: AR-God\Assets\RainMaker\Demo\Standard Assets\Environment\TerrainAssets\SurfaceTextures\MudRockyNormals.bmp
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\RainMaker\Demo\Standard Assets\Environment\TerrainAssets\SurfaceTextures\MudRockyNormals.bmp
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\RainMaker\Demo\Standard
+      Assets\Environment\TerrainAssets\SurfaceTextures\MudRockyNormals.bmp
     projectPath: Assets\RainMaker\Demo\Standard Assets\Environment\TerrainAssets\SurfaceTextures\MudRockyNormals.bmp
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: AR-God\Assets\RainMaker\Demo\Standard Assets\Environment\TerrainAssets\SurfaceTextures\SandAlbedo.psd
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\RainMaker\Demo\Standard Assets\Environment\TerrainAssets\SurfaceTextures\SandAlbedo.psd
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\RainMaker\Demo\Standard
+      Assets\Environment\TerrainAssets\SurfaceTextures\SandAlbedo.psd
     projectPath: Assets\RainMaker\Demo\Standard Assets\Environment\TerrainAssets\SurfaceTextures\SandAlbedo.psd
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: AR-God\Assets\RainMaker\Editor\RainMakerEditor.cs
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\RainMaker\Editor\RainMakerEditor.cs
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\RainMaker\Editor\RainMakerEditor.cs
     projectPath: Assets\RainMaker\Editor\RainMakerEditor.cs
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: AR-God\Assets\RainMaker\Editor\RainMakerLogo.png
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\RainMaker\Editor\RainMakerLogo.png
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\RainMaker\Editor\RainMakerLogo.png
     projectPath: Assets\RainMaker\Editor\RainMakerLogo.png
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: AR-God\Assets\RainMaker\Prefab\BaseRainScript.cs
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\RainMaker\Prefab\BaseRainScript.cs
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\RainMaker\Prefab\BaseRainScript.cs
     projectPath: Assets\RainMaker\Prefab\BaseRainScript.cs
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: AR-God\Assets\RainMaker\Prefab\rain_heavy.ogg
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\RainMaker\Prefab\rain_heavy.ogg
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\RainMaker\Prefab\rain_heavy.ogg
     projectPath: Assets\RainMaker\Prefab\rain_heavy.ogg
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: AR-God\Assets\RainMaker\Prefab\rain_light.ogg
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\RainMaker\Prefab\rain_light.ogg
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\RainMaker\Prefab\rain_light.ogg
     projectPath: Assets\RainMaker\Prefab\rain_light.ogg
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: AR-God\Assets\RainMaker\Prefab\rain_medium.ogg
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\RainMaker\Prefab\rain_medium.ogg
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\RainMaker\Prefab\rain_medium.ogg
     projectPath: Assets\RainMaker\Prefab\rain_medium.ogg
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: AR-God\Assets\RainMaker\Prefab\RainCollision.cs
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\RainMaker\Prefab\RainCollision.cs
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\RainMaker\Prefab\RainCollision.cs
     projectPath: Assets\RainMaker\Prefab\RainCollision.cs
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: AR-God\Assets\RainMaker\Prefab\RainExplosionMaterial.mat
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\RainMaker\Prefab\RainExplosionMaterial.mat
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\RainMaker\Prefab\RainExplosionMaterial.mat
     projectPath: Assets\RainMaker\Prefab\RainExplosionMaterial.mat
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: AR-God\Assets\RainMaker\Prefab\RainExplosionMaterial2D.mat
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\RainMaker\Prefab\RainExplosionMaterial2D.mat
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\RainMaker\Prefab\RainExplosionMaterial2D.mat
     projectPath: Assets\RainMaker\Prefab\RainExplosionMaterial2D.mat
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: AR-God\Assets\RainMaker\Prefab\RainMaterial.mat
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\RainMaker\Prefab\RainMaterial.mat
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\RainMaker\Prefab\RainMaterial.mat
     projectPath: Assets\RainMaker\Prefab\RainMaterial.mat
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: AR-God\Assets\RainMaker\Prefab\RainMaterial2D.mat
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\RainMaker\Prefab\RainMaterial2D.mat
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\RainMaker\Prefab\RainMaterial2D.mat
     projectPath: Assets\RainMaker\Prefab\RainMaterial2D.mat
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: AR-God\Assets\RainMaker\Prefab\RainMistMaterial.mat
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\RainMaker\Prefab\RainMistMaterial.mat
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\RainMaker\Prefab\RainMistMaterial.mat
     projectPath: Assets\RainMaker\Prefab\RainMistMaterial.mat
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: AR-God\Assets\RainMaker\Prefab\RainMistMaterial2D.mat
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\RainMaker\Prefab\RainMistMaterial2D.mat
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\RainMaker\Prefab\RainMistMaterial2D.mat
     projectPath: Assets\RainMaker\Prefab\RainMistMaterial2D.mat
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: AR-God\Assets\RainMaker\Prefab\RainPrefab.prefab
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\RainMaker\Prefab\RainPrefab.prefab
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\RainMaker\Prefab\RainPrefab.prefab
     projectPath: Assets\RainMaker\Prefab\RainPrefab.prefab
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: AR-God\Assets\RainMaker\Prefab\RainPrefab2D.prefab
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\RainMaker\Prefab\RainPrefab2D.prefab
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\RainMaker\Prefab\RainPrefab2D.prefab
     projectPath: Assets\RainMaker\Prefab\RainPrefab2D.prefab
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: AR-God\Assets\RainMaker\Prefab\RainScript.cs
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\RainMaker\Prefab\RainScript.cs
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\RainMaker\Prefab\RainScript.cs
     projectPath: Assets\RainMaker\Prefab\RainScript.cs
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: AR-God\Assets\RainMaker\Prefab\RainScript2D.cs
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\RainMaker\Prefab\RainScript2D.cs
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\RainMaker\Prefab\RainScript2D.cs
     projectPath: Assets\RainMaker\Prefab\RainScript2D.cs
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: AR-God\Assets\RainMaker\Prefab\RainShader.shader
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\RainMaker\Prefab\RainShader.shader
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\RainMaker\Prefab\RainShader.shader
     projectPath: Assets\RainMaker\Prefab\RainShader.shader
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: AR-God\Assets\RainMaker\Prefab\RainTexture.png
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\RainMaker\Prefab\RainTexture.png
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\RainMaker\Prefab\RainTexture.png
     projectPath: Assets\RainMaker\Prefab\RainTexture.png
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: AR-God\Assets\RainMaker\Prefab\RainTexturePSD.psd
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\RainMaker\Prefab\RainTexturePSD.psd
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\RainMaker\Prefab\RainTexturePSD.psd
     projectPath: Assets\RainMaker\Prefab\RainTexturePSD.psd
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: AR-God\Assets\RainMaker\Prefab\wind_normal1.ogg
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\RainMaker\Prefab\wind_normal1.ogg
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\RainMaker\Prefab\wind_normal1.ogg
     projectPath: Assets\RainMaker\Prefab\wind_normal1.ogg
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: AR-God\Assets\RainMaker\Readme.txt
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\RainMaker\Readme.txt
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\RainMaker\Readme.txt
     projectPath: Assets\RainMaker\Readme.txt
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: AR-God\Assets\Resources\VuforiaConfiguration.asset
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Resources\VuforiaConfiguration.asset
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\Resources\VuforiaConfiguration.asset
     projectPath: Assets\Resources\VuforiaConfiguration.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: AR-God\Assets\Scripts\Canvas Script\PauseMenuScript.cs
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Scripts\Canvas Script\PauseMenuScript.cs
-    projectPath: Assets\Scripts\Canvas Script\PauseMenuScript.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: AR-God\Assets\Scripts\Canvas Script\Quitter.cs
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Scripts\Canvas Script\Quitter.cs
-    projectPath: Assets\Scripts\Canvas Script\Quitter.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: AR-God\Assets\Scripts\ClickAndGo.cs
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Scripts\ClickAndGo.cs
-    projectPath: Assets\Scripts\ClickAndGo.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: AR-God\Assets\Scripts\DeathZone.cs
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Scripts\DeathZone.cs
-    projectPath: Assets\Scripts\DeathZone.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: AR-God\Assets\Scripts\FallingObjects.cs
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Scripts\FallingObjects.cs
-    projectPath: Assets\Scripts\FallingObjects.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: AR-God\Assets\Scripts\PlayerController.cs
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Scripts\PlayerController.cs
-    projectPath: Assets\Scripts\PlayerController.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: AR-God\Assets\Scripts\Spawner.cs
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Scripts\Spawner.cs
-    projectPath: Assets\Scripts\Spawner.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
   - path: AR-God\EditorMigrationScripts.csproj
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\EditorMigrationScripts.csproj
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\EditorMigrationScripts.csproj
     projectPath: EditorMigrationScripts.csproj
     originalPath: 
-    indexStatus: 3
+    indexStatus: 0
     workTreeStatus: 3
-  - path: AR-God\Library\CurrentLayout-default.dwlt
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\CurrentLayout-default.dwlt
-    projectPath: Library\CurrentLayout-default.dwlt
+  - path: AR-God\Library\APIUpdater\project-dependencies.graph
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\APIUpdater\project-dependencies.graph
+    projectPath: Library\APIUpdater\project-dependencies.graph
     originalPath: 
-    indexStatus: 9
-    workTreeStatus: 9
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AR-God\Library\ArtifactDB-lock
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ArtifactDB-lock
+    projectPath: Library\ArtifactDB-lock
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: AR-God\Library\CurrentMaximizeLayout.dwlt
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\CurrentMaximizeLayout.dwlt
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\CurrentMaximizeLayout.dwlt
     projectPath: Library\CurrentMaximizeLayout.dwlt
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: AR-God\Library\EditorInstance.json
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\EditorInstance.json
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\EditorInstance.json
     projectPath: Library\EditorInstance.json
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Library\expandedItems
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\expandedItems
-    projectPath: Library\expandedItems
+  - path: AR-God\Library\gfu\cache\gitlocks.yaml
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: AR-God\Library\gfu\cache\branches.yaml
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\gfu\cache\branches.yaml
-    projectPath: Library\gfu\cache\branches.yaml
-    originalPath: 
-    indexStatus: 9
-    workTreeStatus: 9
-  - path: AR-God\Library\gfu\cache\gitlocks.yaml
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\gfu\cache\gitlocks.yaml
-    projectPath: Library\gfu\cache\gitlocks.yaml
-    originalPath: 
-    indexStatus: 9
-    workTreeStatus: 9
-  - path: AR-God\Library\gfu\cache\gitlog.yaml
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\gfu\cache\gitlog.yaml
-    projectPath: Library\gfu\cache\gitlog.yaml
-    originalPath: 
-    indexStatus: 9
-    workTreeStatus: 9
   - path: AR-God\Library\gfu\cache\gitstatusentries.yaml
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\gfu\cache\gitstatusentries.yaml
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\gfu\cache\gitstatusentries.yaml
     projectPath: Library\gfu\cache\gitstatusentries.yaml
     originalPath: 
-    indexStatus: 9
-    workTreeStatus: 9
+    indexStatus: 0
+    workTreeStatus: 3
   - path: AR-God\Library\gfu\cache\gittrackingstatus.yaml
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\gfu\cache\gittrackingstatus.yaml
     projectPath: Library\gfu\cache\gittrackingstatus.yaml
     originalPath: 
-    indexStatus: 9
-    workTreeStatus: 9
+    indexStatus: 0
+    workTreeStatus: 3
   - path: AR-God\Library\gfu\cache\repoinfo.yaml
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\gfu\cache\repoinfo.yaml
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\gfu\cache\repoinfo.yaml
     projectPath: Library\gfu\cache\repoinfo.yaml
-    originalPath: 
-    indexStatus: 9
-    workTreeStatus: 9
-  - path: AR-God\Library\InspectorExpandedItems.asset
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\InspectorExpandedItems.asset
-    projectPath: Library\InspectorExpandedItems.asset
-    originalPath: 
-    indexStatus: 9
-    workTreeStatus: 9
-  - path: AR-God\Library\SceneVisibilityState.asset
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\SceneVisibilityState.asset
-    projectPath: Library\SceneVisibilityState.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: AR-God\Library\ScriptAssemblies\Assembly-CSharp.dll
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ScriptAssemblies\Assembly-CSharp.dll
     projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
-    originalPath: 
-    indexStatus: 9
-    workTreeStatus: 9
-  - path: AR-God\Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AR-God\Library\ScriptMapper
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ScriptMapper
-    projectPath: Library\ScriptMapper
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: AR-God\Library\ShaderCache\0\049e4dfa9bf433b8729d896e7ea3a51e.bin
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\0\049e4dfa9bf433b8729d896e7ea3a51e.bin
-    projectPath: Library\ShaderCache\0\049e4dfa9bf433b8729d896e7ea3a51e.bin
+  - path: AR-God\Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: AR-God\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AR-God\Library\ScriptAssemblies\EditorMigrationScripts.dll
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ScriptAssemblies\EditorMigrationScripts.dll
+    projectPath: Library\ScriptAssemblies\EditorMigrationScripts.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AR-God\Library\ScriptAssemblies\ThirteenPixels.GitMerge.dll
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ScriptAssemblies\ThirteenPixels.GitMerge.dll
+    projectPath: Library\ScriptAssemblies\ThirteenPixels.GitMerge.dll
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Library\ShaderCache\1\1069bb4bfbdbbea32baca8d43490a0a2.bin
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\1\1069bb4bfbdbbea32baca8d43490a0a2.bin
-    projectPath: Library\ShaderCache\1\1069bb4bfbdbbea32baca8d43490a0a2.bin
+  - path: AR-God\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AR-God\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AR-God\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AR-God\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AR-God\Library\ScriptAssemblies\Unity.Timeline.dll
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ScriptAssemblies\Unity.Timeline.dll
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AR-God\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AR-God\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AR-God\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AR-God\Library\ScriptAssemblies\UnityEditor.UI.dll
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ScriptAssemblies\UnityEditor.UI.dll
+    projectPath: Library\ScriptAssemblies\UnityEditor.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AR-God\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AR-God\Library\ScriptAssemblies\UnityEngine.UI.dll
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ScriptAssemblies\UnityEngine.UI.dll
+    projectPath: Library\ScriptAssemblies\UnityEngine.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AR-God\Library\ScriptAssemblies\VuforiaEditorScripts.dll
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ScriptAssemblies\VuforiaEditorScripts.dll
+    projectPath: Library\ScriptAssemblies\VuforiaEditorScripts.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AR-God\Library\ScriptAssemblies\VuforiaScripts.dll
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ScriptAssemblies\VuforiaScripts.dll
+    projectPath: Library\ScriptAssemblies\VuforiaScripts.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AR-God\Library\ShaderCache\0\00b45b7d240a896e6792fb70ddaa7985.bin
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\0\00b45b7d240a896e6792fb70ddaa7985.bin
+    projectPath: Library\ShaderCache\0\00b45b7d240a896e6792fb70ddaa7985.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Library\ShaderCache\1\10f79ce88b4f29e5d9de023704f854e0.bin
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\1\10f79ce88b4f29e5d9de023704f854e0.bin
-    projectPath: Library\ShaderCache\1\10f79ce88b4f29e5d9de023704f854e0.bin
+  - path: AR-God\Library\ShaderCache\0\02a2bc5c024083c0fbb4bef3c8e401a2.bin
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\0\02a2bc5c024083c0fbb4bef3c8e401a2.bin
+    projectPath: Library\ShaderCache\0\02a2bc5c024083c0fbb4bef3c8e401a2.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Library\ShaderCache\1\138bd6a73769b56f32537fe7d15b6198.bin
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\1\138bd6a73769b56f32537fe7d15b6198.bin
-    projectPath: Library\ShaderCache\1\138bd6a73769b56f32537fe7d15b6198.bin
+  - path: AR-God\Library\ShaderCache\0\03bbf9de1de6be8dd1bb8282942f5afa.bin
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\0\03bbf9de1de6be8dd1bb8282942f5afa.bin
+    projectPath: Library\ShaderCache\0\03bbf9de1de6be8dd1bb8282942f5afa.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Library\ShaderCache\2\226afd46fa86227b27d538473422eedf.bin
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\2\226afd46fa86227b27d538473422eedf.bin
-    projectPath: Library\ShaderCache\2\226afd46fa86227b27d538473422eedf.bin
+  - path: AR-God\Library\ShaderCache\0\07aef7ad2267d4d9e2f20db000a4c286.bin
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\0\07aef7ad2267d4d9e2f20db000a4c286.bin
+    projectPath: Library\ShaderCache\0\07aef7ad2267d4d9e2f20db000a4c286.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Library\ShaderCache\3\3ce39241c116a2d863f53772a9070c90.bin
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\3\3ce39241c116a2d863f53772a9070c90.bin
-    projectPath: Library\ShaderCache\3\3ce39241c116a2d863f53772a9070c90.bin
+  - path: AR-God\Library\ShaderCache\0\08f36e3cf474b92ee7cca591eab9e266.bin
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\0\08f36e3cf474b92ee7cca591eab9e266.bin
+    projectPath: Library\ShaderCache\0\08f36e3cf474b92ee7cca591eab9e266.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Library\ShaderCache\5\58a3c9b15f53efdef00f3713d77ae1ce.bin
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\5\58a3c9b15f53efdef00f3713d77ae1ce.bin
-    projectPath: Library\ShaderCache\5\58a3c9b15f53efdef00f3713d77ae1ce.bin
+  - path: AR-God\Library\ShaderCache\0\0fe54346ef6ccfd7f9df7605dd1ac39c.bin
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\0\0fe54346ef6ccfd7f9df7605dd1ac39c.bin
+    projectPath: Library\ShaderCache\0\0fe54346ef6ccfd7f9df7605dd1ac39c.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Library\ShaderCache\5\5f68b8db855ecbc999f21eb280efc8dd.bin
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\5\5f68b8db855ecbc999f21eb280efc8dd.bin
-    projectPath: Library\ShaderCache\5\5f68b8db855ecbc999f21eb280efc8dd.bin
+  - path: AR-God\Library\ShaderCache\1\142b9d9a15d7846367caae5938701bcf.bin
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\1\142b9d9a15d7846367caae5938701bcf.bin
+    projectPath: Library\ShaderCache\1\142b9d9a15d7846367caae5938701bcf.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Library\ShaderCache\5\5f7f3b4e4ef3392d0ebf72aed57f469f.bin
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\5\5f7f3b4e4ef3392d0ebf72aed57f469f.bin
-    projectPath: Library\ShaderCache\5\5f7f3b4e4ef3392d0ebf72aed57f469f.bin
+  - path: AR-God\Library\ShaderCache\1\1c56c67ea1a83360f5d318210a8ea3b1.bin
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\1\1c56c67ea1a83360f5d318210a8ea3b1.bin
+    projectPath: Library\ShaderCache\1\1c56c67ea1a83360f5d318210a8ea3b1.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Library\ShaderCache\6\69c326ed600062154d6e8e14a77d4f0d.bin
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\6\69c326ed600062154d6e8e14a77d4f0d.bin
-    projectPath: Library\ShaderCache\6\69c326ed600062154d6e8e14a77d4f0d.bin
+  - path: AR-God\Library\ShaderCache\1\1e1c50accd25e02d671391e56e05bc64.bin
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\1\1e1c50accd25e02d671391e56e05bc64.bin
+    projectPath: Library\ShaderCache\1\1e1c50accd25e02d671391e56e05bc64.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Library\ShaderCache\6\6c806dc5a693fb5c34bb2db755618e41.bin
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\6\6c806dc5a693fb5c34bb2db755618e41.bin
-    projectPath: Library\ShaderCache\6\6c806dc5a693fb5c34bb2db755618e41.bin
+  - path: AR-God\Library\ShaderCache\2\24bc9f6c6ec287b135061647448c3045.bin
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\2\24bc9f6c6ec287b135061647448c3045.bin
+    projectPath: Library\ShaderCache\2\24bc9f6c6ec287b135061647448c3045.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Library\ShaderCache\6\6d45d2c54546873f85254fba19c472e4.bin
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\6\6d45d2c54546873f85254fba19c472e4.bin
-    projectPath: Library\ShaderCache\6\6d45d2c54546873f85254fba19c472e4.bin
+  - path: AR-God\Library\ShaderCache\2\27f6538b35d0aeba59c3c587ea8c49c4.bin
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\2\27f6538b35d0aeba59c3c587ea8c49c4.bin
+    projectPath: Library\ShaderCache\2\27f6538b35d0aeba59c3c587ea8c49c4.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Library\ShaderCache\6\6f4a5e8e6fa32f49b5287ff785e4d870.bin
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\6\6f4a5e8e6fa32f49b5287ff785e4d870.bin
-    projectPath: Library\ShaderCache\6\6f4a5e8e6fa32f49b5287ff785e4d870.bin
+  - path: AR-God\Library\ShaderCache\3\3173388de114af05164f3e1133eab98a.bin
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\3\3173388de114af05164f3e1133eab98a.bin
+    projectPath: Library\ShaderCache\3\3173388de114af05164f3e1133eab98a.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Library\ShaderCache\7\77b7d422eb3140d1fa1047f825277321.bin
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\7\77b7d422eb3140d1fa1047f825277321.bin
-    projectPath: Library\ShaderCache\7\77b7d422eb3140d1fa1047f825277321.bin
+  - path: AR-God\Library\ShaderCache\3\323b5f30860d2d1309923d1a0467e548.bin
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\3\323b5f30860d2d1309923d1a0467e548.bin
+    projectPath: Library\ShaderCache\3\323b5f30860d2d1309923d1a0467e548.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Library\ShaderCache\7\78df7c96760281959e59aef3ce05e1d8.bin
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\7\78df7c96760281959e59aef3ce05e1d8.bin
-    projectPath: Library\ShaderCache\7\78df7c96760281959e59aef3ce05e1d8.bin
+  - path: AR-God\Library\ShaderCache\3\398f104cfc723e21c1960bb291bd3fe2.bin
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\3\398f104cfc723e21c1960bb291bd3fe2.bin
+    projectPath: Library\ShaderCache\3\398f104cfc723e21c1960bb291bd3fe2.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Library\ShaderCache\7\79a32a348a92559648e145b8f6f224a1.bin
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\7\79a32a348a92559648e145b8f6f224a1.bin
-    projectPath: Library\ShaderCache\7\79a32a348a92559648e145b8f6f224a1.bin
+  - path: AR-God\Library\ShaderCache\3\3b2f26b3b275bbcca2f2ba1de9b1a222.bin
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\3\3b2f26b3b275bbcca2f2ba1de9b1a222.bin
+    projectPath: Library\ShaderCache\3\3b2f26b3b275bbcca2f2ba1de9b1a222.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Library\ShaderCache\8\89dd23892c91a2e8cb8da0de7a00eda3.bin
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\8\89dd23892c91a2e8cb8da0de7a00eda3.bin
-    projectPath: Library\ShaderCache\8\89dd23892c91a2e8cb8da0de7a00eda3.bin
+  - path: AR-God\Library\ShaderCache\3\3ee38dabe2d8c2cb377f8c87be8e2e3c.bin
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\3\3ee38dabe2d8c2cb377f8c87be8e2e3c.bin
+    projectPath: Library\ShaderCache\3\3ee38dabe2d8c2cb377f8c87be8e2e3c.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Library\ShaderCache\8\8fa0265fd7a98de76318a0b0cc68411d.bin
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\8\8fa0265fd7a98de76318a0b0cc68411d.bin
-    projectPath: Library\ShaderCache\8\8fa0265fd7a98de76318a0b0cc68411d.bin
+  - path: AR-God\Library\ShaderCache\4\41aa122261319382455457b0e0606190.bin
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\4\41aa122261319382455457b0e0606190.bin
+    projectPath: Library\ShaderCache\4\41aa122261319382455457b0e0606190.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Library\ShaderCache\a\ace93f0d3ec47eefd0bf4e5e6c98d456.bin
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\a\ace93f0d3ec47eefd0bf4e5e6c98d456.bin
-    projectPath: Library\ShaderCache\a\ace93f0d3ec47eefd0bf4e5e6c98d456.bin
+  - path: AR-God\Library\ShaderCache\4\4db2b3ed07254fc18bb06343a60e6518.bin
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\4\4db2b3ed07254fc18bb06343a60e6518.bin
+    projectPath: Library\ShaderCache\4\4db2b3ed07254fc18bb06343a60e6518.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Library\ShaderCache\c\c8f22133ca3ab5fc1dc038667c1a21b7.bin
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\c\c8f22133ca3ab5fc1dc038667c1a21b7.bin
-    projectPath: Library\ShaderCache\c\c8f22133ca3ab5fc1dc038667c1a21b7.bin
+  - path: AR-God\Library\ShaderCache\5\50d0feb6254c8a5821b0a58df10446f5.bin
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\5\50d0feb6254c8a5821b0a58df10446f5.bin
+    projectPath: Library\ShaderCache\5\50d0feb6254c8a5821b0a58df10446f5.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Library\ShaderCache\d\de3ec336454a1a40a74d7503bc7c8f6a.bin
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\d\de3ec336454a1a40a74d7503bc7c8f6a.bin
-    projectPath: Library\ShaderCache\d\de3ec336454a1a40a74d7503bc7c8f6a.bin
+  - path: AR-God\Library\ShaderCache\5\52b84403790574d6746a6954222a8bf3.bin
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\5\52b84403790574d6746a6954222a8bf3.bin
+    projectPath: Library\ShaderCache\5\52b84403790574d6746a6954222a8bf3.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Library\ShaderCache\e\e80cbfea9edc52d26fa88214fce6b515.bin
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\e\e80cbfea9edc52d26fa88214fce6b515.bin
-    projectPath: Library\ShaderCache\e\e80cbfea9edc52d26fa88214fce6b515.bin
+  - path: AR-God\Library\ShaderCache\5\53a43423981970f1a21c0d513cc14f25.bin
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\5\53a43423981970f1a21c0d513cc14f25.bin
+    projectPath: Library\ShaderCache\5\53a43423981970f1a21c0d513cc14f25.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Library\ShaderCache\EditorEncounteredVariants
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\EditorEncounteredVariants
-    projectPath: Library\ShaderCache\EditorEncounteredVariants
-    originalPath: 
-    indexStatus: 9
-    workTreeStatus: 9
-  - path: AR-God\Library\ShaderCache\f\f22a05d2cda15cdc1f4e89c8bbb12ce8.bin
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\f\f22a05d2cda15cdc1f4e89c8bbb12ce8.bin
-    projectPath: Library\ShaderCache\f\f22a05d2cda15cdc1f4e89c8bbb12ce8.bin
+  - path: AR-God\Library\ShaderCache\5\53ec3eabb3962674446cd50a727a03a9.bin
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\5\53ec3eabb3962674446cd50a727a03a9.bin
+    projectPath: Library\ShaderCache\5\53ec3eabb3962674446cd50a727a03a9.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Library\ShaderCache\f\f464e4b7b2270de01ab76edbaed859c1.bin
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\f\f464e4b7b2270de01ab76edbaed859c1.bin
-    projectPath: Library\ShaderCache\f\f464e4b7b2270de01ab76edbaed859c1.bin
+  - path: AR-God\Library\ShaderCache\6\68306d3ebd504a9b478a9ce32e640c1d.bin
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\6\68306d3ebd504a9b478a9ce32e640c1d.bin
+    projectPath: Library\ShaderCache\6\68306d3ebd504a9b478a9ce32e640c1d.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Library\ShaderCache\6\6916b0b13db9f0df19b6bbdd5208418a.bin
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\6\6916b0b13db9f0df19b6bbdd5208418a.bin
+    projectPath: Library\ShaderCache\6\6916b0b13db9f0df19b6bbdd5208418a.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Library\ShaderCache\6\6d702a2ac976212d4fb7d54922ea82d0.bin
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\6\6d702a2ac976212d4fb7d54922ea82d0.bin
+    projectPath: Library\ShaderCache\6\6d702a2ac976212d4fb7d54922ea82d0.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Library\ShaderCache\6\6ebe52c00455b489cdf371b4eb377029.bin
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\6\6ebe52c00455b489cdf371b4eb377029.bin
+    projectPath: Library\ShaderCache\6\6ebe52c00455b489cdf371b4eb377029.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Library\ShaderCache\7\70a383b3e1e4cdae7fb2c88695611453.bin
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\7\70a383b3e1e4cdae7fb2c88695611453.bin
+    projectPath: Library\ShaderCache\7\70a383b3e1e4cdae7fb2c88695611453.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Library\ShaderCache\7\74d860a48d290bf3b4ea66ab7f2adef1.bin
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\7\74d860a48d290bf3b4ea66ab7f2adef1.bin
+    projectPath: Library\ShaderCache\7\74d860a48d290bf3b4ea66ab7f2adef1.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Library\ShaderCache\7\7872403353265f61554778a9e11d51b5.bin
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\7\7872403353265f61554778a9e11d51b5.bin
+    projectPath: Library\ShaderCache\7\7872403353265f61554778a9e11d51b5.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Library\ShaderCache\7\7916cfee3089c6d1c1440da74b40ee02.bin
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\7\7916cfee3089c6d1c1440da74b40ee02.bin
+    projectPath: Library\ShaderCache\7\7916cfee3089c6d1c1440da74b40ee02.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Library\ShaderCache\7\7aecb5cc979e83f3ee93eb837ec89b85.bin
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\7\7aecb5cc979e83f3ee93eb837ec89b85.bin
+    projectPath: Library\ShaderCache\7\7aecb5cc979e83f3ee93eb837ec89b85.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Library\ShaderCache\7\7ec2cc835fbdee1981b7b3101d672c83.bin
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\7\7ec2cc835fbdee1981b7b3101d672c83.bin
+    projectPath: Library\ShaderCache\7\7ec2cc835fbdee1981b7b3101d672c83.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Library\ShaderCache\8\86d7a661e1b4babc7429c7f4f94acaa5.bin
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\8\86d7a661e1b4babc7429c7f4f94acaa5.bin
+    projectPath: Library\ShaderCache\8\86d7a661e1b4babc7429c7f4f94acaa5.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Library\ShaderCache\9\99a73adc8bb213880cea591564c8a3b9.bin
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\9\99a73adc8bb213880cea591564c8a3b9.bin
+    projectPath: Library\ShaderCache\9\99a73adc8bb213880cea591564c8a3b9.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Library\ShaderCache\9\9c2a0c9ad022d9555969428e13af726d.bin
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\9\9c2a0c9ad022d9555969428e13af726d.bin
+    projectPath: Library\ShaderCache\9\9c2a0c9ad022d9555969428e13af726d.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Library\ShaderCache\a\a10d27739c71817599b1b8a84015a334.bin
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\a\a10d27739c71817599b1b8a84015a334.bin
+    projectPath: Library\ShaderCache\a\a10d27739c71817599b1b8a84015a334.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Library\ShaderCache\a\a650b613fc1f756e6c4ac5310c22cff3.bin
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\a\a650b613fc1f756e6c4ac5310c22cff3.bin
+    projectPath: Library\ShaderCache\a\a650b613fc1f756e6c4ac5310c22cff3.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Library\ShaderCache\a\aa49c0c10c33992529bdd7a0b8b575cc.bin
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\a\aa49c0c10c33992529bdd7a0b8b575cc.bin
+    projectPath: Library\ShaderCache\a\aa49c0c10c33992529bdd7a0b8b575cc.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Library\ShaderCache\a\afe801c759fc91ac0c8cf2d2fd8a5e89.bin
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\a\afe801c759fc91ac0c8cf2d2fd8a5e89.bin
+    projectPath: Library\ShaderCache\a\afe801c759fc91ac0c8cf2d2fd8a5e89.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Library\ShaderCache\b\b033572f3662dc7f153143df2236c431.bin
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\b\b033572f3662dc7f153143df2236c431.bin
+    projectPath: Library\ShaderCache\b\b033572f3662dc7f153143df2236c431.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Library\ShaderCache\b\b0500082b4020451ca408fa0ccf22cd7.bin
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\b\b0500082b4020451ca408fa0ccf22cd7.bin
+    projectPath: Library\ShaderCache\b\b0500082b4020451ca408fa0ccf22cd7.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Library\ShaderCache\b\b779a3f7ed70bbc09f1edb4d5b59503e.bin
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\b\b779a3f7ed70bbc09f1edb4d5b59503e.bin
+    projectPath: Library\ShaderCache\b\b779a3f7ed70bbc09f1edb4d5b59503e.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Library\ShaderCache\b\ba5ff5cd2bb5d2234d2cf83771ed234f.bin
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\b\ba5ff5cd2bb5d2234d2cf83771ed234f.bin
+    projectPath: Library\ShaderCache\b\ba5ff5cd2bb5d2234d2cf83771ed234f.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Library\ShaderCache\c\c32c7ba352265f07888c3719b62478a6.bin
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\c\c32c7ba352265f07888c3719b62478a6.bin
+    projectPath: Library\ShaderCache\c\c32c7ba352265f07888c3719b62478a6.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Library\ShaderCache\c\c46f693e9af383bec59a7dac7d29cd79.bin
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\c\c46f693e9af383bec59a7dac7d29cd79.bin
+    projectPath: Library\ShaderCache\c\c46f693e9af383bec59a7dac7d29cd79.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Library\ShaderCache\c\c78b5b91774dc2d60c2faf95e138f2ba.bin
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\c\c78b5b91774dc2d60c2faf95e138f2ba.bin
+    projectPath: Library\ShaderCache\c\c78b5b91774dc2d60c2faf95e138f2ba.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Library\ShaderCache\c\c9e7beaca5eab76412300a43fa7871e4.bin
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\c\c9e7beaca5eab76412300a43fa7871e4.bin
+    projectPath: Library\ShaderCache\c\c9e7beaca5eab76412300a43fa7871e4.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Library\ShaderCache\d\dfd6e1e4599cbbc96bc02fb4e82c588b.bin
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\d\dfd6e1e4599cbbc96bc02fb4e82c588b.bin
+    projectPath: Library\ShaderCache\d\dfd6e1e4599cbbc96bc02fb4e82c588b.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Library\ShaderCache\e\e6ac57490b832821c512a92476b0cfcc.bin
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\e\e6ac57490b832821c512a92476b0cfcc.bin
+    projectPath: Library\ShaderCache\e\e6ac57490b832821c512a92476b0cfcc.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Library\ShaderCache\f\f889638b0785f536d097f5e361598b91.bin
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\f\f889638b0785f536d097f5e361598b91.bin
+    projectPath: Library\ShaderCache\f\f889638b0785f536d097f5e361598b91.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Library\ShaderCache\f\fcad12f593471633144858d640586b45.bin
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\f\fcad12f593471633144858d640586b45.bin
+    projectPath: Library\ShaderCache\f\fcad12f593471633144858d640586b45.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Library\ShaderCache\f\fe5c254c93979cfdbf629e5c4f0e77a2.bin
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\f\fe5c254c93979cfdbf629e5c4f0e77a2.bin
+    projectPath: Library\ShaderCache\f\fe5c254c93979cfdbf629e5c4f0e77a2.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
   - path: AR-God\Library\SourceAssetDB
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\SourceAssetDB
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\SourceAssetDB
     projectPath: Library\SourceAssetDB
     originalPath: 
-    indexStatus: 9
-    workTreeStatus: 9
-  - path: AR-God\Library\StateCache\Hierarchy\822df1-442e58fc1a9b09e4c8.json
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\StateCache\Hierarchy\822df1-442e58fc1a9b09e4c8.json
-    projectPath: Library\StateCache\Hierarchy\822df1-442e58fc1a9b09e4c8.json
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AR-God\Library\SourceAssetDB-lock
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\SourceAssetDB-lock
+    projectPath: Library\SourceAssetDB-lock
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AR-God\Library\StateCache\Hierarchy\822df1-6707883ede3858046a.json
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\StateCache\Hierarchy\822df1-6707883ede3858046a.json
-    projectPath: Library\StateCache\Hierarchy\822df1-6707883ede3858046a.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AR-God\Library\StateCache\Hierarchy\822df1-69b40ef7ee16c834c8.json
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\StateCache\Hierarchy\822df1-69b40ef7ee16c834c8.json
-    projectPath: Library\StateCache\Hierarchy\822df1-69b40ef7ee16c834c8.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AR-God\Library\StateCache\Hierarchy\822df1-cf44ec1cc402e88498.json
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\StateCache\Hierarchy\822df1-cf44ec1cc402e88498.json
-    projectPath: Library\StateCache\Hierarchy\822df1-cf44ec1cc402e88498.json
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AR-God\Library\StateCache\Hierarchy\822df1-8bd82d4797b26664c8.json
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\StateCache\Hierarchy\822df1-8bd82d4797b26664c8.json
+    projectPath: Library\StateCache\Hierarchy\822df1-8bd82d4797b26664c8.json
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
   - path: AR-God\Library\StateCache\Hierarchy\822df1-mainStage.json
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\StateCache\Hierarchy\822df1-mainStage.json
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\StateCache\Hierarchy\822df1-mainStage.json
     projectPath: Library\StateCache\Hierarchy\822df1-mainStage.json
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AR-God\Library\StateCache\SceneView\5d7aad-e332982425ee2ec48b.json
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\StateCache\SceneView\5d7aad-e332982425ee2ec48b.json
-    projectPath: Library\StateCache\SceneView\5d7aad-e332982425ee2ec48b.json
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 4
-  - path: AR-God\Library\StateCache\SceneView\5d7aad-mainStage.json
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\StateCache\SceneView\5d7aad-mainStage.json
-    projectPath: Library\StateCache\SceneView\5d7aad-mainStage.json
-    originalPath: 
-    indexStatus: 9
-    workTreeStatus: 9
-  - path: AR-God\Library\StateCache\SceneView\6a3e26-442e58fc1a9b09e4c8.json
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\StateCache\SceneView\6a3e26-442e58fc1a9b09e4c8.json
-    projectPath: Library\StateCache\SceneView\6a3e26-442e58fc1a9b09e4c8.json
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AR-God\Library\StateCache\Hierarchy\97b062-4248ba95366d590468.json
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\StateCache\Hierarchy\97b062-4248ba95366d590468.json
+    projectPath: Library\StateCache\Hierarchy\97b062-4248ba95366d590468.json
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Library\StateCache\SceneView\6a3e26-6707883ede3858046a.json
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\StateCache\SceneView\6a3e26-6707883ede3858046a.json
-    projectPath: Library\StateCache\SceneView\6a3e26-6707883ede3858046a.json
+  - path: AR-God\Library\StateCache\Hierarchy\97b062-450dff828997cdd4c8.json
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\StateCache\Hierarchy\97b062-450dff828997cdd4c8.json
+    projectPath: Library\StateCache\Hierarchy\97b062-450dff828997cdd4c8.json
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Library\StateCache\SceneView\6a3e26-69b40ef7ee16c834c8.json
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\StateCache\SceneView\6a3e26-69b40ef7ee16c834c8.json
-    projectPath: Library\StateCache\SceneView\6a3e26-69b40ef7ee16c834c8.json
+  - path: AR-God\Library\StateCache\Hierarchy\97b062-45cba24a6a5389a4ab.json
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\StateCache\Hierarchy\97b062-45cba24a6a5389a4ab.json
+    projectPath: Library\StateCache\Hierarchy\97b062-45cba24a6a5389a4ab.json
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Library\StateCache\SceneView\6a3e26-cf44ec1cc402e88498.json
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\StateCache\SceneView\6a3e26-cf44ec1cc402e88498.json
-    projectPath: Library\StateCache\SceneView\6a3e26-cf44ec1cc402e88498.json
+  - path: AR-God\Library\StateCache\Hierarchy\97b062-4a208ba3b61f6e2459.json
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\StateCache\Hierarchy\97b062-4a208ba3b61f6e2459.json
+    projectPath: Library\StateCache\Hierarchy\97b062-4a208ba3b61f6e2459.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Library\StateCache\Hierarchy\97b062-537a18d45863c794c9.json
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\StateCache\Hierarchy\97b062-537a18d45863c794c9.json
+    projectPath: Library\StateCache\Hierarchy\97b062-537a18d45863c794c9.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Library\StateCache\Hierarchy\97b062-69b40ef7ee16c834c8.json
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\StateCache\Hierarchy\97b062-69b40ef7ee16c834c8.json
+    projectPath: Library\StateCache\Hierarchy\97b062-69b40ef7ee16c834c8.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Library\StateCache\Hierarchy\97b062-6ff1350c2a91520479.json
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\StateCache\Hierarchy\97b062-6ff1350c2a91520479.json
+    projectPath: Library\StateCache\Hierarchy\97b062-6ff1350c2a91520479.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Library\StateCache\Hierarchy\97b062-7f4cd52014748b049b.json
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\StateCache\Hierarchy\97b062-7f4cd52014748b049b.json
+    projectPath: Library\StateCache\Hierarchy\97b062-7f4cd52014748b049b.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Library\StateCache\Hierarchy\97b062-9826389809c2e1e41a.json
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\StateCache\Hierarchy\97b062-9826389809c2e1e41a.json
+    projectPath: Library\StateCache\Hierarchy\97b062-9826389809c2e1e41a.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Library\StateCache\Hierarchy\97b062-a905d8e5159ffeb46b.json
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\StateCache\Hierarchy\97b062-a905d8e5159ffeb46b.json
+    projectPath: Library\StateCache\Hierarchy\97b062-a905d8e5159ffeb46b.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Library\StateCache\Hierarchy\97b062-aeae58bf37a687647a.json
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\StateCache\Hierarchy\97b062-aeae58bf37a687647a.json
+    projectPath: Library\StateCache\Hierarchy\97b062-aeae58bf37a687647a.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Library\StateCache\Hierarchy\97b062-b6ca11850ebc2e64a8.json
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\StateCache\Hierarchy\97b062-b6ca11850ebc2e64a8.json
+    projectPath: Library\StateCache\Hierarchy\97b062-b6ca11850ebc2e64a8.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Library\StateCache\Hierarchy\97b062-be7d9c7b953f9b1438.json
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\StateCache\Hierarchy\97b062-be7d9c7b953f9b1438.json
+    projectPath: Library\StateCache\Hierarchy\97b062-be7d9c7b953f9b1438.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Library\StateCache\Hierarchy\97b062-bf350f60afaca7e44b.json
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\StateCache\Hierarchy\97b062-bf350f60afaca7e44b.json
+    projectPath: Library\StateCache\Hierarchy\97b062-bf350f60afaca7e44b.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Library\StateCache\Hierarchy\97b062-c0a15d884e5e7a9468.json
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\StateCache\Hierarchy\97b062-c0a15d884e5e7a9468.json
+    projectPath: Library\StateCache\Hierarchy\97b062-c0a15d884e5e7a9468.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Library\StateCache\Hierarchy\97b062-cf44ec1cc402e88498.json
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\StateCache\Hierarchy\97b062-cf44ec1cc402e88498.json
+    projectPath: Library\StateCache\Hierarchy\97b062-cf44ec1cc402e88498.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Library\StateCache\Hierarchy\97b062-e161ed02795c4b4429.json
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\StateCache\Hierarchy\97b062-e161ed02795c4b4429.json
+    projectPath: Library\StateCache\Hierarchy\97b062-e161ed02795c4b4429.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Library\StateCache\Hierarchy\97b062-ecaf5246483a3b1438.json
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\StateCache\Hierarchy\97b062-ecaf5246483a3b1438.json
+    projectPath: Library\StateCache\Hierarchy\97b062-ecaf5246483a3b1438.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Library\StateCache\Hierarchy\c993a7-mainStage.json
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\StateCache\Hierarchy\c993a7-mainStage.json
+    projectPath: Library\StateCache\Hierarchy\c993a7-mainStage.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Library\StateCache\SceneView\5d7aad-4248ba95366d590468.json
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\StateCache\SceneView\5d7aad-4248ba95366d590468.json
+    projectPath: Library\StateCache\SceneView\5d7aad-4248ba95366d590468.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Library\StateCache\SceneView\5d7aad-450dff828997cdd4c8.json
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\StateCache\SceneView\5d7aad-450dff828997cdd4c8.json
+    projectPath: Library\StateCache\SceneView\5d7aad-450dff828997cdd4c8.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Library\StateCache\SceneView\5d7aad-45cba24a6a5389a4ab.json
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\StateCache\SceneView\5d7aad-45cba24a6a5389a4ab.json
+    projectPath: Library\StateCache\SceneView\5d7aad-45cba24a6a5389a4ab.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Library\StateCache\SceneView\5d7aad-4a208ba3b61f6e2459.json
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\StateCache\SceneView\5d7aad-4a208ba3b61f6e2459.json
+    projectPath: Library\StateCache\SceneView\5d7aad-4a208ba3b61f6e2459.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Library\StateCache\SceneView\5d7aad-537a18d45863c794c9.json
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\StateCache\SceneView\5d7aad-537a18d45863c794c9.json
+    projectPath: Library\StateCache\SceneView\5d7aad-537a18d45863c794c9.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Library\StateCache\SceneView\5d7aad-69b40ef7ee16c834c8.json
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\StateCache\SceneView\5d7aad-69b40ef7ee16c834c8.json
+    projectPath: Library\StateCache\SceneView\5d7aad-69b40ef7ee16c834c8.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Library\StateCache\SceneView\5d7aad-6ff1350c2a91520479.json
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\StateCache\SceneView\5d7aad-6ff1350c2a91520479.json
+    projectPath: Library\StateCache\SceneView\5d7aad-6ff1350c2a91520479.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Library\StateCache\SceneView\5d7aad-7f4cd52014748b049b.json
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\StateCache\SceneView\5d7aad-7f4cd52014748b049b.json
+    projectPath: Library\StateCache\SceneView\5d7aad-7f4cd52014748b049b.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Library\StateCache\SceneView\5d7aad-9826389809c2e1e41a.json
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\StateCache\SceneView\5d7aad-9826389809c2e1e41a.json
+    projectPath: Library\StateCache\SceneView\5d7aad-9826389809c2e1e41a.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Library\StateCache\SceneView\5d7aad-a905d8e5159ffeb46b.json
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\StateCache\SceneView\5d7aad-a905d8e5159ffeb46b.json
+    projectPath: Library\StateCache\SceneView\5d7aad-a905d8e5159ffeb46b.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Library\StateCache\SceneView\5d7aad-aeae58bf37a687647a.json
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\StateCache\SceneView\5d7aad-aeae58bf37a687647a.json
+    projectPath: Library\StateCache\SceneView\5d7aad-aeae58bf37a687647a.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Library\StateCache\SceneView\5d7aad-b6ca11850ebc2e64a8.json
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\StateCache\SceneView\5d7aad-b6ca11850ebc2e64a8.json
+    projectPath: Library\StateCache\SceneView\5d7aad-b6ca11850ebc2e64a8.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Library\StateCache\SceneView\5d7aad-be7d9c7b953f9b1438.json
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\StateCache\SceneView\5d7aad-be7d9c7b953f9b1438.json
+    projectPath: Library\StateCache\SceneView\5d7aad-be7d9c7b953f9b1438.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Library\StateCache\SceneView\5d7aad-bf350f60afaca7e44b.json
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\StateCache\SceneView\5d7aad-bf350f60afaca7e44b.json
+    projectPath: Library\StateCache\SceneView\5d7aad-bf350f60afaca7e44b.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Library\StateCache\SceneView\5d7aad-c0a15d884e5e7a9468.json
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\StateCache\SceneView\5d7aad-c0a15d884e5e7a9468.json
+    projectPath: Library\StateCache\SceneView\5d7aad-c0a15d884e5e7a9468.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Library\StateCache\SceneView\5d7aad-cf44ec1cc402e88498.json
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\StateCache\SceneView\5d7aad-cf44ec1cc402e88498.json
+    projectPath: Library\StateCache\SceneView\5d7aad-cf44ec1cc402e88498.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Library\StateCache\SceneView\5d7aad-e161ed02795c4b4429.json
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\StateCache\SceneView\5d7aad-e161ed02795c4b4429.json
+    projectPath: Library\StateCache\SceneView\5d7aad-e161ed02795c4b4429.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Library\StateCache\SceneView\5d7aad-ecaf5246483a3b1438.json
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\StateCache\SceneView\5d7aad-ecaf5246483a3b1438.json
+    projectPath: Library\StateCache\SceneView\5d7aad-ecaf5246483a3b1438.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Library\StateCache\SceneView\6a3e26-8bd82d4797b26664c8.json
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\StateCache\SceneView\6a3e26-8bd82d4797b26664c8.json
+    projectPath: Library\StateCache\SceneView\6a3e26-8bd82d4797b26664c8.json
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
   - path: AR-God\Library\StateCache\SceneView\6a3e26-mainStage.json
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\StateCache\SceneView\6a3e26-mainStage.json
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\StateCache\SceneView\6a3e26-mainStage.json
     projectPath: Library\StateCache\SceneView\6a3e26-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AR-God\Library\StateCache\SceneView\a6a7ab-mainStage.json
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\StateCache\SceneView\a6a7ab-mainStage.json
+    projectPath: Library\StateCache\SceneView\a6a7ab-mainStage.json
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
+  - path: AR-God\Library\UIElements\EditorWindows\UnityEditor.PackageManager.UI.PackageManagerWindow.pref
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\UIElements\EditorWindows\UnityEditor.PackageManager.UI.PackageManagerWindow.pref
+    projectPath: Library\UIElements\EditorWindows\UnityEditor.PackageManager.UI.PackageManagerWindow.pref
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AR-God\ProjectSettings\TagManager.asset
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\ProjectSettings\TagManager.asset
+    projectPath: ProjectSettings\TagManager.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: AR-God\QCAR\somedata16
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\QCAR\somedata16
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\QCAR\somedata16
     projectPath: QCAR\somedata16
     originalPath: 
-    indexStatus: 3
+    indexStatus: 0
     workTreeStatus: 3
   - path: AR-God\Temp\__Backupscenes\0.backup
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\__Backupscenes\0.backup
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Temp\__Backupscenes\0.backup
     projectPath: Temp\__Backupscenes\0.backup
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
   - path: AR-God\Temp\UnityLockfile
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\UnityLockfile
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Temp\UnityLockfile
     projectPath: Temp\UnityLockfile
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Temp\UnityTempFile-13a2ed6dc4fd4a04faf089e5dd4921db
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Temp\UnityTempFile-13a2ed6dc4fd4a04faf089e5dd4921db
+    projectPath: Temp\UnityTempFile-13a2ed6dc4fd4a04faf089e5dd4921db
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Temp\UnityTempFile-2179ee8272c89924094d6d831fe05bbd
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Temp\UnityTempFile-2179ee8272c89924094d6d831fe05bbd
+    projectPath: Temp\UnityTempFile-2179ee8272c89924094d6d831fe05bbd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Temp\UnityTempFile-22a49f5b556d7d94984b715b6e62acbe
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Temp\UnityTempFile-22a49f5b556d7d94984b715b6e62acbe
+    projectPath: Temp\UnityTempFile-22a49f5b556d7d94984b715b6e62acbe
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Temp\UnityTempFile-22db1fd7a25cf534c921d9c02d39a9b1
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Temp\UnityTempFile-22db1fd7a25cf534c921d9c02d39a9b1
+    projectPath: Temp\UnityTempFile-22db1fd7a25cf534c921d9c02d39a9b1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Temp\UnityTempFile-2398970c533203b4dbc8d5cfa2cc15d6
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Temp\UnityTempFile-2398970c533203b4dbc8d5cfa2cc15d6
+    projectPath: Temp\UnityTempFile-2398970c533203b4dbc8d5cfa2cc15d6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Temp\UnityTempFile-24f3c99fa40b39542ac9b5dfa20ef8d8
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Temp\UnityTempFile-24f3c99fa40b39542ac9b5dfa20ef8d8
+    projectPath: Temp\UnityTempFile-24f3c99fa40b39542ac9b5dfa20ef8d8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Temp\UnityTempFile-2fb4ec31879a50647992f77c3a71d08c
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Temp\UnityTempFile-2fb4ec31879a50647992f77c3a71d08c
+    projectPath: Temp\UnityTempFile-2fb4ec31879a50647992f77c3a71d08c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Temp\UnityTempFile-3aa9fe617eb0df145b07e73b332b29fa
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Temp\UnityTempFile-3aa9fe617eb0df145b07e73b332b29fa
+    projectPath: Temp\UnityTempFile-3aa9fe617eb0df145b07e73b332b29fa
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Temp\UnityTempFile-3e9aeed1e4ae94c4ca55ae00f6b8691b
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Temp\UnityTempFile-3e9aeed1e4ae94c4ca55ae00f6b8691b
+    projectPath: Temp\UnityTempFile-3e9aeed1e4ae94c4ca55ae00f6b8691b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Temp\UnityTempFile-48967b140129c9c4fb683f5492c6a4c4
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Temp\UnityTempFile-48967b140129c9c4fb683f5492c6a4c4
+    projectPath: Temp\UnityTempFile-48967b140129c9c4fb683f5492c6a4c4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Temp\UnityTempFile-4afc711d91845094686ad7ecb8df945a
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Temp\UnityTempFile-4afc711d91845094686ad7ecb8df945a
+    projectPath: Temp\UnityTempFile-4afc711d91845094686ad7ecb8df945a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Temp\UnityTempFile-4b82c43f5b2c1384eac72db1ed51948f
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Temp\UnityTempFile-4b82c43f5b2c1384eac72db1ed51948f
+    projectPath: Temp\UnityTempFile-4b82c43f5b2c1384eac72db1ed51948f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Temp\UnityTempFile-4f2d37652e33c6b459ae89f2f91892ff
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Temp\UnityTempFile-4f2d37652e33c6b459ae89f2f91892ff
+    projectPath: Temp\UnityTempFile-4f2d37652e33c6b459ae89f2f91892ff
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Temp\UnityTempFile-4fb255fd342eac94fad6203c9732f159
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Temp\UnityTempFile-4fb255fd342eac94fad6203c9732f159
+    projectPath: Temp\UnityTempFile-4fb255fd342eac94fad6203c9732f159
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Temp\UnityTempFile-51ac1d75913dc6f4883d048ff8cbad21
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Temp\UnityTempFile-51ac1d75913dc6f4883d048ff8cbad21
+    projectPath: Temp\UnityTempFile-51ac1d75913dc6f4883d048ff8cbad21
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Temp\UnityTempFile-524c17c55a315bf4fb204e16d2d6f2ab
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Temp\UnityTempFile-524c17c55a315bf4fb204e16d2d6f2ab
+    projectPath: Temp\UnityTempFile-524c17c55a315bf4fb204e16d2d6f2ab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Temp\UnityTempFile-542f580eb5ea35242a6d023d1b7ee0af
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Temp\UnityTempFile-542f580eb5ea35242a6d023d1b7ee0af
+    projectPath: Temp\UnityTempFile-542f580eb5ea35242a6d023d1b7ee0af
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Temp\UnityTempFile-58da01a14f81b0c45952f97891309825
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Temp\UnityTempFile-58da01a14f81b0c45952f97891309825
+    projectPath: Temp\UnityTempFile-58da01a14f81b0c45952f97891309825
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Temp\UnityTempFile-67030cef147deee45ae03c2edc511a59
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Temp\UnityTempFile-67030cef147deee45ae03c2edc511a59
+    projectPath: Temp\UnityTempFile-67030cef147deee45ae03c2edc511a59
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Temp\UnityTempFile-6c39f0a4abd37fc4abaac7477e354d08
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Temp\UnityTempFile-6c39f0a4abd37fc4abaac7477e354d08
+    projectPath: Temp\UnityTempFile-6c39f0a4abd37fc4abaac7477e354d08
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Temp\UnityTempFile-71a685b0abef9fe4b9a1c3e835ef6ecd
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Temp\UnityTempFile-71a685b0abef9fe4b9a1c3e835ef6ecd
+    projectPath: Temp\UnityTempFile-71a685b0abef9fe4b9a1c3e835ef6ecd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Temp\UnityTempFile-78e902068232a1845847d1712fc1901a
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Temp\UnityTempFile-78e902068232a1845847d1712fc1901a
+    projectPath: Temp\UnityTempFile-78e902068232a1845847d1712fc1901a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Temp\UnityTempFile-7a0e69750b270cf4589efa4d4dbd305c
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Temp\UnityTempFile-7a0e69750b270cf4589efa4d4dbd305c
+    projectPath: Temp\UnityTempFile-7a0e69750b270cf4589efa4d4dbd305c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Temp\UnityTempFile-7ce77c76cf408904bad0649a9b58a8a9
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Temp\UnityTempFile-7ce77c76cf408904bad0649a9b58a8a9
+    projectPath: Temp\UnityTempFile-7ce77c76cf408904bad0649a9b58a8a9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Temp\UnityTempFile-8b74abed9be86b34abd7877b81e78a10
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Temp\UnityTempFile-8b74abed9be86b34abd7877b81e78a10
+    projectPath: Temp\UnityTempFile-8b74abed9be86b34abd7877b81e78a10
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Temp\UnityTempFile-910856831d9bcd7479e7b144e24335fe
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Temp\UnityTempFile-910856831d9bcd7479e7b144e24335fe
+    projectPath: Temp\UnityTempFile-910856831d9bcd7479e7b144e24335fe
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Temp\UnityTempFile-97c5e5e17cbd32047b1b28e2c8c1324a
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Temp\UnityTempFile-97c5e5e17cbd32047b1b28e2c8c1324a
+    projectPath: Temp\UnityTempFile-97c5e5e17cbd32047b1b28e2c8c1324a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Temp\UnityTempFile-9a1e03f6cce3e9842971d904e271fed8
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Temp\UnityTempFile-9a1e03f6cce3e9842971d904e271fed8
+    projectPath: Temp\UnityTempFile-9a1e03f6cce3e9842971d904e271fed8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Temp\UnityTempFile-9fdf13d9aee004c4db70a67a7d42392e
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Temp\UnityTempFile-9fdf13d9aee004c4db70a67a7d42392e
+    projectPath: Temp\UnityTempFile-9fdf13d9aee004c4db70a67a7d42392e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Temp\UnityTempFile-ba5be63915fda7244b0fb18f65b8420d
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Temp\UnityTempFile-ba5be63915fda7244b0fb18f65b8420d
+    projectPath: Temp\UnityTempFile-ba5be63915fda7244b0fb18f65b8420d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Temp\UnityTempFile-c7d6f03a22a7e4049b03959e49b8e620
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Temp\UnityTempFile-c7d6f03a22a7e4049b03959e49b8e620
+    projectPath: Temp\UnityTempFile-c7d6f03a22a7e4049b03959e49b8e620
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Temp\UnityTempFile-cfba5e86c3fbf354a9f0326f9f1da1a1
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Temp\UnityTempFile-cfba5e86c3fbf354a9f0326f9f1da1a1
+    projectPath: Temp\UnityTempFile-cfba5e86c3fbf354a9f0326f9f1da1a1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Temp\UnityTempFile-d5371a9e390301247a6b2a3f9b5858b4
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Temp\UnityTempFile-d5371a9e390301247a6b2a3f9b5858b4
+    projectPath: Temp\UnityTempFile-d5371a9e390301247a6b2a3f9b5858b4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Temp\UnityTempFile-e077aca30838b8b4b80318743bde0ae0
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Temp\UnityTempFile-e077aca30838b8b4b80318743bde0ae0
+    projectPath: Temp\UnityTempFile-e077aca30838b8b4b80318743bde0ae0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Temp\UnityTempFile-f0e7d0e871e221c4b8faf089034fd01d
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Temp\UnityTempFile-f0e7d0e871e221c4b8faf089034fd01d
+    projectPath: Temp\UnityTempFile-f0e7d0e871e221c4b8faf089034fd01d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Temp\UnityTempFile-f74d8ee4da3fd5441b57f1bbdf410e4e
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Temp\UnityTempFile-f74d8ee4da3fd5441b57f1bbdf410e4e
+    projectPath: Temp\UnityTempFile-f74d8ee4da3fd5441b57f1bbdf410e4e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Temp\UnityTempFile-ff0e58aa038f7654b85f77f77e5436b3
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Temp\UnityTempFile-ff0e58aa038f7654b85f77f77e5436b3
+    projectPath: Temp\UnityTempFile-ff0e58aa038f7654b85f77f77e5436b3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\ThirteenPixels.GitMerge.csproj
+    fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\ThirteenPixels.GitMerge.csproj
+    projectPath: ThirteenPixels.GitMerge.csproj
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1

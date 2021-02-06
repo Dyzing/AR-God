@@ -9,12 +9,12 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1109517887, guid: 60d420954e934404d89df943aaa1f550, type: 3}
+  m_Script: {fileID: 1109517887, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2021-02-06T16:30:08.551+01:00
-  initializedAtString: 2021-02-06T16:30:08.551+01:00
+  lastUpdatedAtString: 2021-02-06T19:49:16.964+01:00
+  initializedAtString: 2021-02-06T19:49:16.964+01:00
   currentGitRemote:
     name: origin
     url: https://github.com/Dyzing/AR-God.git
