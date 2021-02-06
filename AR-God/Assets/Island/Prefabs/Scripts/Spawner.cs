@@ -27,8 +27,9 @@ public class Spawner : MonoBehaviour
     public void SpawnFood()
     {
         Vector3 pos = center + new Vector3(Random.Range(-size.x/2 / 2, size.x / 2), Random.Range(-size.y / 2 / 2, size.y / 2), Random.Range(-size.z / 2 / 2, size.z / 2));
-
-        GameObject tmp = Instantiate(Foodprefab, pos, Quaternion.identity);
+        Transform[] FoodprefabChildren = Foodprefab.GetComponentsInChildren<Transform>();
+        int randChild = Random.Range(1, FoodprefabChildren.Length);
+        GameObject tmp = Instantiate(FoodprefabChildren[randChild].gameObject, pos, Quaternion.identity);
         tmp.transform.SetParent(FallingObject.transform);
     }
 

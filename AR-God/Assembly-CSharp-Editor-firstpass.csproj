@@ -696,6 +696,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="ThirteenPixels.GitMerge.csproj">
+      <Project>{FE2C413B-9F84-E952-D64C-CB06FE0EF434}</Project>
+      <Name>ThirteenPixels.GitMerge</Name>
+    </ProjectReference>
     <ProjectReference Include="EditorMigrationScripts.csproj">
       <Project>{E1A7FFD4-2998-9549-8AFE-6FAB1E1C809D}</Project>
       <Name>EditorMigrationScripts</Name>

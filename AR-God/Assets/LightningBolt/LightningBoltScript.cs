@@ -6,6 +6,7 @@
 // 
 
 using UnityEngine;
+using System.Collections;
 using System.Collections.Generic;
 
 namespace DigitalRuby.LightningBolt
@@ -50,6 +51,8 @@ namespace DigitalRuby.LightningBolt
 
         [Tooltip("The game object where the lightning will end at. If null, EndPosition is used.")]
         public GameObject EndObject;
+        private Transform[] EndObjectChildren;
+        private int randChhild;
 
         [Tooltip("The end position where the lightning will end at. This is in world space if EndObject is null, otherwise this is offset from EndObject position.")]
         public Vector3 EndPosition;
@@ -331,7 +334,9 @@ namespace DigitalRuby.LightningBolt
             }
             else
             {
-                end = EndObject.transform.position + EndPosition;
+                EndObjectChildren = EndObject.GetComponentsInChildren<Transform>();
+                randChhild = Random.Range(0, EndObjectChildren.Length);
+                end = EndObjectChildren[randChhild].position + EndPosition;
             }
             startIndex = 0;
             GenerateLightningBolt(start, end, Generations, Generations, 0.0f);
