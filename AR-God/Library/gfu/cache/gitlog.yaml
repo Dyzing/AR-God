@@ -13,6 +13,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
+<<<<<<< HEAD
   lastUpdatedAtString: 2021-02-04T21:32:31.401+01:00
   initializedAtString: 2021-02-04T21:32:31.401+01:00
   log:
@@ -725,6 +726,11 @@ MonoBehaviour:
       originalPath: 
       indexStatus: 3
       workTreeStatus: 0
+=======
+  lastUpdatedAtString: 2021-02-03T23:05:05.436+01:00
+  initializedAtString: 2021-02-03T23:05:04.138+01:00
+  log:
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
   - commitID: 76846e66e0624b93493cc078aa2f3a414c1767f6
     mergeA: 
     mergeB: 
@@ -738,199 +744,331 @@ MonoBehaviour:
     commitTimeString: 2021-02-03T20:56:44.000+01:00
     changes:
     - path: AR-God\AR-God.sln
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\AR-God.sln
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\AR-God.sln
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: AR-God.sln
       originalPath: 
       indexStatus: 3
       workTreeStatus: 0
     - path: AR-God\Assembly-CSharp-Editor-firstpass.csproj
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assembly-CSharp-Editor-firstpass.csproj
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assembly-CSharp-Editor-firstpass.csproj
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assembly-CSharp-Editor-firstpass.csproj
       originalPath: 
       indexStatus: 3
       workTreeStatus: 0
     - path: AR-God\Assembly-CSharp.csproj
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assembly-CSharp.csproj
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assembly-CSharp.csproj
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assembly-CSharp.csproj
       originalPath: 
       indexStatus: 3
       workTreeStatus: 0
     - path: AR-God\EditorMigrationScripts.csproj
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\EditorMigrationScripts.csproj
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\EditorMigrationScripts.csproj
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: EditorMigrationScripts.csproj
       originalPath: 
       indexStatus: 3
       workTreeStatus: 0
     - path: AR-God\Library\APIUpdater\project-dependencies.graph
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\APIUpdater\project-dependencies.graph
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\APIUpdater\project-dependencies.graph
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Library\APIUpdater\project-dependencies.graph
       originalPath: 
       indexStatus: 3
       workTreeStatus: 0
     - path: AR-God\Library\CurrentLayout-default.dwlt
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\CurrentLayout-default.dwlt
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\CurrentLayout-default.dwlt
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Library\CurrentLayout-default.dwlt
       originalPath: 
       indexStatus: 3
       workTreeStatus: 0
     - path: AR-God\Library\LastSceneManagerSetup.txt
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\LastSceneManagerSetup.txt
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\LastSceneManagerSetup.txt
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Library\LastSceneManagerSetup.txt
       originalPath: 
       indexStatus: 3
       workTreeStatus: 0
     - path: AR-God\Library\SceneVisibilityState.asset
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\SceneVisibilityState.asset
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\SceneVisibilityState.asset
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Library\SceneVisibilityState.asset
       originalPath: 
       indexStatus: 3
       workTreeStatus: 0
     - path: AR-God\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
       originalPath: 
       indexStatus: 3
       workTreeStatus: 0
     - path: AR-God\Library\ScriptAssemblies\Assembly-CSharp.dll
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ScriptAssemblies\Assembly-CSharp.dll
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ScriptAssemblies\Assembly-CSharp.dll
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
       originalPath: 
       indexStatus: 3
       workTreeStatus: 0
     - path: AR-God\Library\ScriptAssemblies\EditorMigrationScripts.dll
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ScriptAssemblies\EditorMigrationScripts.dll
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ScriptAssemblies\EditorMigrationScripts.dll
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Library\ScriptAssemblies\EditorMigrationScripts.dll
       originalPath: 
       indexStatus: 3
       workTreeStatus: 0
     - path: AR-God\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
       originalPath: 
       indexStatus: 3
       workTreeStatus: 0
     - path: AR-God\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.dll
       originalPath: 
       indexStatus: 3
       workTreeStatus: 0
     - path: AR-God\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
       originalPath: 
       indexStatus: 3
       workTreeStatus: 0
     - path: AR-God\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
       originalPath: 
       indexStatus: 3
       workTreeStatus: 0
     - path: AR-God\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
       originalPath: 
       indexStatus: 3
       workTreeStatus: 0
     - path: AR-God\Library\ScriptAssemblies\Unity.Timeline.dll
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ScriptAssemblies\Unity.Timeline.dll
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ScriptAssemblies\Unity.Timeline.dll
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
       originalPath: 
       indexStatus: 3
       workTreeStatus: 0
     - path: AR-God\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
       originalPath: 
       indexStatus: 3
       workTreeStatus: 0
     - path: AR-God\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
       originalPath: 
       indexStatus: 3
       workTreeStatus: 0
     - path: AR-God\Library\ScriptAssemblies\UnityEditor.UI.dll
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ScriptAssemblies\UnityEditor.UI.dll
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ScriptAssemblies\UnityEditor.UI.dll
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Library\ScriptAssemblies\UnityEditor.UI.dll
       originalPath: 
       indexStatus: 3
       workTreeStatus: 0
     - path: AR-God\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
       originalPath: 
       indexStatus: 3
       workTreeStatus: 0
     - path: AR-God\Library\ScriptAssemblies\UnityEngine.UI.dll
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ScriptAssemblies\UnityEngine.UI.dll
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ScriptAssemblies\UnityEngine.UI.dll
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Library\ScriptAssemblies\UnityEngine.UI.dll
       originalPath: 
       indexStatus: 3
       workTreeStatus: 0
     - path: AR-God\Library\ScriptAssemblies\VuforiaEditorScripts.dll
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ScriptAssemblies\VuforiaEditorScripts.dll
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ScriptAssemblies\VuforiaEditorScripts.dll
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Library\ScriptAssemblies\VuforiaEditorScripts.dll
       originalPath: 
       indexStatus: 3
       workTreeStatus: 0
     - path: AR-God\Library\ScriptAssemblies\VuforiaScripts.dll
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ScriptAssemblies\VuforiaScripts.dll
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ScriptAssemblies\VuforiaScripts.dll
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Library\ScriptAssemblies\VuforiaScripts.dll
       originalPath: 
       indexStatus: 3
       workTreeStatus: 0
     - path: AR-God\Library\ShaderCache\3\3f154f89fe42ace0cf89d547fe482d5b.bin
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\3\3f154f89fe42ace0cf89d547fe482d5b.bin
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\3\3f154f89fe42ace0cf89d547fe482d5b.bin
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Library\ShaderCache\3\3f154f89fe42ace0cf89d547fe482d5b.bin
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Library\ShaderCache\9\96ffd35b4fa60f431b6053778a30e153.bin
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\9\96ffd35b4fa60f431b6053778a30e153.bin
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\9\96ffd35b4fa60f431b6053778a30e153.bin
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Library\ShaderCache\9\96ffd35b4fa60f431b6053778a30e153.bin
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Library\ShaderCache\f\f3054202d65fb0d17ebb41634a5b5004.bin
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\f\f3054202d65fb0d17ebb41634a5b5004.bin
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\f\f3054202d65fb0d17ebb41634a5b5004.bin
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Library\ShaderCache\f\f3054202d65fb0d17ebb41634a5b5004.bin
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Library\ShaderCache\f\f9589f0996305d4f40c9f97f35b82bbd.bin
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\f\f9589f0996305d4f40c9f97f35b82bbd.bin
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\f\f9589f0996305d4f40c9f97f35b82bbd.bin
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Library\ShaderCache\f\f9589f0996305d4f40c9f97f35b82bbd.bin
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Library\SourceAssetDB
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\SourceAssetDB
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\SourceAssetDB
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Library\SourceAssetDB
       originalPath: 
       indexStatus: 3
       workTreeStatus: 0
     - path: AR-God\Library\gfu\cache\gitlocks.yaml
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\gfu\cache\gitlocks.yaml
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\gfu\cache\gitlocks.yaml
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Library\gfu\cache\gitlocks.yaml
       originalPath: 
       indexStatus: 3
       workTreeStatus: 0
     - path: AR-God\Library\gfu\cache\gitstatusentries.yaml
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\gfu\cache\gitstatusentries.yaml
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\gfu\cache\gitstatusentries.yaml
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Library\gfu\cache\gitstatusentries.yaml
       originalPath: 
       indexStatus: 3
       workTreeStatus: 0
     - path: AR-God\Library\gfu\cache\gittrackingstatus.yaml
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\gfu\cache\gittrackingstatus.yaml
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\gfu\cache\gittrackingstatus.yaml
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Library\gfu\cache\gittrackingstatus.yaml
       originalPath: 
       indexStatus: 3
       workTreeStatus: 0
     - path: AR-God\Library\gfu\cache\repoinfo.yaml
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\gfu\cache\repoinfo.yaml
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\gfu\cache\repoinfo.yaml
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Library\gfu\cache\repoinfo.yaml
       originalPath: 
       indexStatus: 3
@@ -948,1417 +1086,2361 @@ MonoBehaviour:
     commitTimeString: 2021-02-03T20:50:53.000+01:00
     changes:
     - path: .gitignore
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\.gitignore
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\.gitignore
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: ..\.gitignore
       originalPath: 
       indexStatus: 3
       workTreeStatus: 0
     - path: AR-God\AR-God.sln
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\AR-God.sln
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\AR-God.sln
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: AR-God.sln
       originalPath: 
       indexStatus: 3
       workTreeStatus: 0
     - path: AR-God\Assembly-CSharp-Editor-firstpass.csproj
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assembly-CSharp-Editor-firstpass.csproj
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assembly-CSharp-Editor-firstpass.csproj
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assembly-CSharp-Editor-firstpass.csproj
       originalPath: 
       indexStatus: 3
       workTreeStatus: 0
     - path: AR-God\Assembly-CSharp.csproj
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assembly-CSharp.csproj
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assembly-CSharp.csproj
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assembly-CSharp.csproj
       originalPath: 
       indexStatus: 3
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Materials\Misc\PolygonStarter_Clouds_Mat.mat
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Materials\Misc\PolygonStarter_Clouds_Mat.mat
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Materials\Misc\PolygonStarter_Clouds_Mat.mat
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Materials\Misc\PolygonStarter_Clouds_Mat.mat
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Materials\Misc\PolygonStarter_Mat_01_Glass.mat
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Materials\Misc\PolygonStarter_Mat_01_Glass.mat
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Materials\Misc\PolygonStarter_Mat_01_Glass.mat
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Materials\Misc\PolygonStarter_Mat_01_Glass.mat
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Materials\Misc\PolygonStarter_SimpleSky_01.mat
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Materials\Misc\PolygonStarter_SimpleSky_01.mat
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Materials\Misc\PolygonStarter_SimpleSky_01.mat
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Materials\Misc\PolygonStarter_SimpleSky_01.mat
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Materials\Plane\PolygonStarter_Mat_Plane_01.mat
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Materials\Plane\PolygonStarter_Mat_Plane_01.mat
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Materials\Plane\PolygonStarter_Mat_Plane_01.mat
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Materials\Plane\PolygonStarter_Mat_Plane_01.mat
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Materials\Plane\PolygonStarter_Mat_Plane_02.mat
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Materials\Plane\PolygonStarter_Mat_Plane_02.mat
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Materials\Plane\PolygonStarter_Mat_Plane_02.mat
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Materials\Plane\PolygonStarter_Mat_Plane_02.mat
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Materials\Plane\PolygonStarter_Mat_Plane_03.mat
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Materials\Plane\PolygonStarter_Mat_Plane_03.mat
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Materials\Plane\PolygonStarter_Mat_Plane_03.mat
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Materials\Plane\PolygonStarter_Mat_Plane_03.mat
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Materials\Plane\PolygonStarter_Mat_Plane_04.mat
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Materials\Plane\PolygonStarter_Mat_Plane_04.mat
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Materials\Plane\PolygonStarter_Mat_Plane_04.mat
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Materials\Plane\PolygonStarter_Mat_Plane_04.mat
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Materials\PolygonStarter_Mat_01.mat
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Materials\PolygonStarter_Mat_01.mat
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Materials\PolygonStarter_Mat_01.mat
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Materials\PolygonStarter_Mat_01.mat
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Materials\PolygonStarter_Mat_02.mat
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Materials\PolygonStarter_Mat_02.mat
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Materials\PolygonStarter_Mat_02.mat
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Materials\PolygonStarter_Mat_02.mat
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Materials\PolygonStarter_Mat_03.mat
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Materials\PolygonStarter_Mat_03.mat
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Materials\PolygonStarter_Mat_03.mat
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Materials\PolygonStarter_Mat_03.mat
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Materials\PolygonStarter_Mat_04.mat
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Materials\PolygonStarter_Mat_04.mat
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Materials\PolygonStarter_Mat_04.mat
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Materials\PolygonStarter_Mat_04.mat
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Models\Characters.fbx
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Models\Characters.fbx
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Models\Characters.fbx
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Models\Characters.fbx
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Models\Collision\SM_Buildings_Block_1x1_01.fbx
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Models\Collision\SM_Buildings_Block_1x1_01.fbx
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Models\Collision\SM_Buildings_Block_1x1_01.fbx
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Models\Collision\SM_Buildings_Block_1x1_01.fbx
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Models\Collision\SM_Buildings_Column_2x3_01.fbx
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Models\Collision\SM_Buildings_Column_2x3_01.fbx
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Models\Collision\SM_Buildings_Column_2x3_01.fbx
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Models\Collision\SM_Buildings_Column_2x3_01.fbx
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Models\Collision\SM_Buildings_DoorFrame_01.fbx
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Models\Collision\SM_Buildings_DoorFrame_01.fbx
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Models\Collision\SM_Buildings_DoorFrame_01.fbx
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Models\Collision\SM_Buildings_DoorFrame_01.fbx
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Models\Collision\SM_Buildings_Floor_1x1_01.fbx
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Models\Collision\SM_Buildings_Floor_1x1_01.fbx
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Models\Collision\SM_Buildings_Floor_1x1_01.fbx
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Models\Collision\SM_Buildings_Floor_1x1_01.fbx
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Models\Collision\SM_Buildings_Ramp_25_1x1_01.fbx
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Models\Collision\SM_Buildings_Ramp_25_1x1_01.fbx
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Models\Collision\SM_Buildings_Ramp_25_1x1_01.fbx
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Models\Collision\SM_Buildings_Ramp_25_1x1_01.fbx
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Models\Collision\SM_Buildings_Stairs_1x1_01.fbx
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Models\Collision\SM_Buildings_Stairs_1x1_01.fbx
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Models\Collision\SM_Buildings_Stairs_1x1_01.fbx
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Models\Collision\SM_Buildings_Stairs_1x1_01.fbx
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Models\Collision\SM_Buildings_Stairs_1x3_01.fbx
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Models\Collision\SM_Buildings_Stairs_1x3_01.fbx
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Models\Collision\SM_Buildings_Stairs_1x3_01.fbx
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Models\Collision\SM_Buildings_Stairs_1x3_01.fbx
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Models\Collision\SM_Buildings_WallDoor_2x3_01.fbx
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Models\Collision\SM_Buildings_WallDoor_2x3_01.fbx
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Models\Collision\SM_Buildings_WallDoor_2x3_01.fbx
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Models\Collision\SM_Buildings_WallDoor_2x3_01.fbx
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Models\Collision\SM_Buildings_WallWindow_2x3_01.fbx
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Models\Collision\SM_Buildings_WallWindow_2x3_01.fbx
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Models\Collision\SM_Buildings_WallWindow_2x3_01.fbx
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Models\Collision\SM_Buildings_WallWindow_2x3_01.fbx
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Models\Collision\SM_PolygonApocalypse_Bld_House_01_Collision.fbx
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Models\Collision\SM_PolygonApocalypse_Bld_House_01_Collision.fbx
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Models\Collision\SM_PolygonApocalypse_Bld_House_01_Collision.fbx
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Models\Collision\SM_PolygonApocalypse_Bld_House_01_Collision.fbx
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Models\Collision\SM_Primitive_Cone_02.fbx
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Models\Collision\SM_Primitive_Cone_02.fbx
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Models\Collision\SM_Primitive_Cone_02.fbx
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Models\Collision\SM_Primitive_Cone_02.fbx
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Models\Collision\SM_Primitive_Cylander_02.fbx
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Models\Collision\SM_Primitive_Cylander_02.fbx
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Models\Collision\SM_Primitive_Cylander_02.fbx
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Models\Collision\SM_Primitive_Cylander_02.fbx
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Models\Collision\SM_Primitive_Sphere_02.fbx
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Models\Collision\SM_Primitive_Sphere_02.fbx
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Models\Collision\SM_Primitive_Sphere_02.fbx
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Models\Collision\SM_Primitive_Sphere_02.fbx
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Models\SM_Bean_Cop_01.fbx
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Models\SM_Bean_Cop_01.fbx
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Models\SM_Bean_Cop_01.fbx
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Models\SM_Bean_Cop_01.fbx
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Models\SM_Bean_Cowboy_01.fbx
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Models\SM_Bean_Cowboy_01.fbx
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Models\SM_Bean_Cowboy_01.fbx
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Models\SM_Bean_Cowboy_01.fbx
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Models\SM_Bean_Female_01.fbx
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Models\SM_Bean_Female_01.fbx
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Models\SM_Bean_Female_01.fbx
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Models\SM_Bean_Female_01.fbx
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Models\SM_Bean_Town_Female_01.fbx
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Models\SM_Bean_Town_Female_01.fbx
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Models\SM_Bean_Town_Female_01.fbx
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Models\SM_Bean_Town_Female_01.fbx
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Models\SM_Bld_Door_01.fbx
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Models\SM_Bld_Door_01.fbx
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Models\SM_Bld_Door_01.fbx
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Models\SM_Bld_Door_01.fbx
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Models\SM_Generic_CloudRing_01.fbx
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Models\SM_Generic_CloudRing_01.fbx
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Models\SM_Generic_CloudRing_01.fbx
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Models\SM_Generic_CloudRing_01.fbx
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Models\SM_Generic_Ground_01.fbx
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Models\SM_Generic_Ground_01.fbx
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Models\SM_Generic_Ground_01.fbx
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Models\SM_Generic_Ground_01.fbx
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Models\SM_Generic_Ground_02.fbx
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Models\SM_Generic_Ground_02.fbx
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Models\SM_Generic_Ground_02.fbx
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Models\SM_Generic_Ground_02.fbx
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Models\SM_Generic_Ground_03.fbx
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Models\SM_Generic_Ground_03.fbx
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Models\SM_Generic_Ground_03.fbx
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Models\SM_Generic_Ground_03.fbx
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Models\SM_Generic_Ground_04.fbx
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Models\SM_Generic_Ground_04.fbx
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Models\SM_Generic_Ground_04.fbx
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Models\SM_Generic_Ground_04.fbx
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Models\SM_Generic_Ground_Flat_01.fbx
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Models\SM_Generic_Ground_Flat_01.fbx
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Models\SM_Generic_Ground_Flat_01.fbx
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Models\SM_Generic_Ground_Flat_01.fbx
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Models\SM_Generic_Mountains_Grass_02.fbx
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Models\SM_Generic_Mountains_Grass_02.fbx
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Models\SM_Generic_Mountains_Grass_02.fbx
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Models\SM_Generic_Mountains_Grass_02.fbx
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Models\SM_Generic_Mountains_Soft_01.fbx
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Models\SM_Generic_Mountains_Soft_01.fbx
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Models\SM_Generic_Mountains_Soft_01.fbx
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Models\SM_Generic_Mountains_Soft_01.fbx
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Models\SM_Generic_Small_Rocks_01.fbx
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Models\SM_Generic_Small_Rocks_01.fbx
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Models\SM_Generic_Small_Rocks_01.fbx
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Models\SM_Generic_Small_Rocks_01.fbx
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Models\SM_Generic_Small_Rocks_02.fbx
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Models\SM_Generic_Small_Rocks_02.fbx
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Models\SM_Generic_Small_Rocks_02.fbx
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Models\SM_Generic_Small_Rocks_02.fbx
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Models\SM_Generic_Small_Rocks_03.fbx
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Models\SM_Generic_Small_Rocks_03.fbx
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Models\SM_Generic_Small_Rocks_03.fbx
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Models\SM_Generic_Small_Rocks_03.fbx
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Models\SM_Generic_Small_Rocks_04.fbx
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Models\SM_Generic_Small_Rocks_04.fbx
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Models\SM_Generic_Small_Rocks_04.fbx
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Models\SM_Generic_Small_Rocks_04.fbx
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Models\SM_Generic_Small_Rocks_05.fbx
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Models\SM_Generic_Small_Rocks_05.fbx
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Models\SM_Generic_Small_Rocks_05.fbx
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Models\SM_Generic_Small_Rocks_05.fbx
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Models\SM_Generic_TreeDead_01.fbx
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Models\SM_Generic_TreeDead_01.fbx
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Models\SM_Generic_TreeDead_01.fbx
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Models\SM_Generic_TreeDead_01.fbx
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Models\SM_Generic_TreeStump_01.fbx
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Models\SM_Generic_TreeStump_01.fbx
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Models\SM_Generic_TreeStump_01.fbx
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Models\SM_Generic_TreeStump_01.fbx
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Models\SM_Generic_Tree_01.fbx
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Models\SM_Generic_Tree_01.fbx
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Models\SM_Generic_Tree_01.fbx
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Models\SM_Generic_Tree_01.fbx
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Models\SM_Generic_Tree_02.fbx
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Models\SM_Generic_Tree_02.fbx
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Models\SM_Generic_Tree_02.fbx
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Models\SM_Generic_Tree_02.fbx
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Models\SM_Generic_Tree_03.fbx
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Models\SM_Generic_Tree_03.fbx
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Models\SM_Generic_Tree_03.fbx
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Models\SM_Generic_Tree_03.fbx
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Models\SM_Generic_Tree_04.fbx
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Models\SM_Generic_Tree_04.fbx
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Models\SM_Generic_Tree_04.fbx
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Models\SM_Generic_Tree_04.fbx
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Models\SM_PolygonApocalypse_Bld_House_01.fbx
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Models\SM_PolygonApocalypse_Bld_House_01.fbx
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Models\SM_PolygonApocalypse_Bld_House_01.fbx
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Models\SM_PolygonApocalypse_Bld_House_01.fbx
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Models\SM_PolygonCity_Veh_Car_Small_01.fbx
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Models\SM_PolygonCity_Veh_Car_Small_01.fbx
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Models\SM_PolygonCity_Veh_Car_Small_01.fbx
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Models\SM_PolygonCity_Veh_Car_Small_01.fbx
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Models\SM_PolygonPrototype_Buildings_Block_1x1_01P.fbx
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Models\SM_PolygonPrototype_Buildings_Block_1x1_01P.fbx
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Models\SM_PolygonPrototype_Buildings_Block_1x1_01P.fbx
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Models\SM_PolygonPrototype_Buildings_Block_1x1_01P.fbx
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Models\SM_PolygonPrototype_Buildings_Column_2x3_01P.fbx
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Models\SM_PolygonPrototype_Buildings_Column_2x3_01P.fbx
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Models\SM_PolygonPrototype_Buildings_Column_2x3_01P.fbx
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Models\SM_PolygonPrototype_Buildings_Column_2x3_01P.fbx
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Models\SM_PolygonPrototype_Buildings_DoorFrame_01P.fbx
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Models\SM_PolygonPrototype_Buildings_DoorFrame_01P.fbx
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Models\SM_PolygonPrototype_Buildings_DoorFrame_01P.fbx
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Models\SM_PolygonPrototype_Buildings_DoorFrame_01P.fbx
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Models\SM_PolygonPrototype_Buildings_Floor_1x1_01P.fbx
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Models\SM_PolygonPrototype_Buildings_Floor_1x1_01P.fbx
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Models\SM_PolygonPrototype_Buildings_Floor_1x1_01P.fbx
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Models\SM_PolygonPrototype_Buildings_Floor_1x1_01P.fbx
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Models\SM_PolygonPrototype_Buildings_Floor_5x5_01P.fbx
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Models\SM_PolygonPrototype_Buildings_Floor_5x5_01P.fbx
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Models\SM_PolygonPrototype_Buildings_Floor_5x5_01P.fbx
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Models\SM_PolygonPrototype_Buildings_Floor_5x5_01P.fbx
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Models\SM_PolygonPrototype_Buildings_Ramp_25_1x1_01P.fbx
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Models\SM_PolygonPrototype_Buildings_Ramp_25_1x1_01P.fbx
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Models\SM_PolygonPrototype_Buildings_Ramp_25_1x1_01P.fbx
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Models\SM_PolygonPrototype_Buildings_Ramp_25_1x1_01P.fbx
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Models\SM_PolygonPrototype_Buildings_Ramp_45_1x1_01P.fbx
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Models\SM_PolygonPrototype_Buildings_Ramp_45_1x1_01P.fbx
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Models\SM_PolygonPrototype_Buildings_Ramp_45_1x1_01P.fbx
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Models\SM_PolygonPrototype_Buildings_Ramp_45_1x1_01P.fbx
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Models\SM_PolygonPrototype_Buildings_Stairs_1x1_01P.fbx
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Models\SM_PolygonPrototype_Buildings_Stairs_1x1_01P.fbx
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Models\SM_PolygonPrototype_Buildings_Stairs_1x1_01P.fbx
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Models\SM_PolygonPrototype_Buildings_Stairs_1x1_01P.fbx
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Models\SM_PolygonPrototype_Buildings_Stairs_1x3_01P.fbx
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Models\SM_PolygonPrototype_Buildings_Stairs_1x3_01P.fbx
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Models\SM_PolygonPrototype_Buildings_Stairs_1x3_01P.fbx
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Models\SM_PolygonPrototype_Buildings_Stairs_1x3_01P.fbx
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Models\SM_PolygonPrototype_Buildings_WallDoor_2x3_01P.fbx
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Models\SM_PolygonPrototype_Buildings_WallDoor_2x3_01P.fbx
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Models\SM_PolygonPrototype_Buildings_WallDoor_2x3_01P.fbx
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Models\SM_PolygonPrototype_Buildings_WallDoor_2x3_01P.fbx
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Models\SM_PolygonPrototype_Buildings_WallWindow_2x3_01P.fbx
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Models\SM_PolygonPrototype_Buildings_WallWindow_2x3_01P.fbx
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Models\SM_PolygonPrototype_Buildings_WallWindow_2x3_01P.fbx
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Models\SM_PolygonPrototype_Buildings_WallWindow_2x3_01P.fbx
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Models\SM_PolygonPrototype_Icon_Arrow_Small_01.fbx
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Models\SM_PolygonPrototype_Icon_Arrow_Small_01.fbx
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Models\SM_PolygonPrototype_Icon_Arrow_Small_01.fbx
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Models\SM_PolygonPrototype_Icon_Arrow_Small_01.fbx
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Models\SM_PolygonPrototype_Icon_Coin_01.fbx
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Models\SM_PolygonPrototype_Icon_Coin_01.fbx
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Models\SM_PolygonPrototype_Icon_Coin_01.fbx
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Models\SM_PolygonPrototype_Icon_Coin_01.fbx
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Models\SM_PolygonPrototype_Icon_Letter_Question_01.fbx
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Models\SM_PolygonPrototype_Icon_Letter_Question_01.fbx
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Models\SM_PolygonPrototype_Icon_Letter_Question_01.fbx
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Models\SM_PolygonPrototype_Icon_Letter_Question_01.fbx
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Models\SM_PolygonPrototype_Primitive_Cone_01P.fbx
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Models\SM_PolygonPrototype_Primitive_Cone_01P.fbx
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Models\SM_PolygonPrototype_Primitive_Cone_01P.fbx
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Models\SM_PolygonPrototype_Primitive_Cone_01P.fbx
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Models\SM_PolygonPrototype_Primitive_Cylander_01P.fbx
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Models\SM_PolygonPrototype_Primitive_Cylander_01P.fbx
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Models\SM_PolygonPrototype_Primitive_Cylander_01P.fbx
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Models\SM_PolygonPrototype_Primitive_Cylander_01P.fbx
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Models\SM_PolygonPrototype_Primitive_Sphere_01P.fbx
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Models\SM_PolygonPrototype_Primitive_Sphere_01P.fbx
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Models\SM_PolygonPrototype_Primitive_Sphere_01P.fbx
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Models\SM_PolygonPrototype_Primitive_Sphere_01P.fbx
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Models\SM_PolygonPrototype_Primitive_Tube_01P.fbx
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Models\SM_PolygonPrototype_Primitive_Tube_01P.fbx
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Models\SM_PolygonPrototype_Primitive_Tube_01P.fbx
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Models\SM_PolygonPrototype_Primitive_Tube_01P.fbx
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Models\SM_PolygonPrototype_Prop_Cone_01.fbx
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Models\SM_PolygonPrototype_Prop_Cone_01.fbx
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Models\SM_PolygonPrototype_Prop_Cone_01.fbx
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Models\SM_PolygonPrototype_Prop_Cone_01.fbx
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Models\SM_PolygonPrototype_Prop_Crate_03.fbx
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Models\SM_PolygonPrototype_Prop_Crate_03.fbx
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Models\SM_PolygonPrototype_Prop_Crate_03.fbx
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Models\SM_PolygonPrototype_Prop_Crate_03.fbx
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Models\SM_PolygonPrototype_Prop_Ladder_1x2_01P.fbx
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Models\SM_PolygonPrototype_Prop_Ladder_1x2_01P.fbx
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Models\SM_PolygonPrototype_Prop_Ladder_1x2_01P.fbx
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Models\SM_PolygonPrototype_Prop_Ladder_1x2_01P.fbx
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Models\SM_PolygonPrototype_Prop_Sword_01.fbx
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Models\SM_PolygonPrototype_Prop_Sword_01.fbx
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Models\SM_PolygonPrototype_Prop_Sword_01.fbx
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Models\SM_PolygonPrototype_Prop_Sword_01.fbx
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Models\SM_PolygonPrototype_Prop_Target_03.fbx
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Models\SM_PolygonPrototype_Prop_Target_03.fbx
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Models\SM_PolygonPrototype_Prop_Target_03.fbx
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Models\SM_PolygonPrototype_Prop_Target_03.fbx
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Models\SM_Prop_Plane_Ring_01.fbx
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Models\SM_Prop_Plane_Ring_01.fbx
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Models\SM_Prop_Plane_Ring_01.fbx
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Models\SM_Prop_Plane_Ring_01.fbx
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Models\SM_SimpleSky_Dome_01.fbx
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Models\SM_SimpleSky_Dome_01.fbx
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Models\SM_SimpleSky_Dome_01.fbx
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Models\SM_SimpleSky_Dome_01.fbx
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Models\SM_Veh_Plane_Stunt_01.fbx
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Models\SM_Veh_Plane_Stunt_01.fbx
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Models\SM_Veh_Plane_Stunt_01.fbx
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Models\SM_Veh_Plane_Stunt_01.fbx
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Models\SM_Wep_Shield_04.fbx
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Models\SM_Wep_Shield_04.fbx
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Models\SM_Wep_Shield_04.fbx
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Models\SM_Wep_Shield_04.fbx
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Models\SM_Wep_WaterPistol_01.fbx
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Models\SM_Wep_WaterPistol_01.fbx
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Models\SM_Wep_WaterPistol_01.fbx
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Models\SM_Wep_WaterPistol_01.fbx
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Models\SM_Wep_Watergun_01.fbx
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Models\SM_Wep_Watergun_01.fbx
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Models\SM_Wep_Watergun_01.fbx
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Models\SM_Wep_Watergun_01.fbx
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Models\SM_Wep_Watergun_02.fbx
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Models\SM_Wep_Watergun_02.fbx
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Models\SM_Wep_Watergun_02.fbx
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Models\SM_Wep_Watergun_02.fbx
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Prefabs\Characters\SM_Bean_Cop_01.prefab
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Prefabs\Characters\SM_Bean_Cop_01.prefab
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Prefabs\Characters\SM_Bean_Cop_01.prefab
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Prefabs\Characters\SM_Bean_Cop_01.prefab
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Prefabs\Characters\SM_Bean_Cowboy_01.prefab
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Prefabs\Characters\SM_Bean_Cowboy_01.prefab
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Prefabs\Characters\SM_Bean_Cowboy_01.prefab
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Prefabs\Characters\SM_Bean_Cowboy_01.prefab
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Prefabs\Characters\SM_Bean_Female_01.prefab
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Prefabs\Characters\SM_Bean_Female_01.prefab
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Prefabs\Characters\SM_Bean_Female_01.prefab
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Prefabs\Characters\SM_Bean_Female_01.prefab
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Prefabs\Characters\SM_Bean_Town_Female_01.prefab
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Prefabs\Characters\SM_Bean_Town_Female_01.prefab
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Prefabs\Characters\SM_Bean_Town_Female_01.prefab
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Prefabs\Characters\SM_Bean_Town_Female_01.prefab
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Prefabs\Characters\SM_Character_Female_01.prefab
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Prefabs\Characters\SM_Character_Female_01.prefab
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Prefabs\Characters\SM_Character_Female_01.prefab
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Prefabs\Characters\SM_Character_Female_01.prefab
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Prefabs\Characters\SM_Character_Male_01.prefab
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Prefabs\Characters\SM_Character_Male_01.prefab
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Prefabs\Characters\SM_Character_Male_01.prefab
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Prefabs\Characters\SM_Character_Male_01.prefab
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Prefabs\SM_Bld_Door_01.prefab
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Prefabs\SM_Bld_Door_01.prefab
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Prefabs\SM_Bld_Door_01.prefab
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Prefabs\SM_Bld_Door_01.prefab
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Prefabs\SM_Generic_CloudRing_01.prefab
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Prefabs\SM_Generic_CloudRing_01.prefab
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Prefabs\SM_Generic_CloudRing_01.prefab
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Prefabs\SM_Generic_CloudRing_01.prefab
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Prefabs\SM_Generic_Ground_01.prefab
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Prefabs\SM_Generic_Ground_01.prefab
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Prefabs\SM_Generic_Ground_01.prefab
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Prefabs\SM_Generic_Ground_01.prefab
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Prefabs\SM_Generic_Ground_02.prefab
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Prefabs\SM_Generic_Ground_02.prefab
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Prefabs\SM_Generic_Ground_02.prefab
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Prefabs\SM_Generic_Ground_02.prefab
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Prefabs\SM_Generic_Ground_03.prefab
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Prefabs\SM_Generic_Ground_03.prefab
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Prefabs\SM_Generic_Ground_03.prefab
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Prefabs\SM_Generic_Ground_03.prefab
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Prefabs\SM_Generic_Ground_04.prefab
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Prefabs\SM_Generic_Ground_04.prefab
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Prefabs\SM_Generic_Ground_04.prefab
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Prefabs\SM_Generic_Ground_04.prefab
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Prefabs\SM_Generic_Ground_Flat_01.prefab
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Prefabs\SM_Generic_Ground_Flat_01.prefab
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Prefabs\SM_Generic_Ground_Flat_01.prefab
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Prefabs\SM_Generic_Ground_Flat_01.prefab
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Prefabs\SM_Generic_Mountains_Grass_02.prefab
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Prefabs\SM_Generic_Mountains_Grass_02.prefab
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Prefabs\SM_Generic_Mountains_Grass_02.prefab
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Prefabs\SM_Generic_Mountains_Grass_02.prefab
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Prefabs\SM_Generic_Mountains_Soft_01.prefab
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Prefabs\SM_Generic_Mountains_Soft_01.prefab
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Prefabs\SM_Generic_Mountains_Soft_01.prefab
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Prefabs\SM_Generic_Mountains_Soft_01.prefab
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Prefabs\SM_Generic_Small_Rocks_01.prefab
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Prefabs\SM_Generic_Small_Rocks_01.prefab
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Prefabs\SM_Generic_Small_Rocks_01.prefab
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Prefabs\SM_Generic_Small_Rocks_01.prefab
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Prefabs\SM_Generic_Small_Rocks_02.prefab
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Prefabs\SM_Generic_Small_Rocks_02.prefab
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Prefabs\SM_Generic_Small_Rocks_02.prefab
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Prefabs\SM_Generic_Small_Rocks_02.prefab
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Prefabs\SM_Generic_Small_Rocks_03.prefab
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Prefabs\SM_Generic_Small_Rocks_03.prefab
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Prefabs\SM_Generic_Small_Rocks_03.prefab
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Prefabs\SM_Generic_Small_Rocks_03.prefab
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Prefabs\SM_Generic_Small_Rocks_04.prefab
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Prefabs\SM_Generic_Small_Rocks_04.prefab
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Prefabs\SM_Generic_Small_Rocks_04.prefab
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Prefabs\SM_Generic_Small_Rocks_04.prefab
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Prefabs\SM_Generic_Small_Rocks_05.prefab
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Prefabs\SM_Generic_Small_Rocks_05.prefab
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Prefabs\SM_Generic_Small_Rocks_05.prefab
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Prefabs\SM_Generic_Small_Rocks_05.prefab
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Prefabs\SM_Generic_TreeDead_01.prefab
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Prefabs\SM_Generic_TreeDead_01.prefab
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Prefabs\SM_Generic_TreeDead_01.prefab
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Prefabs\SM_Generic_TreeDead_01.prefab
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Prefabs\SM_Generic_TreeStump_01.prefab
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Prefabs\SM_Generic_TreeStump_01.prefab
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Prefabs\SM_Generic_TreeStump_01.prefab
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Prefabs\SM_Generic_TreeStump_01.prefab
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Prefabs\SM_Generic_Tree_01.prefab
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Prefabs\SM_Generic_Tree_01.prefab
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Prefabs\SM_Generic_Tree_01.prefab
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Prefabs\SM_Generic_Tree_01.prefab
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Prefabs\SM_Generic_Tree_02.prefab
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Prefabs\SM_Generic_Tree_02.prefab
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Prefabs\SM_Generic_Tree_02.prefab
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Prefabs\SM_Generic_Tree_02.prefab
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Prefabs\SM_Generic_Tree_03.prefab
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Prefabs\SM_Generic_Tree_03.prefab
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Prefabs\SM_Generic_Tree_03.prefab
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Prefabs\SM_Generic_Tree_03.prefab
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Prefabs\SM_Generic_Tree_04.prefab
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Prefabs\SM_Generic_Tree_04.prefab
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Prefabs\SM_Generic_Tree_04.prefab
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Prefabs\SM_Generic_Tree_04.prefab
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Prefabs\SM_PolygonApocalypse_Bld_House_01.prefab
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Prefabs\SM_PolygonApocalypse_Bld_House_01.prefab
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Prefabs\SM_PolygonApocalypse_Bld_House_01.prefab
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Prefabs\SM_PolygonApocalypse_Bld_House_01.prefab
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Prefabs\SM_PolygonCity_Veh_Car_Small_01.prefab
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Prefabs\SM_PolygonCity_Veh_Car_Small_01.prefab
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Prefabs\SM_PolygonCity_Veh_Car_Small_01.prefab
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Prefabs\SM_PolygonCity_Veh_Car_Small_01.prefab
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Prefabs\SM_PolygonPrototype_Buildings_Block_1x1_01P.prefab
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Prefabs\SM_PolygonPrototype_Buildings_Block_1x1_01P.prefab
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Prefabs\SM_PolygonPrototype_Buildings_Block_1x1_01P.prefab
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Prefabs\SM_PolygonPrototype_Buildings_Block_1x1_01P.prefab
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Prefabs\SM_PolygonPrototype_Buildings_Column_2x3_01P.prefab
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Prefabs\SM_PolygonPrototype_Buildings_Column_2x3_01P.prefab
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Prefabs\SM_PolygonPrototype_Buildings_Column_2x3_01P.prefab
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Prefabs\SM_PolygonPrototype_Buildings_Column_2x3_01P.prefab
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Prefabs\SM_PolygonPrototype_Buildings_DoorFrame_01P.prefab
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Prefabs\SM_PolygonPrototype_Buildings_DoorFrame_01P.prefab
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Prefabs\SM_PolygonPrototype_Buildings_DoorFrame_01P.prefab
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Prefabs\SM_PolygonPrototype_Buildings_DoorFrame_01P.prefab
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Prefabs\SM_PolygonPrototype_Buildings_Floor_1x1_01P.prefab
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Prefabs\SM_PolygonPrototype_Buildings_Floor_1x1_01P.prefab
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Prefabs\SM_PolygonPrototype_Buildings_Floor_1x1_01P.prefab
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Prefabs\SM_PolygonPrototype_Buildings_Floor_1x1_01P.prefab
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Prefabs\SM_PolygonPrototype_Buildings_Floor_5x5_01P.prefab
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Prefabs\SM_PolygonPrototype_Buildings_Floor_5x5_01P.prefab
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Prefabs\SM_PolygonPrototype_Buildings_Floor_5x5_01P.prefab
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Prefabs\SM_PolygonPrototype_Buildings_Floor_5x5_01P.prefab
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Prefabs\SM_PolygonPrototype_Buildings_Ramp_25_1x1_01P.prefab
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Prefabs\SM_PolygonPrototype_Buildings_Ramp_25_1x1_01P.prefab
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Prefabs\SM_PolygonPrototype_Buildings_Ramp_25_1x1_01P.prefab
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Prefabs\SM_PolygonPrototype_Buildings_Ramp_25_1x1_01P.prefab
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Prefabs\SM_PolygonPrototype_Buildings_Ramp_45_1x1_01P.prefab
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Prefabs\SM_PolygonPrototype_Buildings_Ramp_45_1x1_01P.prefab
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Prefabs\SM_PolygonPrototype_Buildings_Ramp_45_1x1_01P.prefab
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Prefabs\SM_PolygonPrototype_Buildings_Ramp_45_1x1_01P.prefab
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Prefabs\SM_PolygonPrototype_Buildings_Stairs_1x1_01P.prefab
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Prefabs\SM_PolygonPrototype_Buildings_Stairs_1x1_01P.prefab
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Prefabs\SM_PolygonPrototype_Buildings_Stairs_1x1_01P.prefab
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Prefabs\SM_PolygonPrototype_Buildings_Stairs_1x1_01P.prefab
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Prefabs\SM_PolygonPrototype_Buildings_Stairs_1x3_01P.prefab
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Prefabs\SM_PolygonPrototype_Buildings_Stairs_1x3_01P.prefab
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Prefabs\SM_PolygonPrototype_Buildings_Stairs_1x3_01P.prefab
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Prefabs\SM_PolygonPrototype_Buildings_Stairs_1x3_01P.prefab
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Prefabs\SM_PolygonPrototype_Buildings_WallDoor_2x3_01P.prefab
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Prefabs\SM_PolygonPrototype_Buildings_WallDoor_2x3_01P.prefab
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Prefabs\SM_PolygonPrototype_Buildings_WallDoor_2x3_01P.prefab
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Prefabs\SM_PolygonPrototype_Buildings_WallDoor_2x3_01P.prefab
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Prefabs\SM_PolygonPrototype_Buildings_WallWindow_2x3_01P.prefab
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Prefabs\SM_PolygonPrototype_Buildings_WallWindow_2x3_01P.prefab
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Prefabs\SM_PolygonPrototype_Buildings_WallWindow_2x3_01P.prefab
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Prefabs\SM_PolygonPrototype_Buildings_WallWindow_2x3_01P.prefab
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Prefabs\SM_PolygonPrototype_Icon_Arrow_Small_01.prefab
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Prefabs\SM_PolygonPrototype_Icon_Arrow_Small_01.prefab
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Prefabs\SM_PolygonPrototype_Icon_Arrow_Small_01.prefab
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Prefabs\SM_PolygonPrototype_Icon_Arrow_Small_01.prefab
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Prefabs\SM_PolygonPrototype_Icon_Coin_01.prefab
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Prefabs\SM_PolygonPrototype_Icon_Coin_01.prefab
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Prefabs\SM_PolygonPrototype_Icon_Coin_01.prefab
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Prefabs\SM_PolygonPrototype_Icon_Coin_01.prefab
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Prefabs\SM_PolygonPrototype_Icon_Letter_Question_01.prefab
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Prefabs\SM_PolygonPrototype_Icon_Letter_Question_01.prefab
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Prefabs\SM_PolygonPrototype_Icon_Letter_Question_01.prefab
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Prefabs\SM_PolygonPrototype_Icon_Letter_Question_01.prefab
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Prefabs\SM_PolygonPrototype_Primitive_Cone_01P.prefab
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Prefabs\SM_PolygonPrototype_Primitive_Cone_01P.prefab
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Prefabs\SM_PolygonPrototype_Primitive_Cone_01P.prefab
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Prefabs\SM_PolygonPrototype_Primitive_Cone_01P.prefab
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Prefabs\SM_PolygonPrototype_Primitive_Cylander_01P.prefab
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Prefabs\SM_PolygonPrototype_Primitive_Cylander_01P.prefab
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Prefabs\SM_PolygonPrototype_Primitive_Cylander_01P.prefab
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Prefabs\SM_PolygonPrototype_Primitive_Cylander_01P.prefab
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Prefabs\SM_PolygonPrototype_Primitive_Sphere_01P.prefab
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Prefabs\SM_PolygonPrototype_Primitive_Sphere_01P.prefab
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Prefabs\SM_PolygonPrototype_Primitive_Sphere_01P.prefab
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Prefabs\SM_PolygonPrototype_Primitive_Sphere_01P.prefab
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Prefabs\SM_PolygonPrototype_Primitive_Tube_01P.prefab
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Prefabs\SM_PolygonPrototype_Primitive_Tube_01P.prefab
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Prefabs\SM_PolygonPrototype_Primitive_Tube_01P.prefab
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Prefabs\SM_PolygonPrototype_Primitive_Tube_01P.prefab
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Prefabs\SM_PolygonPrototype_Prop_Cone_01.prefab
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Prefabs\SM_PolygonPrototype_Prop_Cone_01.prefab
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Prefabs\SM_PolygonPrototype_Prop_Cone_01.prefab
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Prefabs\SM_PolygonPrototype_Prop_Cone_01.prefab
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Prefabs\SM_PolygonPrototype_Prop_Crate_03.prefab
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Prefabs\SM_PolygonPrototype_Prop_Crate_03.prefab
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Prefabs\SM_PolygonPrototype_Prop_Crate_03.prefab
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Prefabs\SM_PolygonPrototype_Prop_Crate_03.prefab
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Prefabs\SM_PolygonPrototype_Prop_Ladder_1x2_01P.prefab
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Prefabs\SM_PolygonPrototype_Prop_Ladder_1x2_01P.prefab
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Prefabs\SM_PolygonPrototype_Prop_Ladder_1x2_01P.prefab
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Prefabs\SM_PolygonPrototype_Prop_Ladder_1x2_01P.prefab
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Prefabs\SM_PolygonPrototype_Prop_Sword_01.prefab
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Prefabs\SM_PolygonPrototype_Prop_Sword_01.prefab
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Prefabs\SM_PolygonPrototype_Prop_Sword_01.prefab
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Prefabs\SM_PolygonPrototype_Prop_Sword_01.prefab
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Prefabs\SM_PolygonPrototype_Prop_Target_03.prefab
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Prefabs\SM_PolygonPrototype_Prop_Target_03.prefab
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Prefabs\SM_PolygonPrototype_Prop_Target_03.prefab
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Prefabs\SM_PolygonPrototype_Prop_Target_03.prefab
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Prefabs\SM_Prop_Plane_Ring_01.prefab
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Prefabs\SM_Prop_Plane_Ring_01.prefab
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Prefabs\SM_Prop_Plane_Ring_01.prefab
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Prefabs\SM_Prop_Plane_Ring_01.prefab
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Prefabs\SM_SimpleSky_Dome_01.prefab
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Prefabs\SM_SimpleSky_Dome_01.prefab
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Prefabs\SM_SimpleSky_Dome_01.prefab
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Prefabs\SM_SimpleSky_Dome_01.prefab
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Prefabs\SM_Veh_Plane_Stunt_01.prefab
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Prefabs\SM_Veh_Plane_Stunt_01.prefab
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Prefabs\SM_Veh_Plane_Stunt_01.prefab
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Prefabs\SM_Veh_Plane_Stunt_01.prefab
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Prefabs\SM_Wep_Shield_04.prefab
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Prefabs\SM_Wep_Shield_04.prefab
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Prefabs\SM_Wep_Shield_04.prefab
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Prefabs\SM_Wep_Shield_04.prefab
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Prefabs\SM_Wep_WaterPistol_01.prefab
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Prefabs\SM_Wep_WaterPistol_01.prefab
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Prefabs\SM_Wep_WaterPistol_01.prefab
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Prefabs\SM_Wep_WaterPistol_01.prefab
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Prefabs\SM_Wep_Watergun_01.prefab
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Prefabs\SM_Wep_Watergun_01.prefab
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Prefabs\SM_Wep_Watergun_01.prefab
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Prefabs\SM_Wep_Watergun_01.prefab
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Prefabs\SM_Wep_Watergun_02.prefab
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Prefabs\SM_Wep_Watergun_02.prefab
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Prefabs\SM_Wep_Watergun_02.prefab
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Prefabs\SM_Wep_Watergun_02.prefab
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Scenes\Demo.unity
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Scenes\Demo.unity
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Scenes\Demo.unity
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Scenes\Demo.unity
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Textures\PolygonStarter_Texture_01.png
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Textures\PolygonStarter_Texture_01.png
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Textures\PolygonStarter_Texture_01.png
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Textures\PolygonStarter_Texture_01.png
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Textures\PolygonStarter_Texture_02.png
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Textures\PolygonStarter_Texture_02.png
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Textures\PolygonStarter_Texture_02.png
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Textures\PolygonStarter_Texture_02.png
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Textures\PolygonStarter_Texture_03.png
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Textures\PolygonStarter_Texture_03.png
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Textures\PolygonStarter_Texture_03.png
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Textures\PolygonStarter_Texture_03.png
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Textures\PolygonStarter_Texture_04.png
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Textures\PolygonStarter_Texture_04.png
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Textures\PolygonStarter_Texture_04.png
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Textures\PolygonStarter_Texture_04.png
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Textures\Polygon_Plane_Texture_01.png
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Textures\Polygon_Plane_Texture_01.png
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Textures\Polygon_Plane_Texture_01.png
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Textures\Polygon_Plane_Texture_01.png
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Textures\Polygon_Plane_Texture_02.png
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Textures\Polygon_Plane_Texture_02.png
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Textures\Polygon_Plane_Texture_02.png
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Textures\Polygon_Plane_Texture_02.png
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Textures\Polygon_Plane_Texture_03.png
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Textures\Polygon_Plane_Texture_03.png
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Textures\Polygon_Plane_Texture_03.png
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Textures\Polygon_Plane_Texture_03.png
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Textures\Polygon_Plane_Texture_04.png
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Textures\Polygon_Plane_Texture_04.png
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Textures\Polygon_Plane_Texture_04.png
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Textures\Polygon_Plane_Texture_04.png
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\PolygonStarter\Textures\Simple_Sky_Texture_01.png
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Textures\Simple_Sky_Texture_01.png
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\PolygonStarter\Textures\Simple_Sky_Texture_01.png
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\PolygonStarter\Textures\Simple_Sky_Texture_01.png
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\Resources\VuforiaConfiguration.asset
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Resources\VuforiaConfiguration.asset
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\Resources\VuforiaConfiguration.asset
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\Resources\VuforiaConfiguration.asset
       originalPath: 
       indexStatus: 3
       workTreeStatus: 0
     - path: AR-God\Assets\Scripts\DeathZone.cs
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Scripts\DeathZone.cs
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\Scripts\DeathZone.cs
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\Scripts\DeathZone.cs
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\Scripts\FallingObjects.cs
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Scripts\FallingObjects.cs
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\Scripts\FallingObjects.cs
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\Scripts\FallingObjects.cs
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Assets\Scripts\PlayerController.cs
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Scripts\PlayerController.cs
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Assets\Scripts\PlayerController.cs
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Assets\Scripts\PlayerController.cs
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\EditorMigrationScripts.csproj
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\EditorMigrationScripts.csproj
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\EditorMigrationScripts.csproj
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: EditorMigrationScripts.csproj
       originalPath: 
       indexStatus: 3
       workTreeStatus: 0
     - path: AR-God\Library\APIUpdater\project-dependencies.graph
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\APIUpdater\project-dependencies.graph
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\APIUpdater\project-dependencies.graph
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Library\APIUpdater\project-dependencies.graph
       originalPath: 
       indexStatus: 3
       workTreeStatus: 0
     - path: AR-God\Library\CurrentLayout-default.dwlt
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\CurrentLayout-default.dwlt
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\CurrentLayout-default.dwlt
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Library\CurrentLayout-default.dwlt
       originalPath: 
       indexStatus: 3
       workTreeStatus: 0
     - path: AR-God\Library\EditorOnlyScriptingSettings.json
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\EditorOnlyScriptingSettings.json
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\EditorOnlyScriptingSettings.json
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Library\EditorOnlyScriptingSettings.json
       originalPath: 
       indexStatus: 3
       workTreeStatus: 0
     - path: AR-God\Library\InspectorExpandedItems.asset
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\InspectorExpandedItems.asset
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\InspectorExpandedItems.asset
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Library\InspectorExpandedItems.asset
       originalPath: 
       indexStatus: 3
       workTreeStatus: 0
     - path: AR-God\Library\LastSceneManagerSetup.txt
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\LastSceneManagerSetup.txt
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\LastSceneManagerSetup.txt
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Library\LastSceneManagerSetup.txt
       originalPath: 
       indexStatus: 3
       workTreeStatus: 0
     - path: AR-God\Library\SceneVisibilityState.asset
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\SceneVisibilityState.asset
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\SceneVisibilityState.asset
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Library\SceneVisibilityState.asset
       originalPath: 
       indexStatus: 3
       workTreeStatus: 0
     - path: AR-God\Library\ShaderCache\0\0719281de2d681e2e140ab13b49c5d3d.bin
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\0\0719281de2d681e2e140ab13b49c5d3d.bin
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\0\0719281de2d681e2e140ab13b49c5d3d.bin
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Library\ShaderCache\0\0719281de2d681e2e140ab13b49c5d3d.bin
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Library\ShaderCache\0\0d0e7c09dee918092299bf10976f96c9.bin
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\0\0d0e7c09dee918092299bf10976f96c9.bin
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\0\0d0e7c09dee918092299bf10976f96c9.bin
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Library\ShaderCache\0\0d0e7c09dee918092299bf10976f96c9.bin
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Library\ShaderCache\0\0de81d2af6b41fae244f4692a06426cc.bin
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\0\0de81d2af6b41fae244f4692a06426cc.bin
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\0\0de81d2af6b41fae244f4692a06426cc.bin
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Library\ShaderCache\0\0de81d2af6b41fae244f4692a06426cc.bin
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Library\ShaderCache\0\0ef6633a54d05c154e287232ce4f7d7e.bin
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\0\0ef6633a54d05c154e287232ce4f7d7e.bin
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\0\0ef6633a54d05c154e287232ce4f7d7e.bin
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Library\ShaderCache\0\0ef6633a54d05c154e287232ce4f7d7e.bin
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Library\ShaderCache\0\0f372089cc02099667d1352e1624feef.bin
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\0\0f372089cc02099667d1352e1624feef.bin
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\0\0f372089cc02099667d1352e1624feef.bin
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Library\ShaderCache\0\0f372089cc02099667d1352e1624feef.bin
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Library\ShaderCache\1\17c21e475d01c94e219e292fd6ada07b.bin
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\1\17c21e475d01c94e219e292fd6ada07b.bin
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\1\17c21e475d01c94e219e292fd6ada07b.bin
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Library\ShaderCache\1\17c21e475d01c94e219e292fd6ada07b.bin
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Library\ShaderCache\2\2335ffa43e6b180b4fe871b17993731f.bin
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\2\2335ffa43e6b180b4fe871b17993731f.bin
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\2\2335ffa43e6b180b4fe871b17993731f.bin
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Library\ShaderCache\2\2335ffa43e6b180b4fe871b17993731f.bin
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Library\ShaderCache\2\2c063917ece22d3fc61bba7329cdf49a.bin
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\2\2c063917ece22d3fc61bba7329cdf49a.bin
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\2\2c063917ece22d3fc61bba7329cdf49a.bin
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Library\ShaderCache\2\2c063917ece22d3fc61bba7329cdf49a.bin
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Library\ShaderCache\2\2c426caf01f4f467edb2ab3d4b40cae4.bin
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\2\2c426caf01f4f467edb2ab3d4b40cae4.bin
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\2\2c426caf01f4f467edb2ab3d4b40cae4.bin
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Library\ShaderCache\2\2c426caf01f4f467edb2ab3d4b40cae4.bin
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Library\ShaderCache\2\2d2f4825261bfd21a06ff11547f2cc88.bin
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\2\2d2f4825261bfd21a06ff11547f2cc88.bin
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\2\2d2f4825261bfd21a06ff11547f2cc88.bin
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Library\ShaderCache\2\2d2f4825261bfd21a06ff11547f2cc88.bin
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Library\ShaderCache\2\2f4464b30c5859e0a18c02a6a6b661be.bin
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\2\2f4464b30c5859e0a18c02a6a6b661be.bin
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\2\2f4464b30c5859e0a18c02a6a6b661be.bin
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Library\ShaderCache\2\2f4464b30c5859e0a18c02a6a6b661be.bin
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Library\ShaderCache\3\313f5f6709be2db28c08e308b6828264.bin
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\3\313f5f6709be2db28c08e308b6828264.bin
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\3\313f5f6709be2db28c08e308b6828264.bin
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Library\ShaderCache\3\313f5f6709be2db28c08e308b6828264.bin
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Library\ShaderCache\3\3844c11da7b787dc77cd82a1a5bdbc83.bin
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\3\3844c11da7b787dc77cd82a1a5bdbc83.bin
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\3\3844c11da7b787dc77cd82a1a5bdbc83.bin
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Library\ShaderCache\3\3844c11da7b787dc77cd82a1a5bdbc83.bin
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Library\ShaderCache\3\392fc1bcbed50e719f70ab2445880bb6.bin
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\3\392fc1bcbed50e719f70ab2445880bb6.bin
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\3\392fc1bcbed50e719f70ab2445880bb6.bin
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Library\ShaderCache\3\392fc1bcbed50e719f70ab2445880bb6.bin
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Library\ShaderCache\3\39c4dde4f6d221ce22a385bdf78d8267.bin
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\3\39c4dde4f6d221ce22a385bdf78d8267.bin
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\3\39c4dde4f6d221ce22a385bdf78d8267.bin
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Library\ShaderCache\3\39c4dde4f6d221ce22a385bdf78d8267.bin
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Library\ShaderCache\4\409cdcf700121b4e66c04b8ed84c5cf9.bin
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\4\409cdcf700121b4e66c04b8ed84c5cf9.bin
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\4\409cdcf700121b4e66c04b8ed84c5cf9.bin
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Library\ShaderCache\4\409cdcf700121b4e66c04b8ed84c5cf9.bin
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Library\ShaderCache\4\4b9647894d88fabe4d112fa430530576.bin
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\4\4b9647894d88fabe4d112fa430530576.bin
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\4\4b9647894d88fabe4d112fa430530576.bin
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Library\ShaderCache\4\4b9647894d88fabe4d112fa430530576.bin
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Library\ShaderCache\4\4c224efbdf93275ee84020f288acfdc1.bin
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\4\4c224efbdf93275ee84020f288acfdc1.bin
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\4\4c224efbdf93275ee84020f288acfdc1.bin
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Library\ShaderCache\4\4c224efbdf93275ee84020f288acfdc1.bin
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Library\ShaderCache\5\52e72b29150222f1659d289ac66d08c1.bin
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\5\52e72b29150222f1659d289ac66d08c1.bin
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\5\52e72b29150222f1659d289ac66d08c1.bin
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Library\ShaderCache\5\52e72b29150222f1659d289ac66d08c1.bin
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Library\ShaderCache\5\54c69bda7512848e358f117525e28d5d.bin
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\5\54c69bda7512848e358f117525e28d5d.bin
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\5\54c69bda7512848e358f117525e28d5d.bin
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Library\ShaderCache\5\54c69bda7512848e358f117525e28d5d.bin
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Library\ShaderCache\5\58e6822b0d7325e172232454387912eb.bin
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\5\58e6822b0d7325e172232454387912eb.bin
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\5\58e6822b0d7325e172232454387912eb.bin
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Library\ShaderCache\5\58e6822b0d7325e172232454387912eb.bin
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Library\ShaderCache\5\591a820ee59cc2e83ccf0882a088a092.bin
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\5\591a820ee59cc2e83ccf0882a088a092.bin
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\5\591a820ee59cc2e83ccf0882a088a092.bin
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Library\ShaderCache\5\591a820ee59cc2e83ccf0882a088a092.bin
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Library\ShaderCache\5\597b2b1f6c44d2a3d6c362fa9ee711e9.bin
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\5\597b2b1f6c44d2a3d6c362fa9ee711e9.bin
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\5\597b2b1f6c44d2a3d6c362fa9ee711e9.bin
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Library\ShaderCache\5\597b2b1f6c44d2a3d6c362fa9ee711e9.bin
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Library\ShaderCache\5\5badb4a9a366c1b46b75f626141419f9.bin
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\5\5badb4a9a366c1b46b75f626141419f9.bin
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\5\5badb4a9a366c1b46b75f626141419f9.bin
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Library\ShaderCache\5\5badb4a9a366c1b46b75f626141419f9.bin
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Library\ShaderCache\5\5e44b26214dae698188073d35ddbe5fa.bin
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\5\5e44b26214dae698188073d35ddbe5fa.bin
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\5\5e44b26214dae698188073d35ddbe5fa.bin
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Library\ShaderCache\5\5e44b26214dae698188073d35ddbe5fa.bin
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Library\ShaderCache\6\622bbe685be550fea63728f57a800827.bin
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\6\622bbe685be550fea63728f57a800827.bin
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\6\622bbe685be550fea63728f57a800827.bin
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Library\ShaderCache\6\622bbe685be550fea63728f57a800827.bin
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Library\ShaderCache\6\62afad744e54361483b22b4ffc56ff8a.bin
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\6\62afad744e54361483b22b4ffc56ff8a.bin
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\6\62afad744e54361483b22b4ffc56ff8a.bin
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Library\ShaderCache\6\62afad744e54361483b22b4ffc56ff8a.bin
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Library\ShaderCache\6\6cddab0c4f47f111d8c9072870810003.bin
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\6\6cddab0c4f47f111d8c9072870810003.bin
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\6\6cddab0c4f47f111d8c9072870810003.bin
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Library\ShaderCache\6\6cddab0c4f47f111d8c9072870810003.bin
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Library\ShaderCache\6\6dcfe14c16f2f14e5987ecb9f67bf80f.bin
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\6\6dcfe14c16f2f14e5987ecb9f67bf80f.bin
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\6\6dcfe14c16f2f14e5987ecb9f67bf80f.bin
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Library\ShaderCache\6\6dcfe14c16f2f14e5987ecb9f67bf80f.bin
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Library\ShaderCache\7\73abc23d758e37a3fa9a78da983fd2cc.bin
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\7\73abc23d758e37a3fa9a78da983fd2cc.bin
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\7\73abc23d758e37a3fa9a78da983fd2cc.bin
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Library\ShaderCache\7\73abc23d758e37a3fa9a78da983fd2cc.bin
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Library\ShaderCache\7\766abf8329600853b9a98ed52cb95dd2.bin
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\7\766abf8329600853b9a98ed52cb95dd2.bin
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\7\766abf8329600853b9a98ed52cb95dd2.bin
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Library\ShaderCache\7\766abf8329600853b9a98ed52cb95dd2.bin
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Library\ShaderCache\7\7adcedaa2fc23be3971113093eb3a59e.bin
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\7\7adcedaa2fc23be3971113093eb3a59e.bin
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\7\7adcedaa2fc23be3971113093eb3a59e.bin
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Library\ShaderCache\7\7adcedaa2fc23be3971113093eb3a59e.bin
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Library\ShaderCache\8\869608121dbd85882510403943f704df.bin
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\8\869608121dbd85882510403943f704df.bin
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\8\869608121dbd85882510403943f704df.bin
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Library\ShaderCache\8\869608121dbd85882510403943f704df.bin
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Library\ShaderCache\8\89578cb4f8adc35c3d3fa06e32423fbc.bin
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\8\89578cb4f8adc35c3d3fa06e32423fbc.bin
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\8\89578cb4f8adc35c3d3fa06e32423fbc.bin
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Library\ShaderCache\8\89578cb4f8adc35c3d3fa06e32423fbc.bin
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Library\ShaderCache\8\8aa16b21f9df9c21d9282efb294d90df.bin
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\8\8aa16b21f9df9c21d9282efb294d90df.bin
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\8\8aa16b21f9df9c21d9282efb294d90df.bin
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Library\ShaderCache\8\8aa16b21f9df9c21d9282efb294d90df.bin
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Library\ShaderCache\9\90c9b1c205d20a79692c29b0479ab0be.bin
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\9\90c9b1c205d20a79692c29b0479ab0be.bin
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\9\90c9b1c205d20a79692c29b0479ab0be.bin
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Library\ShaderCache\9\90c9b1c205d20a79692c29b0479ab0be.bin
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Library\ShaderCache\9\961299d6cd0ff7e25d01b057d768c617.bin
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\9\961299d6cd0ff7e25d01b057d768c617.bin
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\9\961299d6cd0ff7e25d01b057d768c617.bin
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Library\ShaderCache\9\961299d6cd0ff7e25d01b057d768c617.bin
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Library\ShaderCache\EditorEncounteredVariants
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\EditorEncounteredVariants
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\EditorEncounteredVariants
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Library\ShaderCache\EditorEncounteredVariants
       originalPath: 
       indexStatus: 3
       workTreeStatus: 0
     - path: AR-God\Library\ShaderCache\a\a3a5f3f7133c820cbcb2c0feafc4b585.bin
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\a\a3a5f3f7133c820cbcb2c0feafc4b585.bin
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\a\a3a5f3f7133c820cbcb2c0feafc4b585.bin
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Library\ShaderCache\a\a3a5f3f7133c820cbcb2c0feafc4b585.bin
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Library\ShaderCache\a\a79fd58ab340a2815124a98c99a642e8.bin
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\a\a79fd58ab340a2815124a98c99a642e8.bin
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\a\a79fd58ab340a2815124a98c99a642e8.bin
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Library\ShaderCache\a\a79fd58ab340a2815124a98c99a642e8.bin
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Library\ShaderCache\a\a7ec1cd2b5f34f4a8f3c46c0d4ba82e7.bin
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\a\a7ec1cd2b5f34f4a8f3c46c0d4ba82e7.bin
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\a\a7ec1cd2b5f34f4a8f3c46c0d4ba82e7.bin
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Library\ShaderCache\a\a7ec1cd2b5f34f4a8f3c46c0d4ba82e7.bin
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Library\ShaderCache\a\ab576bd1c0c37b8197d8ecba43e93590.bin
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\a\ab576bd1c0c37b8197d8ecba43e93590.bin
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\a\ab576bd1c0c37b8197d8ecba43e93590.bin
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Library\ShaderCache\a\ab576bd1c0c37b8197d8ecba43e93590.bin
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Library\ShaderCache\a\afd7117b4f5615168658523126cfe0dc.bin
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\a\afd7117b4f5615168658523126cfe0dc.bin
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\a\afd7117b4f5615168658523126cfe0dc.bin
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Library\ShaderCache\a\afd7117b4f5615168658523126cfe0dc.bin
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Library\ShaderCache\b\b2841c9ae5c56fca926d0dbb6ee61e20.bin
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\b\b2841c9ae5c56fca926d0dbb6ee61e20.bin
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\b\b2841c9ae5c56fca926d0dbb6ee61e20.bin
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Library\ShaderCache\b\b2841c9ae5c56fca926d0dbb6ee61e20.bin
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Library\ShaderCache\b\bd8e564a4c368e74f75e6db4f2cea17c.bin
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\b\bd8e564a4c368e74f75e6db4f2cea17c.bin
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\b\bd8e564a4c368e74f75e6db4f2cea17c.bin
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Library\ShaderCache\b\bd8e564a4c368e74f75e6db4f2cea17c.bin
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Library\ShaderCache\b\bf336d53c0946c2ab00fff5e2c3fa4e0.bin
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\b\bf336d53c0946c2ab00fff5e2c3fa4e0.bin
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\b\bf336d53c0946c2ab00fff5e2c3fa4e0.bin
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Library\ShaderCache\b\bf336d53c0946c2ab00fff5e2c3fa4e0.bin
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Library\ShaderCache\b\bf91b2e59c7f4ef9d03911da1787225d.bin
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\b\bf91b2e59c7f4ef9d03911da1787225d.bin
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\b\bf91b2e59c7f4ef9d03911da1787225d.bin
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Library\ShaderCache\b\bf91b2e59c7f4ef9d03911da1787225d.bin
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Library\ShaderCache\c\c47fca557989701baa6abc1352b2c7cc.bin
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\c\c47fca557989701baa6abc1352b2c7cc.bin
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\c\c47fca557989701baa6abc1352b2c7cc.bin
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Library\ShaderCache\c\c47fca557989701baa6abc1352b2c7cc.bin
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Library\ShaderCache\c\c4fbcef12193236f54f826b099ec2d1a.bin
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\c\c4fbcef12193236f54f826b099ec2d1a.bin
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\c\c4fbcef12193236f54f826b099ec2d1a.bin
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Library\ShaderCache\c\c4fbcef12193236f54f826b099ec2d1a.bin
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Library\ShaderCache\c\c87c585bb3dab0ca8ed820f71b3136e9.bin
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\c\c87c585bb3dab0ca8ed820f71b3136e9.bin
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\c\c87c585bb3dab0ca8ed820f71b3136e9.bin
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Library\ShaderCache\c\c87c585bb3dab0ca8ed820f71b3136e9.bin
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Library\ShaderCache\c\c96de2654f810461eb460b362a86fcf3.bin
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\c\c96de2654f810461eb460b362a86fcf3.bin
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\c\c96de2654f810461eb460b362a86fcf3.bin
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Library\ShaderCache\c\c96de2654f810461eb460b362a86fcf3.bin
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Library\ShaderCache\c\cd041819585f8dad25c1d4569c926a8e.bin
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\c\cd041819585f8dad25c1d4569c926a8e.bin
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\c\cd041819585f8dad25c1d4569c926a8e.bin
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Library\ShaderCache\c\cd041819585f8dad25c1d4569c926a8e.bin
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Library\ShaderCache\d\d11c7c136abffce2d938100e14433331.bin
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\d\d11c7c136abffce2d938100e14433331.bin
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\d\d11c7c136abffce2d938100e14433331.bin
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Library\ShaderCache\d\d11c7c136abffce2d938100e14433331.bin
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Library\ShaderCache\d\d4770d3c701d358e4074a4413695ef40.bin
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\d\d4770d3c701d358e4074a4413695ef40.bin
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\d\d4770d3c701d358e4074a4413695ef40.bin
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Library\ShaderCache\d\d4770d3c701d358e4074a4413695ef40.bin
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Library\ShaderCache\d\de557579098e973c7c11ce16fbb8b1e7.bin
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\d\de557579098e973c7c11ce16fbb8b1e7.bin
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\d\de557579098e973c7c11ce16fbb8b1e7.bin
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Library\ShaderCache\d\de557579098e973c7c11ce16fbb8b1e7.bin
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Library\ShaderCache\e\e16016a1858f2112ea7d226cc7a70d14.bin
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\e\e16016a1858f2112ea7d226cc7a70d14.bin
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\e\e16016a1858f2112ea7d226cc7a70d14.bin
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Library\ShaderCache\e\e16016a1858f2112ea7d226cc7a70d14.bin
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Library\ShaderCache\e\e97da308329ada7593f561d40f311da8.bin
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\e\e97da308329ada7593f561d40f311da8.bin
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\e\e97da308329ada7593f561d40f311da8.bin
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Library\ShaderCache\e\e97da308329ada7593f561d40f311da8.bin
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Library\ShaderCache\e\ed7a16b85aab8c353f03df10425fda12.bin
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\e\ed7a16b85aab8c353f03df10425fda12.bin
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\ShaderCache\e\ed7a16b85aab8c353f03df10425fda12.bin
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Library\ShaderCache\e\ed7a16b85aab8c353f03df10425fda12.bin
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Library\SourceAssetDB
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\SourceAssetDB
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\SourceAssetDB
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Library\SourceAssetDB
       originalPath: 
       indexStatus: 3
       workTreeStatus: 0
     - path: AR-God\Library\StateCache\Hierarchy\7c4650-e332982425ee2ec48b.json
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\StateCache\Hierarchy\7c4650-e332982425ee2ec48b.json
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\StateCache\Hierarchy\7c4650-e332982425ee2ec48b.json
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Library\StateCache\Hierarchy\7c4650-e332982425ee2ec48b.json
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Library\StateCache\Hierarchy\97b062-mainStage.json
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\StateCache\Hierarchy\97b062-mainStage.json
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\StateCache\Hierarchy\97b062-mainStage.json
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Library\StateCache\Hierarchy\97b062-mainStage.json
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Library\StateCache\SceneView\5d7aad-mainStage.json
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\StateCache\SceneView\5d7aad-mainStage.json
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\StateCache\SceneView\5d7aad-mainStage.json
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Library\StateCache\SceneView\5d7aad-mainStage.json
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Library\StateCache\SceneView\791e84-e332982425ee2ec48b.json
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\StateCache\SceneView\791e84-e332982425ee2ec48b.json
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\StateCache\SceneView\791e84-e332982425ee2ec48b.json
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Library\StateCache\SceneView\791e84-e332982425ee2ec48b.json
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
     - path: AR-God\Library\gfu\cache\branches.yaml
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\gfu\cache\branches.yaml
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\gfu\cache\branches.yaml
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Library\gfu\cache\branches.yaml
       originalPath: 
       indexStatus: 3
       workTreeStatus: 0
     - path: AR-God\Library\gfu\cache\gitlocks.yaml
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\gfu\cache\gitlocks.yaml
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\gfu\cache\gitlocks.yaml
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Library\gfu\cache\gitlocks.yaml
       originalPath: 
       indexStatus: 3
       workTreeStatus: 0
     - path: AR-God\Library\gfu\cache\gitlog.yaml
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\gfu\cache\gitlog.yaml
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\gfu\cache\gitlog.yaml
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Library\gfu\cache\gitlog.yaml
       originalPath: 
       indexStatus: 3
       workTreeStatus: 0
     - path: AR-God\Library\gfu\cache\gitstatusentries.yaml
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\gfu\cache\gitstatusentries.yaml
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\gfu\cache\gitstatusentries.yaml
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Library\gfu\cache\gitstatusentries.yaml
       originalPath: 
       indexStatus: 3
       workTreeStatus: 0
     - path: AR-God\Library\gfu\cache\gittrackingstatus.yaml
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\gfu\cache\gittrackingstatus.yaml
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\gfu\cache\gittrackingstatus.yaml
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Library\gfu\cache\gittrackingstatus.yaml
       originalPath: 
       indexStatus: 3
       workTreeStatus: 0
     - path: AR-God\Library\gfu\cache\gituser.yaml
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\gfu\cache\gituser.yaml
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\gfu\cache\gituser.yaml
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Library\gfu\cache\gituser.yaml
       originalPath: 
       indexStatus: 3
       workTreeStatus: 0
     - path: AR-God\Library\gfu\cache\repoinfo.yaml
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\gfu\cache\repoinfo.yaml
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\Library\gfu\cache\repoinfo.yaml
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: Library\gfu\cache\repoinfo.yaml
       originalPath: 
       indexStatus: 3
       workTreeStatus: 0
     - path: AR-God\ProjectSettings\ProjectSettings.asset
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\ProjectSettings\ProjectSettings.asset
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\ProjectSettings\ProjectSettings.asset
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: ProjectSettings\ProjectSettings.asset
       originalPath: 
       indexStatus: 3
       workTreeStatus: 0
     - path: AR-God\ScivoloCharacterController.csproj
+<<<<<<< HEAD
       fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\ScivoloCharacterController.csproj
+=======
+      fullPath: C:\Users\cedri\Documents\Proj\AR-God\AR-God\ScivoloCharacterController.csproj
+>>>>>>> 8ca1444e89fd8e678383d0fb2ccbb960f3224032
       projectPath: ScivoloCharacterController.csproj
       originalPath: 
       indexStatus: 4

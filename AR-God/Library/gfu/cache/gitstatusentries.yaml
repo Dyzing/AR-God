@@ -13,240 +13,422 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2021-02-05T19:05:21.694+01:00
-  initializedAtString: 2021-02-05T18:50:29.726+01:00
+  lastUpdatedAtString: 2021-02-06T17:19:06.590+01:00
+  initializedAtString: 2021-02-06T16:30:09.011+01:00
   entries:
+  - path: AR-God\AR-God.sln
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\AR-God.sln
+    projectPath: AR-God.sln
+    originalPath: 
+    indexStatus: 3
+    workTreeStatus: 3
   - path: AR-God\Assembly-CSharp.csproj
     fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assembly-CSharp.csproj
     projectPath: Assembly-CSharp.csproj
     originalPath: 
+    indexStatus: 9
+    workTreeStatus: 9
+  - path: AR-God\Assembly-CSharp-Editor.csproj
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assembly-CSharp-Editor.csproj
+    projectPath: Assembly-CSharp-Editor.csproj
+    originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: AR-God\Assets\Boats\Demo\Demoscene.unity
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Boats\Demo\Demoscene.unity
-    projectPath: Assets\Boats\Demo\Demoscene.unity
+  - path: AR-God\Assembly-CSharp-Editor-firstpass.csproj
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assembly-CSharp-Editor-firstpass.csproj
+    projectPath: Assembly-CSharp-Editor-firstpass.csproj
+    originalPath: 
+    indexStatus: 3
+    workTreeStatus: 3
+  - path: AR-God\Assets\_TerrainAutoUpgrade\layer_CliffAlbedoSpecularcc0f254a2c535401.terrainlayer
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\_TerrainAutoUpgrade\layer_CliffAlbedoSpecularcc0f254a2c535401.terrainlayer
+    projectPath: Assets\_TerrainAutoUpgrade\layer_CliffAlbedoSpecularcc0f254a2c535401.terrainlayer
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Assets\Boats\Demo\Post-Process_Profile_Rowboats.asset
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Boats\Demo\Post-Process_Profile_Rowboats.asset
-    projectPath: Assets\Boats\Demo\Post-Process_Profile_Rowboats.asset
+  - path: AR-God\Assets\_TerrainAutoUpgrade\layer_GrassHillAlbedocc0f254a2c535401.terrainlayer
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\_TerrainAutoUpgrade\layer_GrassHillAlbedocc0f254a2c535401.terrainlayer
+    projectPath: Assets\_TerrainAutoUpgrade\layer_GrassHillAlbedocc0f254a2c535401.terrainlayer
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Assets\Boats\Legacy_Content\Boat_Aluminium.prefab
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Boats\Legacy_Content\Boat_Aluminium.prefab
-    projectPath: Assets\Boats\Legacy_Content\Boat_Aluminium.prefab
+  - path: AR-God\Assets\_TerrainAutoUpgrade\layer_MudRockyAlbedoSpecularMudRockyNormalsb3407d0e55802f81.terrainlayer
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\_TerrainAutoUpgrade\layer_MudRockyAlbedoSpecularMudRockyNormalsb3407d0e55802f81.terrainlayer
+    projectPath: Assets\_TerrainAutoUpgrade\layer_MudRockyAlbedoSpecularMudRockyNormalsb3407d0e55802f81.terrainlayer
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Assets\Boats\Legacy_Content\Boat_Mobile.prefab
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Boats\Legacy_Content\Boat_Mobile.prefab
-    projectPath: Assets\Boats\Legacy_Content\Boat_Mobile.prefab
+  - path: AR-God\Assets\_TerrainAutoUpgrade\layer_SandAlbedocc0f254a2c535401.terrainlayer
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\_TerrainAutoUpgrade\layer_SandAlbedocc0f254a2c535401.terrainlayer
+    projectPath: Assets\_TerrainAutoUpgrade\layer_SandAlbedocc0f254a2c535401.terrainlayer
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Assets\Boats\Legacy_Content\Imports\Boat_Mobile.fbx
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Boats\Legacy_Content\Imports\Boat_Mobile.fbx
-    projectPath: Assets\Boats\Legacy_Content\Imports\Boat_Mobile.fbx
+  - path: AR-God\Assets\FROOD\Materials\Apple.mat
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\FROOD\Materials\Apple.mat
+    projectPath: Assets\FROOD\Materials\Apple.mat
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Assets\Boats\Legacy_Content\Imports\COL_Boat_Mobile.fbx
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Boats\Legacy_Content\Imports\COL_Boat_Mobile.fbx
-    projectPath: Assets\Boats\Legacy_Content\Imports\COL_Boat_Mobile.fbx
+  - path: AR-God\Assets\FROOD\Materials\Bone.mat
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\FROOD\Materials\Bone.mat
+    projectPath: Assets\FROOD\Materials\Bone.mat
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Assets\Boats\Legacy_Content\Imports\COL_Rowboat.fbx
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Boats\Legacy_Content\Imports\COL_Rowboat.fbx
-    projectPath: Assets\Boats\Legacy_Content\Imports\COL_Rowboat.fbx
+  - path: AR-God\Assets\FROOD\Materials\Bottle.mat
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\FROOD\Materials\Bottle.mat
+    projectPath: Assets\FROOD\Materials\Bottle.mat
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Assets\Boats\Legacy_Content\Imports\Materials\Boat_Alum.mat
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Boats\Legacy_Content\Imports\Materials\Boat_Alum.mat
-    projectPath: Assets\Boats\Legacy_Content\Imports\Materials\Boat_Alum.mat
+  - path: AR-God\Assets\FROOD\Materials\Cake.mat
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\FROOD\Materials\Cake.mat
+    projectPath: Assets\FROOD\Materials\Cake.mat
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Assets\Boats\Legacy_Content\Imports\Materials\Boat_Wood.mat
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Boats\Legacy_Content\Imports\Materials\Boat_Wood.mat
-    projectPath: Assets\Boats\Legacy_Content\Imports\Materials\Boat_Wood.mat
+  - path: AR-God\Assets\FROOD\Materials\Cake2.mat
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\FROOD\Materials\Cake2.mat
+    projectPath: Assets\FROOD\Materials\Cake2.mat
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Assets\Boats\Legacy_Content\Imports\Materials\Mobile_Boat.mat
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Boats\Legacy_Content\Imports\Materials\Mobile_Boat.mat
-    projectPath: Assets\Boats\Legacy_Content\Imports\Materials\Mobile_Boat.mat
+  - path: AR-God\Assets\FROOD\Materials\Cake3.mat
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\FROOD\Materials\Cake3.mat
+    projectPath: Assets\FROOD\Materials\Cake3.mat
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Assets\Boats\Legacy_Content\Imports\RowBoat.fbx
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Boats\Legacy_Content\Imports\RowBoat.fbx
-    projectPath: Assets\Boats\Legacy_Content\Imports\RowBoat.fbx
+  - path: AR-God\Assets\FROOD\Materials\Cap.mat
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\FROOD\Materials\Cap.mat
+    projectPath: Assets\FROOD\Materials\Cap.mat
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Assets\Boats\Legacy_Content\RowBoat.prefab
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Boats\Legacy_Content\RowBoat.prefab
-    projectPath: Assets\Boats\Legacy_Content\RowBoat.prefab
+  - path: AR-God\Assets\FROOD\Materials\Chocolate.mat
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\FROOD\Materials\Chocolate.mat
+    projectPath: Assets\FROOD\Materials\Chocolate.mat
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Assets\Boats\Legacy_Content\Textures\AluBoat_ao.png
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Boats\Legacy_Content\Textures\AluBoat_ao.png
-    projectPath: Assets\Boats\Legacy_Content\Textures\AluBoat_ao.png
+  - path: AR-God\Assets\FROOD\Materials\Cookie.mat
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\FROOD\Materials\Cookie.mat
+    projectPath: Assets\FROOD\Materials\Cookie.mat
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Assets\Boats\Legacy_Content\Textures\AluBoat_diffuse.png
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Boats\Legacy_Content\Textures\AluBoat_diffuse.png
-    projectPath: Assets\Boats\Legacy_Content\Textures\AluBoat_diffuse.png
+  - path: AR-God\Assets\FROOD\Materials\Drink1.mat
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\FROOD\Materials\Drink1.mat
+    projectPath: Assets\FROOD\Materials\Drink1.mat
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Assets\Boats\Legacy_Content\Textures\AluBoat_normal.png
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Boats\Legacy_Content\Textures\AluBoat_normal.png
-    projectPath: Assets\Boats\Legacy_Content\Textures\AluBoat_normal.png
+  - path: AR-God\Assets\FROOD\Materials\Drink2.mat
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\FROOD\Materials\Drink2.mat
+    projectPath: Assets\FROOD\Materials\Drink2.mat
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Assets\Boats\Legacy_Content\Textures\AluBoat_specular.png
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Boats\Legacy_Content\Textures\AluBoat_specular.png
-    projectPath: Assets\Boats\Legacy_Content\Textures\AluBoat_specular.png
+  - path: AR-God\Assets\FROOD\Materials\Floor.mat
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\FROOD\Materials\Floor.mat
+    projectPath: Assets\FROOD\Materials\Floor.mat
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Assets\Boats\Legacy_Content\Textures\Boat_Mobile_Diffuse.png
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Boats\Legacy_Content\Textures\Boat_Mobile_Diffuse.png
-    projectPath: Assets\Boats\Legacy_Content\Textures\Boat_Mobile_Diffuse.png
+  - path: AR-God\Assets\FROOD\Materials\Ham.mat
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\FROOD\Materials\Ham.mat
+    projectPath: Assets\FROOD\Materials\Ham.mat
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Assets\Boats\Legacy_Content\Textures\RowBoat_Albedo.png
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Boats\Legacy_Content\Textures\RowBoat_Albedo.png
-    projectPath: Assets\Boats\Legacy_Content\Textures\RowBoat_Albedo.png
+  - path: AR-God\Assets\FROOD\Materials\HamBone.mat
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\FROOD\Materials\HamBone.mat
+    projectPath: Assets\FROOD\Materials\HamBone.mat
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Assets\Boats\Legacy_Content\Textures\RowBoat_AO.png
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Boats\Legacy_Content\Textures\RowBoat_AO.png
-    projectPath: Assets\Boats\Legacy_Content\Textures\RowBoat_AO.png
+  - path: AR-God\Assets\FROOD\Materials\HamRed.mat
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\FROOD\Materials\HamRed.mat
+    projectPath: Assets\FROOD\Materials\HamRed.mat
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Assets\Boats\Legacy_Content\Textures\RowBoat_Metallic.tif
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Boats\Legacy_Content\Textures\RowBoat_Metallic.tif
-    projectPath: Assets\Boats\Legacy_Content\Textures\RowBoat_Metallic.tif
+  - path: AR-God\Assets\FROOD\Materials\LiquidBlue.mat
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\FROOD\Materials\LiquidBlue.mat
+    projectPath: Assets\FROOD\Materials\LiquidBlue.mat
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Assets\Boats\Legacy_Content\Textures\RowBoat_nrm.png
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Boats\Legacy_Content\Textures\RowBoat_nrm.png
-    projectPath: Assets\Boats\Legacy_Content\Textures\RowBoat_nrm.png
+  - path: AR-God\Assets\FROOD\Materials\LiquidGreen.mat
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\FROOD\Materials\LiquidGreen.mat
+    projectPath: Assets\FROOD\Materials\LiquidGreen.mat
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Assets\Boats\Prefabs\Boat_Covered.prefab
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Boats\Prefabs\Boat_Covered.prefab
-    projectPath: Assets\Boats\Prefabs\Boat_Covered.prefab
+  - path: AR-God\Assets\FROOD\Materials\LiquidRed.mat
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\FROOD\Materials\LiquidRed.mat
+    projectPath: Assets\FROOD\Materials\LiquidRed.mat
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Assets\Boats\Prefabs\OldWoodenRowboat.prefab
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Boats\Prefabs\OldWoodenRowboat.prefab
-    projectPath: Assets\Boats\Prefabs\OldWoodenRowboat.prefab
+  - path: AR-God\Assets\FROOD\Materials\Meat.mat
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\FROOD\Materials\Meat.mat
+    projectPath: Assets\FROOD\Materials\Meat.mat
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Assets\Boats\Prefabs\OldWoodenRowboat_Complete.prefab
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Boats\Prefabs\OldWoodenRowboat_Complete.prefab
-    projectPath: Assets\Boats\Prefabs\OldWoodenRowboat_Complete.prefab
+  - path: AR-God\Assets\FROOD\Materials\Rice.mat
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\FROOD\Materials\Rice.mat
+    projectPath: Assets\FROOD\Materials\Rice.mat
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Assets\Boats\Prefabs\Paddle.prefab
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Boats\Prefabs\Paddle.prefab
-    projectPath: Assets\Boats\Prefabs\Paddle.prefab
+  - path: AR-God\Assets\FROOD\Materials\Seed.mat
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\FROOD\Materials\Seed.mat
+    projectPath: Assets\FROOD\Materials\Seed.mat
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Assets\Boats\Source\Boat_Covered.FBX
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Boats\Source\Boat_Covered.FBX
-    projectPath: Assets\Boats\Source\Boat_Covered.FBX
+  - path: AR-God\Assets\FROOD\Materials\Stalk.mat
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\FROOD\Materials\Stalk.mat
+    projectPath: Assets\FROOD\Materials\Stalk.mat
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Assets\Boats\Source\Materials\M_OldRowBoat.mat
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Boats\Source\Materials\M_OldRowBoat.mat
-    projectPath: Assets\Boats\Source\Materials\M_OldRowBoat.mat
+  - path: AR-God\Assets\FROOD\Materials\Strawberry.mat
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\FROOD\Materials\Strawberry.mat
+    projectPath: Assets\FROOD\Materials\Strawberry.mat
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Assets\Boats\Source\Materials\M_Paddle_Tarp.mat
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Boats\Source\Materials\M_Paddle_Tarp.mat
-    projectPath: Assets\Boats\Source\Materials\M_Paddle_Tarp.mat
+  - path: AR-God\Assets\FROOD\Materials\Watermelon.mat
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\FROOD\Materials\Watermelon.mat
+    projectPath: Assets\FROOD\Materials\Watermelon.mat
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Assets\Boats\Source\OldWoodenRowboat.FBX
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Boats\Source\OldWoodenRowboat.FBX
-    projectPath: Assets\Boats\Source\OldWoodenRowboat.FBX
+  - path: AR-God\Assets\FROOD\Materials\Watermelon2.mat
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\FROOD\Materials\Watermelon2.mat
+    projectPath: Assets\FROOD\Materials\Watermelon2.mat
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Assets\Boats\Source\Paddle.FBX
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Boats\Source\Paddle.FBX
-    projectPath: Assets\Boats\Source\Paddle.FBX
+  - path: AR-God\Assets\FROOD\Materials\Watermelon3.mat
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\FROOD\Materials\Watermelon3.mat
+    projectPath: Assets\FROOD\Materials\Watermelon3.mat
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Assets\Boats\Source\Textures\Boat_Wood_AO.png
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Boats\Source\Textures\Boat_Wood_AO.png
-    projectPath: Assets\Boats\Source\Textures\Boat_Wood_AO.png
+  - path: AR-God\Assets\FROOD\Materials\Watermelon4.mat
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\FROOD\Materials\Watermelon4.mat
+    projectPath: Assets\FROOD\Materials\Watermelon4.mat
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Assets\Boats\Source\Textures\Boat_Wood_BC.png
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Boats\Source\Textures\Boat_Wood_BC.png
-    projectPath: Assets\Boats\Source\Textures\Boat_Wood_BC.png
+  - path: AR-God\Assets\FROOD\Materials\Wrap.mat
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\FROOD\Materials\Wrap.mat
+    projectPath: Assets\FROOD\Materials\Wrap.mat
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Assets\Boats\Source\Textures\Boat_Wood_MS.tif
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Boats\Source\Textures\Boat_Wood_MS.tif
-    projectPath: Assets\Boats\Source\Textures\Boat_Wood_MS.tif
+  - path: AR-God\Assets\FROOD\Models\Apple.fbx
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\FROOD\Models\Apple.fbx
+    projectPath: Assets\FROOD\Models\Apple.fbx
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Assets\Boats\Source\Textures\Boat_Wood_Normal_OpenGL.png
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Boats\Source\Textures\Boat_Wood_Normal_OpenGL.png
-    projectPath: Assets\Boats\Source\Textures\Boat_Wood_Normal_OpenGL.png
+  - path: AR-God\Assets\FROOD\Models\BigBottle.fbx
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\FROOD\Models\BigBottle.fbx
+    projectPath: Assets\FROOD\Models\BigBottle.fbx
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Assets\Boats\Source\Textures\Paddle_Tarp_AO.png
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Boats\Source\Textures\Paddle_Tarp_AO.png
-    projectPath: Assets\Boats\Source\Textures\Paddle_Tarp_AO.png
+  - path: AR-God\Assets\FROOD\Models\Bottle.fbx
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\FROOD\Models\Bottle.fbx
+    projectPath: Assets\FROOD\Models\Bottle.fbx
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Assets\Boats\Source\Textures\Paddle_Tarp_BC.png
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Boats\Source\Textures\Paddle_Tarp_BC.png
-    projectPath: Assets\Boats\Source\Textures\Paddle_Tarp_BC.png
+  - path: AR-God\Assets\FROOD\Models\Cake.fbx
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\FROOD\Models\Cake.fbx
+    projectPath: Assets\FROOD\Models\Cake.fbx
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Assets\Boats\Source\Textures\Paddle_tarp_MS.tif
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Boats\Source\Textures\Paddle_tarp_MS.tif
-    projectPath: Assets\Boats\Source\Textures\Paddle_tarp_MS.tif
+  - path: AR-God\Assets\FROOD\Models\Cookie.fbx
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\FROOD\Models\Cookie.fbx
+    projectPath: Assets\FROOD\Models\Cookie.fbx
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Assets\Boats\Source\Textures\Paddle_Tarp_N.png
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Boats\Source\Textures\Paddle_Tarp_N.png
-    projectPath: Assets\Boats\Source\Textures\Paddle_Tarp_N.png
+  - path: AR-God\Assets\FROOD\Models\Drink.fbx
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\FROOD\Models\Drink.fbx
+    projectPath: Assets\FROOD\Models\Drink.fbx
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\FROOD\Models\Ham.fbx
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\FROOD\Models\Ham.fbx
+    projectPath: Assets\FROOD\Models\Ham.fbx
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\FROOD\Models\Onigiri.fbx
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\FROOD\Models\Onigiri.fbx
+    projectPath: Assets\FROOD\Models\Onigiri.fbx
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\FROOD\Models\Steack.fbx
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\FROOD\Models\Steack.fbx
+    projectPath: Assets\FROOD\Models\Steack.fbx
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\FROOD\Models\Watermelon.fbx
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\FROOD\Models\Watermelon.fbx
+    projectPath: Assets\FROOD\Models\Watermelon.fbx
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\FROOD\Prefabs\Apple.prefab
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\FROOD\Prefabs\Apple.prefab
+    projectPath: Assets\FROOD\Prefabs\Apple.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\FROOD\Prefabs\BigBottle.prefab
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\FROOD\Prefabs\BigBottle.prefab
+    projectPath: Assets\FROOD\Prefabs\BigBottle.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\FROOD\Prefabs\Bottle.prefab
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\FROOD\Prefabs\Bottle.prefab
+    projectPath: Assets\FROOD\Prefabs\Bottle.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\FROOD\Prefabs\Cake.prefab
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\FROOD\Prefabs\Cake.prefab
+    projectPath: Assets\FROOD\Prefabs\Cake.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\FROOD\Prefabs\Cookie.prefab
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\FROOD\Prefabs\Cookie.prefab
+    projectPath: Assets\FROOD\Prefabs\Cookie.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\FROOD\Prefabs\Drink.prefab
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\FROOD\Prefabs\Drink.prefab
+    projectPath: Assets\FROOD\Prefabs\Drink.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\FROOD\Prefabs\Ham.prefab
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\FROOD\Prefabs\Ham.prefab
+    projectPath: Assets\FROOD\Prefabs\Ham.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\FROOD\Prefabs\Onigiri.prefab
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\FROOD\Prefabs\Onigiri.prefab
+    projectPath: Assets\FROOD\Prefabs\Onigiri.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\FROOD\Prefabs\Steack.prefab
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\FROOD\Prefabs\Steack.prefab
+    projectPath: Assets\FROOD\Prefabs\Steack.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\FROOD\Prefabs\Watermelon.prefab
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\FROOD\Prefabs\Watermelon.prefab
+    projectPath: Assets\FROOD\Prefabs\Watermelon.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\FROOD\Scenes\DemoScene.unity
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\FROOD\Scenes\DemoScene.unity
+    projectPath: Assets\FROOD\Scenes\DemoScene.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\FROOD\Scripts\Spin.cs
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\FROOD\Scripts\Spin.cs
+    projectPath: Assets\FROOD\Scripts\Spin.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\Island.zip
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Island.zip
+    projectPath: Assets\Island.zip
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\Island\Prefabs\Pluie.prefab
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Island\Prefabs\Pluie.prefab
+    projectPath: Assets\Island\Prefabs\Pluie.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\Island\Prefabs\Scripts\BateauMove.cs
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Island\Prefabs\Scripts\BateauMove.cs
+    projectPath: Assets\Island\Prefabs\Scripts\BateauMove.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\Island\Prefabs\Scripts\Canvas Script\PauseMenuScript.cs
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Island\Prefabs\Scripts\Canvas
+      Script\PauseMenuScript.cs
+    projectPath: Assets\Island\Prefabs\Scripts\Canvas Script\PauseMenuScript.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\Island\Prefabs\Scripts\Canvas Script\Quitter.cs
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Island\Prefabs\Scripts\Canvas
+      Script\Quitter.cs
+    projectPath: Assets\Island\Prefabs\Scripts\Canvas Script\Quitter.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\Island\Prefabs\Scripts\ClickAndGo.cs
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Island\Prefabs\Scripts\ClickAndGo.cs
+    projectPath: Assets\Island\Prefabs\Scripts\ClickAndGo.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\Island\Prefabs\Scripts\DeathZone.cs
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Island\Prefabs\Scripts\DeathZone.cs
+    projectPath: Assets\Island\Prefabs\Scripts\DeathZone.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\Island\Prefabs\Scripts\FallingObjects.cs
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Island\Prefabs\Scripts\FallingObjects.cs
+    projectPath: Assets\Island\Prefabs\Scripts\FallingObjects.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\Island\Prefabs\Scripts\PlayerController.cs
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Island\Prefabs\Scripts\PlayerController.cs
+    projectPath: Assets\Island\Prefabs\Scripts\PlayerController.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\Island\Prefabs\Scripts\Spawner.cs
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Island\Prefabs\Scripts\Spawner.cs
+    projectPath: Assets\Island\Prefabs\Scripts\Spawner.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\Island\Prefabs\Scripts\WaterFlooding.cs
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Island\Prefabs\Scripts\WaterFlooding.cs
+    projectPath: Assets\Island\Prefabs\Scripts\WaterFlooding.cs
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -254,35 +436,17 @@ MonoBehaviour:
     fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Island\Scenes\Demo.unity
     projectPath: Assets\Island\Scenes\Demo.unity
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 9
+    workTreeStatus: 9
   - path: AR-God\Assets\Island\Scenes\Demo\NavMesh.asset
     fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Island\Scenes\Demo\NavMesh.asset
     projectPath: Assets\Island\Scenes\Demo\NavMesh.asset
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: AR-God\Assets\Lava_Flowing_Shader\Materials\lava1.mat
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Lava_Flowing_Shader\Materials\lava1.mat
-    projectPath: Assets\Lava_Flowing_Shader\Materials\lava1.mat
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AR-God\Assets\Lava_Flowing_Shader\Materials\lava1_transparent.mat
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Lava_Flowing_Shader\Materials\lava1_transparent.mat
-    projectPath: Assets\Lava_Flowing_Shader\Materials\lava1_transparent.mat
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AR-God\Assets\Lava_Flowing_Shader\Materials\lava2.mat
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Lava_Flowing_Shader\Materials\lava2.mat
-    projectPath: Assets\Lava_Flowing_Shader\Materials\lava2.mat
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AR-God\Assets\Lava_Flowing_Shader\Materials\lava3.mat
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Lava_Flowing_Shader\Materials\lava3.mat
-    projectPath: Assets\Lava_Flowing_Shader\Materials\lava3.mat
+    indexStatus: 4
+    workTreeStatus: 4
+  - path: AR-God\Assets\Island\Textures\Core4.mat
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Island\Textures\Core4.mat
+    projectPath: Assets\Island\Textures\Core4.mat
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -290,134 +454,344 @@ MonoBehaviour:
     fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Lava_Flowing_Shader\Materials\mtl_lava_diffuse.mat
     projectPath: Assets\Lava_Flowing_Shader\Materials\mtl_lava_diffuse.mat
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AR-God\Assets\Lava_Flowing_Shader\Materials\mtl_lava_distort.mat
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Lava_Flowing_Shader\Materials\mtl_lava_distort.mat
-    projectPath: Assets\Lava_Flowing_Shader\Materials\mtl_lava_distort.mat
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AR-God\Assets\Lava_Flowing_Shader\Materials\mtl_lava_distort_transparent.mat
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Lava_Flowing_Shader\Materials\mtl_lava_distort_transparent.mat
-    projectPath: Assets\Lava_Flowing_Shader\Materials\mtl_lava_distort_transparent.mat
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AR-God\Assets\Lava_Flowing_Shader\Materials\mtl_lava_simple.mat
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Lava_Flowing_Shader\Materials\mtl_lava_simple.mat
-    projectPath: Assets\Lava_Flowing_Shader\Materials\mtl_lava_simple.mat
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AR-God\Assets\Lava_Flowing_Shader\Prefabs\Lava_diffuse.prefab
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Lava_Flowing_Shader\Prefabs\Lava_diffuse.prefab
-    projectPath: Assets\Lava_Flowing_Shader\Prefabs\Lava_diffuse.prefab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AR-God\Assets\Lava_Flowing_Shader\Prefabs\Lava_distort.prefab
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Lava_Flowing_Shader\Prefabs\Lava_distort.prefab
-    projectPath: Assets\Lava_Flowing_Shader\Prefabs\Lava_distort.prefab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AR-God\Assets\Lava_Flowing_Shader\Prefabs\Lava_simple.prefab
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Lava_Flowing_Shader\Prefabs\Lava_simple.prefab
-    projectPath: Assets\Lava_Flowing_Shader\Prefabs\Lava_simple.prefab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AR-God\Assets\Lava_Flowing_Shader\Prefabs\Lava_transparent.prefab
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Lava_Flowing_Shader\Prefabs\Lava_transparent.prefab
-    projectPath: Assets\Lava_Flowing_Shader\Prefabs\Lava_transparent.prefab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AR-God\Assets\Lava_Flowing_Shader\ReadMe.txt
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Lava_Flowing_Shader\ReadMe.txt
-    projectPath: Assets\Lava_Flowing_Shader\ReadMe.txt
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AR-God\Assets\Lava_Flowing_Shader\Scenes\FLowingLava.unity
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Lava_Flowing_Shader\Scenes\FLowingLava.unity
-    projectPath: Assets\Lava_Flowing_Shader\Scenes\FLowingLava.unity
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AR-God\Assets\Lava_Flowing_Shader\Scripts\ScrollingUVs_Layers.cs
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Lava_Flowing_Shader\Scripts\ScrollingUVs_Layers.cs
-    projectPath: Assets\Lava_Flowing_Shader\Scripts\ScrollingUVs_Layers.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AR-God\Assets\Lava_Flowing_Shader\Shaders\Diffuse_Lava_Distort.shader
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Lava_Flowing_Shader\Shaders\Diffuse_Lava_Distort.shader
-    projectPath: Assets\Lava_Flowing_Shader\Shaders\Diffuse_Lava_Distort.shader
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AR-God\Assets\Lava_Flowing_Shader\Shaders\Unlit_Lava_Distort.shader
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Lava_Flowing_Shader\Shaders\Unlit_Lava_Distort.shader
-    projectPath: Assets\Lava_Flowing_Shader\Shaders\Unlit_Lava_Distort.shader
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AR-God\Assets\Lava_Flowing_Shader\Shaders\Unlit_Lava_Distort_Transparent.shader
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Lava_Flowing_Shader\Shaders\Unlit_Lava_Distort_Transparent.shader
-    projectPath: Assets\Lava_Flowing_Shader\Shaders\Unlit_Lava_Distort_Transparent.shader
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AR-God\Assets\Lava_Flowing_Shader\Shaders\Unlit_Lava_Simple.shader
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Lava_Flowing_Shader\Shaders\Unlit_Lava_Simple.shader
-    projectPath: Assets\Lava_Flowing_Shader\Shaders\Unlit_Lava_Simple.shader
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AR-God\Assets\Lava_Flowing_Shader\Textures\lava1.png
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Lava_Flowing_Shader\Textures\lava1.png
-    projectPath: Assets\Lava_Flowing_Shader\Textures\lava1.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AR-God\Assets\Lava_Flowing_Shader\Textures\lava1_transparent.png
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Lava_Flowing_Shader\Textures\lava1_transparent.png
-    projectPath: Assets\Lava_Flowing_Shader\Textures\lava1_transparent.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AR-God\Assets\Lava_Flowing_Shader\Textures\lava2.png
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Lava_Flowing_Shader\Textures\lava2.png
-    projectPath: Assets\Lava_Flowing_Shader\Textures\lava2.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AR-God\Assets\Lava_Flowing_Shader\Textures\lava3.png
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Lava_Flowing_Shader\Textures\lava3.png
-    projectPath: Assets\Lava_Flowing_Shader\Textures\lava3.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: AR-God\Assets\PolygonStarter\Prefabs\Characters\Player.prefab
     fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Prefabs\Characters\Player.prefab
     projectPath: Assets\PolygonStarter\Prefabs\Characters\Player.prefab
     originalPath: 
+    indexStatus: 4
+    workTreeStatus: 4
+  - path: AR-God\Assets\PolygonStarter\Prefabs\Characters\SM_Bean_Cowboy_01.prefab
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\PolygonStarter\Prefabs\Characters\SM_Bean_Cowboy_01.prefab
+    projectPath: Assets\PolygonStarter\Prefabs\Characters\SM_Bean_Cowboy_01.prefab
+    originalPath: 
+    indexStatus: 9
+    workTreeStatus: 9
+  - path: AR-God\Assets\RainMaker\Demo\Background.prefab
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\RainMaker\Demo\Background.prefab
+    projectPath: Assets\RainMaker\Demo\Background.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\RainMaker\Demo\DemoScene.unity
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\RainMaker\Demo\DemoScene.unity
+    projectPath: Assets\RainMaker\Demo\DemoScene.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\RainMaker\Demo\DemoScene2D.unity
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\RainMaker\Demo\DemoScene2D.unity
+    projectPath: Assets\RainMaker\Demo\DemoScene2D.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\RainMaker\Demo\DemoSceneSimple.unity
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\RainMaker\Demo\DemoSceneSimple.unity
+    projectPath: Assets\RainMaker\Demo\DemoSceneSimple.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\RainMaker\Demo\DemoSceneSimple3D.unity
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\RainMaker\Demo\DemoSceneSimple3D.unity
+    projectPath: Assets\RainMaker\Demo\DemoSceneSimple3D.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\RainMaker\Demo\DemoScript.cs
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\RainMaker\Demo\DemoScript.cs
+    projectPath: Assets\RainMaker\Demo\DemoScript.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\RainMaker\Demo\DemoScript2D.cs
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\RainMaker\Demo\DemoScript2D.cs
+    projectPath: Assets\RainMaker\Demo\DemoScript2D.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\RainMaker\Demo\DemoScriptStartRainOnSpaceBar.cs
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\RainMaker\Demo\DemoScriptStartRainOnSpaceBar.cs
+    projectPath: Assets\RainMaker\Demo\DemoScriptStartRainOnSpaceBar.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\RainMaker\Demo\FlashlightCookie.tif
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\RainMaker\Demo\FlashlightCookie.tif
+    projectPath: Assets\RainMaker\Demo\FlashlightCookie.tif
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\RainMaker\Demo\GrayMaterial.mat
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\RainMaker\Demo\GrayMaterial.mat
+    projectPath: Assets\RainMaker\Demo\GrayMaterial.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\RainMaker\Demo\NatureLandscape.png
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\RainMaker\Demo\NatureLandscape.png
+    projectPath: Assets\RainMaker\Demo\NatureLandscape.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\RainMaker\Demo\New Terrain.asset
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\RainMaker\Demo\New Terrain.asset
+    projectPath: Assets\RainMaker\Demo\New Terrain.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\RainMaker\Demo\PhysicsMaterialBall.physicsMaterial2D
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\RainMaker\Demo\PhysicsMaterialBall.physicsMaterial2D
+    projectPath: Assets\RainMaker\Demo\PhysicsMaterialBall.physicsMaterial2D
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\RainMaker\Demo\PhysicsMaterialGround.physicsMaterial2D
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\RainMaker\Demo\PhysicsMaterialGround.physicsMaterial2D
+    projectPath: Assets\RainMaker\Demo\PhysicsMaterialGround.physicsMaterial2D
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\RainMaker\Demo\Standard Assets\Environment\TerrainAssets\BillboardTextures\GrassFrond01AlbedoAlpha.psd
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\RainMaker\Demo\Standard Assets\Environment\TerrainAssets\BillboardTextures\GrassFrond01AlbedoAlpha.psd
+    projectPath: Assets\RainMaker\Demo\Standard Assets\Environment\TerrainAssets\BillboardTextures\GrassFrond01AlbedoAlpha.psd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\RainMaker\Demo\Standard Assets\Environment\TerrainAssets\BillboardTextures\GrassFrond02AlbedoAlpha.psd
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\RainMaker\Demo\Standard Assets\Environment\TerrainAssets\BillboardTextures\GrassFrond02AlbedoAlpha.psd
+    projectPath: Assets\RainMaker\Demo\Standard Assets\Environment\TerrainAssets\BillboardTextures\GrassFrond02AlbedoAlpha.psd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\RainMaker\Demo\Standard Assets\Environment\TerrainAssets\SurfaceTextures\CliffAlbedoSpecular.psd
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\RainMaker\Demo\Standard Assets\Environment\TerrainAssets\SurfaceTextures\CliffAlbedoSpecular.psd
+    projectPath: Assets\RainMaker\Demo\Standard Assets\Environment\TerrainAssets\SurfaceTextures\CliffAlbedoSpecular.psd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\RainMaker\Demo\Standard Assets\Environment\TerrainAssets\SurfaceTextures\GrassHillAlbedo.psd
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\RainMaker\Demo\Standard Assets\Environment\TerrainAssets\SurfaceTextures\GrassHillAlbedo.psd
+    projectPath: Assets\RainMaker\Demo\Standard Assets\Environment\TerrainAssets\SurfaceTextures\GrassHillAlbedo.psd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\RainMaker\Demo\Standard Assets\Environment\TerrainAssets\SurfaceTextures\GrassRockyAlbedo.psd
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\RainMaker\Demo\Standard Assets\Environment\TerrainAssets\SurfaceTextures\GrassRockyAlbedo.psd
+    projectPath: Assets\RainMaker\Demo\Standard Assets\Environment\TerrainAssets\SurfaceTextures\GrassRockyAlbedo.psd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\RainMaker\Demo\Standard Assets\Environment\TerrainAssets\SurfaceTextures\MudRockyAlbedoSpecular.bmp
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\RainMaker\Demo\Standard Assets\Environment\TerrainAssets\SurfaceTextures\MudRockyAlbedoSpecular.bmp
+    projectPath: Assets\RainMaker\Demo\Standard Assets\Environment\TerrainAssets\SurfaceTextures\MudRockyAlbedoSpecular.bmp
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\RainMaker\Demo\Standard Assets\Environment\TerrainAssets\SurfaceTextures\MudRockyNormals.bmp
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\RainMaker\Demo\Standard Assets\Environment\TerrainAssets\SurfaceTextures\MudRockyNormals.bmp
+    projectPath: Assets\RainMaker\Demo\Standard Assets\Environment\TerrainAssets\SurfaceTextures\MudRockyNormals.bmp
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\RainMaker\Demo\Standard Assets\Environment\TerrainAssets\SurfaceTextures\SandAlbedo.psd
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\RainMaker\Demo\Standard Assets\Environment\TerrainAssets\SurfaceTextures\SandAlbedo.psd
+    projectPath: Assets\RainMaker\Demo\Standard Assets\Environment\TerrainAssets\SurfaceTextures\SandAlbedo.psd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\RainMaker\Editor\RainMakerEditor.cs
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\RainMaker\Editor\RainMakerEditor.cs
+    projectPath: Assets\RainMaker\Editor\RainMakerEditor.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\RainMaker\Editor\RainMakerLogo.png
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\RainMaker\Editor\RainMakerLogo.png
+    projectPath: Assets\RainMaker\Editor\RainMakerLogo.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\RainMaker\Prefab\BaseRainScript.cs
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\RainMaker\Prefab\BaseRainScript.cs
+    projectPath: Assets\RainMaker\Prefab\BaseRainScript.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\RainMaker\Prefab\rain_heavy.ogg
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\RainMaker\Prefab\rain_heavy.ogg
+    projectPath: Assets\RainMaker\Prefab\rain_heavy.ogg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\RainMaker\Prefab\rain_light.ogg
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\RainMaker\Prefab\rain_light.ogg
+    projectPath: Assets\RainMaker\Prefab\rain_light.ogg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\RainMaker\Prefab\rain_medium.ogg
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\RainMaker\Prefab\rain_medium.ogg
+    projectPath: Assets\RainMaker\Prefab\rain_medium.ogg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\RainMaker\Prefab\RainCollision.cs
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\RainMaker\Prefab\RainCollision.cs
+    projectPath: Assets\RainMaker\Prefab\RainCollision.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\RainMaker\Prefab\RainExplosionMaterial.mat
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\RainMaker\Prefab\RainExplosionMaterial.mat
+    projectPath: Assets\RainMaker\Prefab\RainExplosionMaterial.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\RainMaker\Prefab\RainExplosionMaterial2D.mat
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\RainMaker\Prefab\RainExplosionMaterial2D.mat
+    projectPath: Assets\RainMaker\Prefab\RainExplosionMaterial2D.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\RainMaker\Prefab\RainMaterial.mat
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\RainMaker\Prefab\RainMaterial.mat
+    projectPath: Assets\RainMaker\Prefab\RainMaterial.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\RainMaker\Prefab\RainMaterial2D.mat
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\RainMaker\Prefab\RainMaterial2D.mat
+    projectPath: Assets\RainMaker\Prefab\RainMaterial2D.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\RainMaker\Prefab\RainMistMaterial.mat
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\RainMaker\Prefab\RainMistMaterial.mat
+    projectPath: Assets\RainMaker\Prefab\RainMistMaterial.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\RainMaker\Prefab\RainMistMaterial2D.mat
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\RainMaker\Prefab\RainMistMaterial2D.mat
+    projectPath: Assets\RainMaker\Prefab\RainMistMaterial2D.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\RainMaker\Prefab\RainPrefab.prefab
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\RainMaker\Prefab\RainPrefab.prefab
+    projectPath: Assets\RainMaker\Prefab\RainPrefab.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\RainMaker\Prefab\RainPrefab2D.prefab
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\RainMaker\Prefab\RainPrefab2D.prefab
+    projectPath: Assets\RainMaker\Prefab\RainPrefab2D.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\RainMaker\Prefab\RainScript.cs
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\RainMaker\Prefab\RainScript.cs
+    projectPath: Assets\RainMaker\Prefab\RainScript.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\RainMaker\Prefab\RainScript2D.cs
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\RainMaker\Prefab\RainScript2D.cs
+    projectPath: Assets\RainMaker\Prefab\RainScript2D.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\RainMaker\Prefab\RainShader.shader
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\RainMaker\Prefab\RainShader.shader
+    projectPath: Assets\RainMaker\Prefab\RainShader.shader
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\RainMaker\Prefab\RainTexture.png
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\RainMaker\Prefab\RainTexture.png
+    projectPath: Assets\RainMaker\Prefab\RainTexture.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\RainMaker\Prefab\RainTexturePSD.psd
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\RainMaker\Prefab\RainTexturePSD.psd
+    projectPath: Assets\RainMaker\Prefab\RainTexturePSD.psd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\RainMaker\Prefab\wind_normal1.ogg
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\RainMaker\Prefab\wind_normal1.ogg
+    projectPath: Assets\RainMaker\Prefab\wind_normal1.ogg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\RainMaker\Readme.txt
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\RainMaker\Readme.txt
+    projectPath: Assets\RainMaker\Readme.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\Resources\VuforiaConfiguration.asset
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Resources\VuforiaConfiguration.asset
+    projectPath: Assets\Resources\VuforiaConfiguration.asset
+    originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: AR-God\Assets\Scripts\Canvas Script\PauseMenuScript.cs
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Scripts\Canvas Script\PauseMenuScript.cs
+    projectPath: Assets\Scripts\Canvas Script\PauseMenuScript.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: AR-God\Assets\Scripts\Canvas Script\Quitter.cs
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Scripts\Canvas Script\Quitter.cs
+    projectPath: Assets\Scripts\Canvas Script\Quitter.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: AR-God\Assets\Scripts\ClickAndGo.cs
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Scripts\ClickAndGo.cs
+    projectPath: Assets\Scripts\ClickAndGo.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: AR-God\Assets\Scripts\DeathZone.cs
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Scripts\DeathZone.cs
+    projectPath: Assets\Scripts\DeathZone.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: AR-God\Assets\Scripts\FallingObjects.cs
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Scripts\FallingObjects.cs
+    projectPath: Assets\Scripts\FallingObjects.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: AR-God\Assets\Scripts\PlayerController.cs
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Scripts\PlayerController.cs
+    projectPath: Assets\Scripts\PlayerController.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
   - path: AR-God\Assets\Scripts\Spawner.cs
     fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Scripts\Spawner.cs
     projectPath: Assets\Scripts\Spawner.cs
     originalPath: 
     indexStatus: 0
+    workTreeStatus: 5
+  - path: AR-God\EditorMigrationScripts.csproj
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\EditorMigrationScripts.csproj
+    projectPath: EditorMigrationScripts.csproj
+    originalPath: 
+    indexStatus: 3
     workTreeStatus: 3
   - path: AR-God\Library\CurrentLayout-default.dwlt
     fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\CurrentLayout-default.dwlt
     projectPath: Library\CurrentLayout-default.dwlt
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 9
+    workTreeStatus: 9
   - path: AR-God\Library\CurrentMaximizeLayout.dwlt
     fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\CurrentMaximizeLayout.dwlt
     projectPath: Library\CurrentMaximizeLayout.dwlt
@@ -430,36 +804,54 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
+  - path: AR-God\Library\expandedItems
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\expandedItems
+    projectPath: Library\expandedItems
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AR-God\Library\gfu\cache\branches.yaml
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\gfu\cache\branches.yaml
+    projectPath: Library\gfu\cache\branches.yaml
+    originalPath: 
+    indexStatus: 9
+    workTreeStatus: 9
   - path: AR-God\Library\gfu\cache\gitlocks.yaml
     fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\gfu\cache\gitlocks.yaml
     projectPath: Library\gfu\cache\gitlocks.yaml
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 9
+    workTreeStatus: 9
+  - path: AR-God\Library\gfu\cache\gitlog.yaml
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
+    originalPath: 
+    indexStatus: 9
+    workTreeStatus: 9
   - path: AR-God\Library\gfu\cache\gitstatusentries.yaml
     fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\gfu\cache\gitstatusentries.yaml
     projectPath: Library\gfu\cache\gitstatusentries.yaml
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 9
+    workTreeStatus: 9
   - path: AR-God\Library\gfu\cache\gittrackingstatus.yaml
     fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\gfu\cache\gittrackingstatus.yaml
     projectPath: Library\gfu\cache\gittrackingstatus.yaml
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 9
+    workTreeStatus: 9
   - path: AR-God\Library\gfu\cache\repoinfo.yaml
     fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\gfu\cache\repoinfo.yaml
     projectPath: Library\gfu\cache\repoinfo.yaml
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 9
+    workTreeStatus: 9
   - path: AR-God\Library\InspectorExpandedItems.asset
     fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\InspectorExpandedItems.asset
     projectPath: Library\InspectorExpandedItems.asset
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 9
+    workTreeStatus: 9
   - path: AR-God\Library\SceneVisibilityState.asset
     fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\SceneVisibilityState.asset
     projectPath: Library\SceneVisibilityState.asset
@@ -470,155 +862,149 @@ MonoBehaviour:
     fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ScriptAssemblies\Assembly-CSharp.dll
     projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 9
+    workTreeStatus: 9
+  - path: AR-God\Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: AR-God\Library\ScriptMapper
     fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ScriptMapper
     projectPath: Library\ScriptMapper
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: AR-God\Library\ShaderCache\0\006741c6eb05fcfec042b988d55d1cce.bin
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\0\006741c6eb05fcfec042b988d55d1cce.bin
-    projectPath: Library\ShaderCache\0\006741c6eb05fcfec042b988d55d1cce.bin
+  - path: AR-God\Library\ShaderCache\0\049e4dfa9bf433b8729d896e7ea3a51e.bin
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\0\049e4dfa9bf433b8729d896e7ea3a51e.bin
+    projectPath: Library\ShaderCache\0\049e4dfa9bf433b8729d896e7ea3a51e.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Library\ShaderCache\1\1592003ab796e156c79dd029d4a5ae8e.bin
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\1\1592003ab796e156c79dd029d4a5ae8e.bin
-    projectPath: Library\ShaderCache\1\1592003ab796e156c79dd029d4a5ae8e.bin
+  - path: AR-God\Library\ShaderCache\1\1069bb4bfbdbbea32baca8d43490a0a2.bin
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\1\1069bb4bfbdbbea32baca8d43490a0a2.bin
+    projectPath: Library\ShaderCache\1\1069bb4bfbdbbea32baca8d43490a0a2.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Library\ShaderCache\1\18e1feb8f9984bee3e38c01fa7c95c11.bin
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\1\18e1feb8f9984bee3e38c01fa7c95c11.bin
-    projectPath: Library\ShaderCache\1\18e1feb8f9984bee3e38c01fa7c95c11.bin
+  - path: AR-God\Library\ShaderCache\1\10f79ce88b4f29e5d9de023704f854e0.bin
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\1\10f79ce88b4f29e5d9de023704f854e0.bin
+    projectPath: Library\ShaderCache\1\10f79ce88b4f29e5d9de023704f854e0.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Library\ShaderCache\2\21ed4e0cf1a9844ef682e3155b5a548c.bin
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\2\21ed4e0cf1a9844ef682e3155b5a548c.bin
-    projectPath: Library\ShaderCache\2\21ed4e0cf1a9844ef682e3155b5a548c.bin
+  - path: AR-God\Library\ShaderCache\1\138bd6a73769b56f32537fe7d15b6198.bin
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\1\138bd6a73769b56f32537fe7d15b6198.bin
+    projectPath: Library\ShaderCache\1\138bd6a73769b56f32537fe7d15b6198.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Library\ShaderCache\3\3d6c2c2b0ef6dc069a1e734c651b0d6b.bin
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\3\3d6c2c2b0ef6dc069a1e734c651b0d6b.bin
-    projectPath: Library\ShaderCache\3\3d6c2c2b0ef6dc069a1e734c651b0d6b.bin
+  - path: AR-God\Library\ShaderCache\2\226afd46fa86227b27d538473422eedf.bin
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\2\226afd46fa86227b27d538473422eedf.bin
+    projectPath: Library\ShaderCache\2\226afd46fa86227b27d538473422eedf.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Library\ShaderCache\4\40bf8a6b819e7577662e6d4212d688fe.bin
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\4\40bf8a6b819e7577662e6d4212d688fe.bin
-    projectPath: Library\ShaderCache\4\40bf8a6b819e7577662e6d4212d688fe.bin
+  - path: AR-God\Library\ShaderCache\3\3ce39241c116a2d863f53772a9070c90.bin
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\3\3ce39241c116a2d863f53772a9070c90.bin
+    projectPath: Library\ShaderCache\3\3ce39241c116a2d863f53772a9070c90.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Library\ShaderCache\5\54059384d34974653a857a039d6bd0a1.bin
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\5\54059384d34974653a857a039d6bd0a1.bin
-    projectPath: Library\ShaderCache\5\54059384d34974653a857a039d6bd0a1.bin
+  - path: AR-God\Library\ShaderCache\5\58a3c9b15f53efdef00f3713d77ae1ce.bin
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\5\58a3c9b15f53efdef00f3713d77ae1ce.bin
+    projectPath: Library\ShaderCache\5\58a3c9b15f53efdef00f3713d77ae1ce.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Library\ShaderCache\6\66f6b38047054fffec21cebf823abc77.bin
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\6\66f6b38047054fffec21cebf823abc77.bin
-    projectPath: Library\ShaderCache\6\66f6b38047054fffec21cebf823abc77.bin
+  - path: AR-God\Library\ShaderCache\5\5f68b8db855ecbc999f21eb280efc8dd.bin
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\5\5f68b8db855ecbc999f21eb280efc8dd.bin
+    projectPath: Library\ShaderCache\5\5f68b8db855ecbc999f21eb280efc8dd.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Library\ShaderCache\6\6b00585e64537cf87f7844b491740705.bin
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\6\6b00585e64537cf87f7844b491740705.bin
-    projectPath: Library\ShaderCache\6\6b00585e64537cf87f7844b491740705.bin
+  - path: AR-God\Library\ShaderCache\5\5f7f3b4e4ef3392d0ebf72aed57f469f.bin
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\5\5f7f3b4e4ef3392d0ebf72aed57f469f.bin
+    projectPath: Library\ShaderCache\5\5f7f3b4e4ef3392d0ebf72aed57f469f.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Library\ShaderCache\7\73ee08efa1a004c846f9fe3d1bc28dfe.bin
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\7\73ee08efa1a004c846f9fe3d1bc28dfe.bin
-    projectPath: Library\ShaderCache\7\73ee08efa1a004c846f9fe3d1bc28dfe.bin
+  - path: AR-God\Library\ShaderCache\6\69c326ed600062154d6e8e14a77d4f0d.bin
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\6\69c326ed600062154d6e8e14a77d4f0d.bin
+    projectPath: Library\ShaderCache\6\69c326ed600062154d6e8e14a77d4f0d.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Library\ShaderCache\8\83d61233e00b8df3660696e2bcc41a45.bin
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\8\83d61233e00b8df3660696e2bcc41a45.bin
-    projectPath: Library\ShaderCache\8\83d61233e00b8df3660696e2bcc41a45.bin
+  - path: AR-God\Library\ShaderCache\6\6c806dc5a693fb5c34bb2db755618e41.bin
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\6\6c806dc5a693fb5c34bb2db755618e41.bin
+    projectPath: Library\ShaderCache\6\6c806dc5a693fb5c34bb2db755618e41.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Library\ShaderCache\8\842952f44bdfec030baa9387d9c2e884.bin
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\8\842952f44bdfec030baa9387d9c2e884.bin
-    projectPath: Library\ShaderCache\8\842952f44bdfec030baa9387d9c2e884.bin
+  - path: AR-God\Library\ShaderCache\6\6d45d2c54546873f85254fba19c472e4.bin
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\6\6d45d2c54546873f85254fba19c472e4.bin
+    projectPath: Library\ShaderCache\6\6d45d2c54546873f85254fba19c472e4.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Library\ShaderCache\8\86271a46cffc9dc5d05139096af6c789.bin
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\8\86271a46cffc9dc5d05139096af6c789.bin
-    projectPath: Library\ShaderCache\8\86271a46cffc9dc5d05139096af6c789.bin
+  - path: AR-God\Library\ShaderCache\6\6f4a5e8e6fa32f49b5287ff785e4d870.bin
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\6\6f4a5e8e6fa32f49b5287ff785e4d870.bin
+    projectPath: Library\ShaderCache\6\6f4a5e8e6fa32f49b5287ff785e4d870.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Library\ShaderCache\8\8a183d033f7760b9ef0a28c373820635.bin
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\8\8a183d033f7760b9ef0a28c373820635.bin
-    projectPath: Library\ShaderCache\8\8a183d033f7760b9ef0a28c373820635.bin
+  - path: AR-God\Library\ShaderCache\7\77b7d422eb3140d1fa1047f825277321.bin
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\7\77b7d422eb3140d1fa1047f825277321.bin
+    projectPath: Library\ShaderCache\7\77b7d422eb3140d1fa1047f825277321.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Library\ShaderCache\9\9e74e299e90128a9a54fb5bf46a12082.bin
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\9\9e74e299e90128a9a54fb5bf46a12082.bin
-    projectPath: Library\ShaderCache\9\9e74e299e90128a9a54fb5bf46a12082.bin
+  - path: AR-God\Library\ShaderCache\7\78df7c96760281959e59aef3ce05e1d8.bin
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\7\78df7c96760281959e59aef3ce05e1d8.bin
+    projectPath: Library\ShaderCache\7\78df7c96760281959e59aef3ce05e1d8.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Library\ShaderCache\a\ab2ba153ee787985a59f0e674f7ad0aa.bin
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\a\ab2ba153ee787985a59f0e674f7ad0aa.bin
-    projectPath: Library\ShaderCache\a\ab2ba153ee787985a59f0e674f7ad0aa.bin
+  - path: AR-God\Library\ShaderCache\7\79a32a348a92559648e145b8f6f224a1.bin
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\7\79a32a348a92559648e145b8f6f224a1.bin
+    projectPath: Library\ShaderCache\7\79a32a348a92559648e145b8f6f224a1.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Library\ShaderCache\a\ad36e4b794fe89022178b89b449fafae.bin
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\a\ad36e4b794fe89022178b89b449fafae.bin
-    projectPath: Library\ShaderCache\a\ad36e4b794fe89022178b89b449fafae.bin
+  - path: AR-God\Library\ShaderCache\8\89dd23892c91a2e8cb8da0de7a00eda3.bin
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\8\89dd23892c91a2e8cb8da0de7a00eda3.bin
+    projectPath: Library\ShaderCache\8\89dd23892c91a2e8cb8da0de7a00eda3.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Library\ShaderCache\b\b38a7702172d8b3380a01e46acca6abc.bin
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\b\b38a7702172d8b3380a01e46acca6abc.bin
-    projectPath: Library\ShaderCache\b\b38a7702172d8b3380a01e46acca6abc.bin
+  - path: AR-God\Library\ShaderCache\8\8fa0265fd7a98de76318a0b0cc68411d.bin
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\8\8fa0265fd7a98de76318a0b0cc68411d.bin
+    projectPath: Library\ShaderCache\8\8fa0265fd7a98de76318a0b0cc68411d.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Library\ShaderCache\b\b75e4400f066951aba1b5de3eb0a30e6.bin
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\b\b75e4400f066951aba1b5de3eb0a30e6.bin
-    projectPath: Library\ShaderCache\b\b75e4400f066951aba1b5de3eb0a30e6.bin
+  - path: AR-God\Library\ShaderCache\a\ace93f0d3ec47eefd0bf4e5e6c98d456.bin
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\a\ace93f0d3ec47eefd0bf4e5e6c98d456.bin
+    projectPath: Library\ShaderCache\a\ace93f0d3ec47eefd0bf4e5e6c98d456.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Library\ShaderCache\c\c5d551008c30074e1ca11c22eac91cd6.bin
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\c\c5d551008c30074e1ca11c22eac91cd6.bin
-    projectPath: Library\ShaderCache\c\c5d551008c30074e1ca11c22eac91cd6.bin
+  - path: AR-God\Library\ShaderCache\c\c8f22133ca3ab5fc1dc038667c1a21b7.bin
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\c\c8f22133ca3ab5fc1dc038667c1a21b7.bin
+    projectPath: Library\ShaderCache\c\c8f22133ca3ab5fc1dc038667c1a21b7.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Library\ShaderCache\c\c62341298685f6fd01cffaebdc9a2dc7.bin
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\c\c62341298685f6fd01cffaebdc9a2dc7.bin
-    projectPath: Library\ShaderCache\c\c62341298685f6fd01cffaebdc9a2dc7.bin
+  - path: AR-God\Library\ShaderCache\d\de3ec336454a1a40a74d7503bc7c8f6a.bin
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\d\de3ec336454a1a40a74d7503bc7c8f6a.bin
+    projectPath: Library\ShaderCache\d\de3ec336454a1a40a74d7503bc7c8f6a.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Library\ShaderCache\d\d2403323a98fa04d86518d9c17049aa3.bin
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\d\d2403323a98fa04d86518d9c17049aa3.bin
-    projectPath: Library\ShaderCache\d\d2403323a98fa04d86518d9c17049aa3.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AR-God\Library\ShaderCache\e\e69c752fef941bd1a5c050dc712f1eff.bin
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\e\e69c752fef941bd1a5c050dc712f1eff.bin
-    projectPath: Library\ShaderCache\e\e69c752fef941bd1a5c050dc712f1eff.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AR-God\Library\ShaderCache\e\ef8681d4b52f8fe86689af2ad7fffd40.bin
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\e\ef8681d4b52f8fe86689af2ad7fffd40.bin
-    projectPath: Library\ShaderCache\e\ef8681d4b52f8fe86689af2ad7fffd40.bin
+  - path: AR-God\Library\ShaderCache\e\e80cbfea9edc52d26fa88214fce6b515.bin
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\e\e80cbfea9edc52d26fa88214fce6b515.bin
+    projectPath: Library\ShaderCache\e\e80cbfea9edc52d26fa88214fce6b515.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -626,55 +1012,103 @@ MonoBehaviour:
     fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\EditorEncounteredVariants
     projectPath: Library\ShaderCache\EditorEncounteredVariants
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 9
+    workTreeStatus: 9
+  - path: AR-God\Library\ShaderCache\f\f22a05d2cda15cdc1f4e89c8bbb12ce8.bin
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\f\f22a05d2cda15cdc1f4e89c8bbb12ce8.bin
+    projectPath: Library\ShaderCache\f\f22a05d2cda15cdc1f4e89c8bbb12ce8.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Library\ShaderCache\f\f464e4b7b2270de01ab76edbaed859c1.bin
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ShaderCache\f\f464e4b7b2270de01ab76edbaed859c1.bin
+    projectPath: Library\ShaderCache\f\f464e4b7b2270de01ab76edbaed859c1.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: AR-God\Library\SourceAssetDB
     fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\SourceAssetDB
     projectPath: Library\SourceAssetDB
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: AR-God\Library\StateCache\Hierarchy\bfc7b6-442e58fc1a9b09e4c8.json
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\StateCache\Hierarchy\bfc7b6-442e58fc1a9b09e4c8.json
-    projectPath: Library\StateCache\Hierarchy\bfc7b6-442e58fc1a9b09e4c8.json
+    indexStatus: 9
+    workTreeStatus: 9
+  - path: AR-God\Library\StateCache\Hierarchy\822df1-442e58fc1a9b09e4c8.json
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\StateCache\Hierarchy\822df1-442e58fc1a9b09e4c8.json
+    projectPath: Library\StateCache\Hierarchy\822df1-442e58fc1a9b09e4c8.json
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Library\StateCache\Hierarchy\bfc7b6-a89eef680e28b83449.json
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\StateCache\Hierarchy\bfc7b6-a89eef680e28b83449.json
-    projectPath: Library\StateCache\Hierarchy\bfc7b6-a89eef680e28b83449.json
+  - path: AR-God\Library\StateCache\Hierarchy\822df1-6707883ede3858046a.json
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\StateCache\Hierarchy\822df1-6707883ede3858046a.json
+    projectPath: Library\StateCache\Hierarchy\822df1-6707883ede3858046a.json
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Library\StateCache\Hierarchy\bfc7b6-mainStage.json
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\StateCache\Hierarchy\bfc7b6-mainStage.json
-    projectPath: Library\StateCache\Hierarchy\bfc7b6-mainStage.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: AR-God\Library\StateCache\SceneView\51a48a-442e58fc1a9b09e4c8.json
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\StateCache\SceneView\51a48a-442e58fc1a9b09e4c8.json
-    projectPath: Library\StateCache\SceneView\51a48a-442e58fc1a9b09e4c8.json
+  - path: AR-God\Library\StateCache\Hierarchy\822df1-69b40ef7ee16c834c8.json
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\StateCache\Hierarchy\822df1-69b40ef7ee16c834c8.json
+    projectPath: Library\StateCache\Hierarchy\822df1-69b40ef7ee16c834c8.json
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Library\StateCache\SceneView\51a48a-a89eef680e28b83449.json
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\StateCache\SceneView\51a48a-a89eef680e28b83449.json
-    projectPath: Library\StateCache\SceneView\51a48a-a89eef680e28b83449.json
+  - path: AR-God\Library\StateCache\Hierarchy\822df1-cf44ec1cc402e88498.json
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\StateCache\Hierarchy\822df1-cf44ec1cc402e88498.json
+    projectPath: Library\StateCache\Hierarchy\822df1-cf44ec1cc402e88498.json
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Library\StateCache\SceneView\51a48a-mainStage.json
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\StateCache\SceneView\51a48a-mainStage.json
-    projectPath: Library\StateCache\SceneView\51a48a-mainStage.json
+  - path: AR-God\Library\StateCache\Hierarchy\822df1-mainStage.json
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\StateCache\Hierarchy\822df1-mainStage.json
+    projectPath: Library\StateCache\Hierarchy\822df1-mainStage.json
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: AR-God\ProjectSettings\EditorSettings.asset
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\ProjectSettings\EditorSettings.asset
-    projectPath: ProjectSettings\EditorSettings.asset
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Library\StateCache\SceneView\5d7aad-e332982425ee2ec48b.json
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\StateCache\SceneView\5d7aad-e332982425ee2ec48b.json
+    projectPath: Library\StateCache\SceneView\5d7aad-e332982425ee2ec48b.json
     originalPath: 
-    indexStatus: 0
+    indexStatus: 4
+    workTreeStatus: 4
+  - path: AR-God\Library\StateCache\SceneView\5d7aad-mainStage.json
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\StateCache\SceneView\5d7aad-mainStage.json
+    projectPath: Library\StateCache\SceneView\5d7aad-mainStage.json
+    originalPath: 
+    indexStatus: 9
+    workTreeStatus: 9
+  - path: AR-God\Library\StateCache\SceneView\6a3e26-442e58fc1a9b09e4c8.json
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\StateCache\SceneView\6a3e26-442e58fc1a9b09e4c8.json
+    projectPath: Library\StateCache\SceneView\6a3e26-442e58fc1a9b09e4c8.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Library\StateCache\SceneView\6a3e26-6707883ede3858046a.json
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\StateCache\SceneView\6a3e26-6707883ede3858046a.json
+    projectPath: Library\StateCache\SceneView\6a3e26-6707883ede3858046a.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Library\StateCache\SceneView\6a3e26-69b40ef7ee16c834c8.json
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\StateCache\SceneView\6a3e26-69b40ef7ee16c834c8.json
+    projectPath: Library\StateCache\SceneView\6a3e26-69b40ef7ee16c834c8.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Library\StateCache\SceneView\6a3e26-cf44ec1cc402e88498.json
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\StateCache\SceneView\6a3e26-cf44ec1cc402e88498.json
+    projectPath: Library\StateCache\SceneView\6a3e26-cf44ec1cc402e88498.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Library\StateCache\SceneView\6a3e26-mainStage.json
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\StateCache\SceneView\6a3e26-mainStage.json
+    projectPath: Library\StateCache\SceneView\6a3e26-mainStage.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\QCAR\somedata16
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\QCAR\somedata16
+    projectPath: QCAR\somedata16
+    originalPath: 
+    indexStatus: 3
     workTreeStatus: 3
   - path: AR-God\Temp\__Backupscenes\0.backup
     fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\__Backupscenes\0.backup
