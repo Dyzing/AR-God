@@ -54,7 +54,7 @@ namespace DigitalRuby.LightningBolt
         private Transform[] EndObjectChildren;
         private int randChhild;
         public GameObject ExplodeParticle;
-
+        public Light DirectionalLight; 
 
         [Tooltip("The end position where the lightning will end at. This is in world space if EndObject is null, otherwise this is offset from EndObject position.")]
         public Vector3 EndPosition;
@@ -322,6 +322,7 @@ namespace DigitalRuby.LightningBolt
         public void Trigger()
         {
             Vector3 start, end;
+            end = EndPosition;
             timer = Duration + Mathf.Min(0.0f, timer);
             if (StartObject == null)
             {
@@ -337,16 +338,30 @@ namespace DigitalRuby.LightningBolt
             }
             else
             {
-                EndObjectChildren = EndObject.GetComponentsInChildren<Transform>();
-                randChhild = Random.Range(1, EndObjectChildren.Length);
-                end = EndObjectChildren[randChhild].position + EndPosition;
-                Instantiate(ExplodeParticle, end, Quaternion.identity);
-                Destroy(EndObjectChildren[randChhild].gameObject, 0.5f);
-                //EclairStop(start, end);
+                if (Vector3.Angle(Vector3.down, transform.forward) <= 90f)
+                {
+                    lineRenderer.enabled = true;
+                    DirectionalLight.intensity = 0.25f;
+                    EndObjectChildren = EndObject.GetComponentsInChildren<Transform>();
+                    randChhild = Random.Range(1, EndObjectChildren.Length);
+                    end = EndObjectChildren[randChhild].position + EndPosition;
+                    Instantiate(ExplodeParticle, end, Quaternion.identity);
+                    Destroy(EndObjectChildren[randChhild].gameObject, 0.5f);
+                }
             }
             startIndex = 0;
-            GenerateLightningBolt(start, end, Generations, Generations, 0.0f);
-            UpdateLineRenderer();
+            if (Vector3.Angle(Vector3.down, transform.forward) <= 90f)
+            {
+                DirectionalLight.intensity = 0.25f;
+                lineRenderer.enabled = true;
+                GenerateLightningBolt(start, end, Generations, Generations, 0.0f);
+                UpdateLineRenderer();
+            }
+            else
+            {
+                lineRenderer.enabled = false;
+                DirectionalLight.intensity = 1f;
+            }
 
         }
 
