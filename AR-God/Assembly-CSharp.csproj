@@ -79,6 +79,7 @@
     <Compile Include="Assets\Island\Prefabs\Scripts\FallingObjects.cs" />
     <Compile Include="Assets\Island\Prefabs\Scripts\PlayerController.cs" />
     <Compile Include="Assets\Island\Prefabs\Scripts\Spawner.cs" />
+    <Compile Include="Assets\Island\Prefabs\Scripts\VolcanExplosion.cs" />
     <Compile Include="Assets\Island\Prefabs\Scripts\WaterFlooding.cs" />
     <Compile Include="Assets\Island\Scripts\FixedTiling.cs" />
     <Compile Include="Assets\Island\Scripts\WaterScroller.cs" />

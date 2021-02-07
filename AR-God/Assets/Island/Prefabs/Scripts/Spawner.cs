@@ -6,6 +6,7 @@ public class Spawner : MonoBehaviour
 {
     public GameObject Foodprefab;
     public GameObject FallingObject;
+    public GameObject RecallParticles;
 
     public Vector3 center;
     public Vector3 size;
@@ -30,6 +31,7 @@ public class Spawner : MonoBehaviour
         Transform[] FoodprefabChildren = Foodprefab.GetComponentsInChildren<Transform>();
         int randChild = Random.Range(1, FoodprefabChildren.Length);
         GameObject tmp = Instantiate(FoodprefabChildren[randChild].gameObject, pos, Quaternion.identity);
+        Instantiate(RecallParticles, pos, Quaternion.identity);
         tmp.transform.SetParent(FallingObject.transform);
     }
 

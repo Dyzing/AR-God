@@ -45,7 +45,7 @@ public class BateauMove : MonoBehaviour
         while (timer > 0)
         {
 
-            yield return new WaitForSeconds(4);
+            yield return new WaitForSeconds(5);
             timer--;
         }
         timer = 5;
