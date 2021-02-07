@@ -53,6 +53,8 @@ namespace DigitalRuby.LightningBolt
         public GameObject EndObject;
         private Transform[] EndObjectChildren;
         private int randChhild;
+        public GameObject ExplodeParticle;
+
 
         [Tooltip("The end position where the lightning will end at. This is in world space if EndObject is null, otherwise this is offset from EndObject position.")]
         public Vector3 EndPosition;
@@ -61,7 +63,7 @@ namespace DigitalRuby.LightningBolt
         [Tooltip("How manu generations? Higher numbers create more line segments.")]
         public int Generations = 6;
 
-        [Range(0.01f, 1.0f)]
+        [Range(0.01f, 5.0f)]
         [Tooltip("How long each bolt should last before creating a new bolt. In ManualMode, the bolt will simply disappear after this amount of seconds.")]
         public float Duration = 0.05f;
         private float timer;
@@ -313,6 +315,7 @@ namespace DigitalRuby.LightningBolt
             timer -= Time.deltaTime;
         }
 
+       
         /// <summary>
         /// Trigger a lightning bolt. Use this if ManualMode is true.
         /// </summary>
@@ -335,13 +338,19 @@ namespace DigitalRuby.LightningBolt
             else
             {
                 EndObjectChildren = EndObject.GetComponentsInChildren<Transform>();
-                randChhild = Random.Range(0, EndObjectChildren.Length);
+                randChhild = Random.Range(1, EndObjectChildren.Length);
                 end = EndObjectChildren[randChhild].position + EndPosition;
+                Instantiate(ExplodeParticle, end, Quaternion.identity);
+                Destroy(EndObjectChildren[randChhild].gameObject, 0.5f);
+                //EclairStop(start, end);
             }
             startIndex = 0;
             GenerateLightningBolt(start, end, Generations, Generations, 0.0f);
             UpdateLineRenderer();
+
         }
+
+      
 
         /// <summary>
         /// Call this method if you change the material on the line renderer

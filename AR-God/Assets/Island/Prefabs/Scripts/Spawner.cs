@@ -41,10 +41,10 @@ public class Spawner : MonoBehaviour
 
     public void SPAWN_BUTTON()
     {
+        nbCurrentFood = FallingObject.GetComponentsInChildren<Transform>().Length - 1;
         if (nbCurrentFood < nbMaxFood)
         {
             SpawnFood();
-            ++nbCurrentFood;
         }
     }
 }
