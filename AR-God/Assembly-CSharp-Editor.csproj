@@ -64,10 +64,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\LightningBolt\Editor\LightningBoltEditor.cs" />
-    <None Include="Assets\Editor\Vuforia\VuforiaMars_ModelTarget\authoringinfo.xml" />
     <None Include="Assets\Editor\Vuforia\TargetsetData\VuforiaMars_Object_info.xml" />
-    <None Include="Assets\Editor\Vuforia\VuforiaMars_VuMark\authoringinfo.xml" />
     <None Include="Assets\Editor\Vuforia\Vuforia_Marslander_RZR_Toy360\authoringinfo.xml" />
+    <None Include="Assets\Editor\Vuforia\VuforiaMars_ModelTarget\authoringinfo.xml" />
+    <None Include="Assets\Editor\Vuforia\VuforiaMars_VuMark\authoringinfo.xml" />
     <None Include="Assets\Editor\Vuforia\CylinderTargetTextures\VuforiaMars_Images\authoringinfo.xml" />
     <Reference Include="UnityEngine">
       <HintPath>D:/Unity/2019.4.16f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
@@ -281,9 +281,6 @@
     </Reference>
     <Reference Include="GitHub.UnityShim">
       <HintPath>D:/ESGI/AR VR/AR God/AR-God/AR-God/Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll</HintPath>
-    </Reference>
-    <Reference Include="Mono.Posix">
-      <HintPath>D:/ESGI/AR VR/AR God/AR-God/AR-God/Assets/Plugins/GitHub/Editor/Mono.Posix.dll</HintPath>
     </Reference>
     <Reference Include="sfw.net">
       <HintPath>D:/ESGI/AR VR/AR God/AR-God/AR-God/Assets/Plugins/GitHub/Editor/sfw.net.dll</HintPath>

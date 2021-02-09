@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Island/Scenes/Demo.unity
+- path: Assets/Scenes/ARGod.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

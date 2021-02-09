@@ -65,8 +65,8 @@
   <ItemGroup>
     <Compile Include="Assets\Plugins\GitHub\Editor\ExtensionLoader.cs" />
     <Compile Include="Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs" />
-    <None Include="Assets\Plugins\GitHub\Editor\eula.txt" />
     <None Include="Assets\Plugins\GitHub\Editor\credits.txt" />
+    <None Include="Assets\Plugins\GitHub\Editor\eula.txt" />
     <Reference Include="UnityEngine">
       <HintPath>D:/Unity/2019.4.16f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
@@ -279,9 +279,6 @@
     </Reference>
     <Reference Include="GitHub.UnityShim">
       <HintPath>D:/ESGI/AR VR/AR God/AR-God/AR-God/Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll</HintPath>
-    </Reference>
-    <Reference Include="Mono.Posix">
-      <HintPath>D:/ESGI/AR VR/AR God/AR-God/AR-God/Assets/Plugins/GitHub/Editor/Mono.Posix.dll</HintPath>
     </Reference>
     <Reference Include="sfw.net">
       <HintPath>D:/ESGI/AR VR/AR God/AR-God/AR-God/Assets/Plugins/GitHub/Editor/sfw.net.dll</HintPath>

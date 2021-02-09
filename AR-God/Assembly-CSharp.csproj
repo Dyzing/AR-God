@@ -63,38 +63,34 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\52SpecialEffectPack\Animation&amp;Script\csAnimationSpin.cs" />
-    <Compile Include="Assets\52SpecialEffectPack\Animation&amp;Script\csDestroyEffect.cs" />
-    <Compile Include="Assets\52SpecialEffectPack\Animation&amp;Script\csMouseOrbit.cs" />
-    <Compile Include="Assets\52SpecialEffectPack\Animation&amp;Script\csParticleMove.cs" />
-    <Compile Include="Assets\52SpecialEffectPack\Animation&amp;Script\csShowAllEffect.cs" />
     <Compile Include="Assets\52SpecialEffectPack\EffectEditor\ShurikenEffectEditor\csShurikenEffectChanger.cs" />
     <Compile Include="Assets\52SpecialEffectPack\EffectEditor\ShurikenEffectEditor\csShurikenEffectEditor.cs" />
-    <Compile Include="Assets\Dynamic Flickering Light\FlickeringLight.cs" />
-    <Compile Include="Assets\FROOD\Scripts\Spin.cs" />
-    <Compile Include="Assets\Island\Prefabs\Scripts\BateauMove.cs" />
-    <Compile Include="Assets\Island\Prefabs\Scripts\Canvas Script\PauseMenuScript.cs" />
-    <Compile Include="Assets\Island\Prefabs\Scripts\Canvas Script\Quitter.cs" />
-    <Compile Include="Assets\Island\Prefabs\Scripts\ClickAndGo.cs" />
-    <Compile Include="Assets\Island\Prefabs\Scripts\DeathZone.cs" />
-    <Compile Include="Assets\Island\Prefabs\Scripts\FallingObjects.cs" />
-    <Compile Include="Assets\Island\Prefabs\Scripts\PlayerController.cs" />
-    <Compile Include="Assets\Island\Prefabs\Scripts\Spawner.cs" />
-    <Compile Include="Assets\Island\Prefabs\Scripts\VolcanExplosion.cs" />
-    <Compile Include="Assets\Island\Prefabs\Scripts\WaterFlooding.cs" />
-    <Compile Include="Assets\Island\Scripts\FixedTiling.cs" />
-    <Compile Include="Assets\Island\Scripts\WaterScroller.cs" />
-    <Compile Include="Assets\Lava_Flowing_Shader\Scripts\ScrollingUVs_Layers.cs" />
-    <Compile Include="Assets\LightningBolt\LightningBoltScript.cs" />
+    <Compile Include="Assets\Scripts\BateauMove.cs" />
+    <Compile Include="Assets\Scripts\Canvas Script\PauseMenuScript.cs" />
+    <Compile Include="Assets\Scripts\Canvas Script\Quitter.cs" />
+    <Compile Include="Assets\Scripts\ClickAndGo.cs" />
+    <Compile Include="Assets\Scripts\DeathZone.cs" />
+    <Compile Include="Assets\Scripts\FallingObjects.cs" />
+    <Compile Include="Assets\Scripts\FixedTiling.cs" />
+    <Compile Include="Assets\Scripts\LightningBoltScript.cs" />
+    <Compile Include="Assets\Scripts\PlayerController.cs" />
+    <Compile Include="Assets\Scripts\ScrollingUVs_Layers.cs" />
+    <Compile Include="Assets\Scripts\Spawner.cs" />
+    <Compile Include="Assets\Scripts\Spin.cs" />
+    <Compile Include="Assets\Scripts\VolcanExplosion.cs" />
+    <Compile Include="Assets\Scripts\WaterFlooding.cs" />
+    <Compile Include="Assets\Scripts\WaterScroller.cs" />
+    <Compile Include="Assets\Scripts\csAnimationSpin.cs" />
+    <Compile Include="Assets\Scripts\csDestroyEffect.cs" />
+    <Compile Include="Assets\Scripts\csMouseOrbit.cs" />
+    <Compile Include="Assets\Scripts\csParticleMove.cs" />
+    <Compile Include="Assets\Scripts\csShowAllEffect.cs" />
     <None Include="Assets\LightningBolt\Readme.txt" />
+    <None Include="Assets\Shaders\Diffuse_Lava_Distort.shader" />
+    <None Include="Assets\Shaders\Unlit_Lava_Distort_Transparent.shader" />
+    <None Include="Assets\Shaders\Unlit_Lava_Distort.shader" />
     <None Include="Assets\StreamingAssets\Vuforia\VuforiaMars_Images.xml" />
-    <None Include="Assets\Lava_Flowing_Shader\Shaders\Diffuse_Lava_Distort.shader" />
-    <None Include="Assets\Dynamic Flickering Light\readme.txt" />
-    <None Include="Assets\Lava_Flowing_Shader\ReadMe.txt" />
-    <None Include="Assets\Lava_Flowing_Shader\Shaders\Unlit_Lava_Distort_Transparent.shader" />
-    <None Include="Assets\Lava_Flowing_Shader\Shaders\Unlit_Lava_Distort.shader" />
-    <None Include="Assets\Lava_Flowing_Shader\Shaders\Unlit_Lava_Simple.shader" />
-    <None Include="Assets\Island\Readme FIRST!.txt" />
+    <None Include="Assets\Shaders\Unlit_Lava_Simple.shader" />
     <Reference Include="UnityEngine">
       <HintPath>D:/Unity/2019.4.16f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
