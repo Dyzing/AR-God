@@ -12,10 +12,12 @@ public class Spawner : MonoBehaviour
     public Vector3 size;
     public int nbMaxFood = 2;
     int nbCurrentFood = 1;
+    public AudioSource source;
 
     // Start is called before the first frame update
     void Start()
     {
+        source = GetComponent<AudioSource>();
         SpawnFood();
     }
 
@@ -32,6 +34,7 @@ public class Spawner : MonoBehaviour
         int randChild = Random.Range(1, FoodprefabChildren.Length);
         GameObject tmp = Instantiate(FoodprefabChildren[randChild].gameObject, pos, Quaternion.identity);
         Instantiate(RecallParticles, pos, Quaternion.identity);
+        source.Play();
         tmp.transform.SetParent(FallingObject.transform);
     }
 

@@ -13,9 +13,45 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2021-02-07T22:48:36.573+01:00
-  initializedAtString: 2021-02-07T21:58:55.702+01:00
+  lastUpdatedAtString: 2021-02-09T01:04:11.829+01:00
+  initializedAtString: 2021-02-08T21:42:32.999+01:00
   entries:
+  - path: AR-God\Assembly-CSharp.csproj
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assembly-CSharp.csproj
+    projectPath: Assembly-CSharp.csproj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AR-God\Assets\Dynamic Flickering Light\FlickeringLight.cs
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Dynamic Flickering Light\FlickeringLight.cs
+    projectPath: Assets\Dynamic Flickering Light\FlickeringLight.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\Dynamic Flickering Light\readme.txt
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Dynamic Flickering Light\readme.txt
+    projectPath: Assets\Dynamic Flickering Light\readme.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\Island\Prefabs\Scripts\Spawner.cs
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Island\Prefabs\Scripts\Spawner.cs
+    projectPath: Assets\Island\Prefabs\Scripts\Spawner.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AR-God\Assets\Island\Prefabs\Scripts\VolcanExplosion.cs
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Island\Prefabs\Scripts\VolcanExplosion.cs
+    projectPath: Assets\Island\Prefabs\Scripts\VolcanExplosion.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AR-God\Assets\Island\Prefabs\Scripts\WaterFlooding.cs
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Island\Prefabs\Scripts\WaterFlooding.cs
+    projectPath: Assets\Island\Prefabs\Scripts\WaterFlooding.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: AR-God\Assets\Island\Scenes\Demo.unity
     fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Island\Scenes\Demo.unity
     projectPath: Assets\Island\Scenes\Demo.unity
@@ -34,15 +70,51 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: AR-God\Assets\Prefab Guillaume\SimpleLightningBoltPrefab.prefab
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Prefab Guillaume\SimpleLightningBoltPrefab.prefab
-    projectPath: Assets\Prefab Guillaume\SimpleLightningBoltPrefab.prefab
+  - path: AR-God\Assets\Sounds\2129_9s_to_193_62129_9s_Beautiful_Tropical_Music_.mp3
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Sounds\2129_9s_to_193_62129_9s_Beautiful_Tropical_Music_.mp3
+    projectPath: Assets\Sounds\2129_9s_to_193_62129_9s_Beautiful_Tropical_Music_.mp3
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Library\CurrentMaximizeLayout.dwlt
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\CurrentMaximizeLayout.dwlt
-    projectPath: Library\CurrentMaximizeLayout.dwlt
+  - path: AR-God\Assets\Sounds\etilestmort.mp3
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Sounds\etilestmort.mp3
+    projectPath: Assets\Sounds\etilestmort.mp3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\Sounds\Lighting_trial_0.mp3
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Sounds\Lighting_trial_0.mp3
+    projectPath: Assets\Sounds\Lighting_trial_0.mp3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\Sounds\rain.mp3
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Sounds\rain.mp3
+    projectPath: Assets\Sounds\rain.mp3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\Sounds\spawn.mp3
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Sounds\spawn.mp3
+    projectPath: Assets\Sounds\spawn.mp3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\Sounds\Volcan_trial_0.mp3
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Sounds\Volcan_trial_0.mp3
+    projectPath: Assets\Sounds\Volcan_trial_0.mp3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Assets\Sounds\Waves.mp3
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Assets\Sounds\Waves.mp3
+    projectPath: Assets\Sounds\Waves.mp3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Library\CurrentLayout-default.dwlt
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\CurrentLayout-default.dwlt
+    projectPath: Library\CurrentLayout-default.dwlt
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -76,6 +148,12 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: AR-God\Library\InspectorExpandedItems.asset
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\InspectorExpandedItems.asset
+    projectPath: Library\InspectorExpandedItems.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: AR-God\Library\ScriptAssemblies\Assembly-CSharp.dll
     fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\ScriptAssemblies\Assembly-CSharp.dll
     projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
@@ -94,6 +172,12 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: AR-God\Library\StateCache\Hierarchy\822df1-715af3719a9b5c94db.json
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\StateCache\Hierarchy\822df1-715af3719a9b5c94db.json
+    projectPath: Library\StateCache\Hierarchy\822df1-715af3719a9b5c94db.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: AR-God\Library\StateCache\Hierarchy\822df1-mainStage.json
     fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\StateCache\Hierarchy\822df1-mainStage.json
     projectPath: Library\StateCache\Hierarchy\822df1-mainStage.json
@@ -103,6 +187,30 @@ MonoBehaviour:
   - path: AR-God\Library\StateCache\SceneView\6a3e26-mainStage.json
     fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Library\StateCache\SceneView\6a3e26-mainStage.json
     projectPath: Library\StateCache\SceneView\6a3e26-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AR-God\ProjectSettings\QualitySettings.asset
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\ProjectSettings\QualitySettings.asset
+    projectPath: ProjectSettings\QualitySettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AR-God\ProjectSettings\TagManager.asset
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\ProjectSettings\TagManager.asset
+    projectPath: ProjectSettings\TagManager.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AR-God\ProjectSettings\TimeManager.asset
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\ProjectSettings\TimeManager.asset
+    projectPath: ProjectSettings\TimeManager.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AR-God\ProjectSettings\UnityConnectSettings.asset
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\ProjectSettings\UnityConnectSettings.asset
+    projectPath: ProjectSettings\UnityConnectSettings.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -118,105 +226,405 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Temp\UnityTempFile-178939d06a5f91a43a50e5bb54617115
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\UnityTempFile-178939d06a5f91a43a50e5bb54617115
-    projectPath: Temp\UnityTempFile-178939d06a5f91a43a50e5bb54617115
+  - path: AR-God\Temp\UnityTempFile-00b4cb3a77c97e847a6d4139d8ae6f74
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\UnityTempFile-00b4cb3a77c97e847a6d4139d8ae6f74
+    projectPath: Temp\UnityTempFile-00b4cb3a77c97e847a6d4139d8ae6f74
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Temp\UnityTempFile-223024a155d16c343ae6ad3dd7427f8f
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\UnityTempFile-223024a155d16c343ae6ad3dd7427f8f
-    projectPath: Temp\UnityTempFile-223024a155d16c343ae6ad3dd7427f8f
+  - path: AR-God\Temp\UnityTempFile-0266d9c91996d4a48928279cb7bb6b3d
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\UnityTempFile-0266d9c91996d4a48928279cb7bb6b3d
+    projectPath: Temp\UnityTempFile-0266d9c91996d4a48928279cb7bb6b3d
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Temp\UnityTempFile-23a696c20209f724e8631c56dc995c20
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\UnityTempFile-23a696c20209f724e8631c56dc995c20
-    projectPath: Temp\UnityTempFile-23a696c20209f724e8631c56dc995c20
+  - path: AR-God\Temp\UnityTempFile-103882a6fddf92645a7f961895460bac
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\UnityTempFile-103882a6fddf92645a7f961895460bac
+    projectPath: Temp\UnityTempFile-103882a6fddf92645a7f961895460bac
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Temp\UnityTempFile-2c6099758c2d46449a91b5f31b2cefcc
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\UnityTempFile-2c6099758c2d46449a91b5f31b2cefcc
-    projectPath: Temp\UnityTempFile-2c6099758c2d46449a91b5f31b2cefcc
+  - path: AR-God\Temp\UnityTempFile-13b5adadac7ce6b48be9003a53d179bb
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\UnityTempFile-13b5adadac7ce6b48be9003a53d179bb
+    projectPath: Temp\UnityTempFile-13b5adadac7ce6b48be9003a53d179bb
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Temp\UnityTempFile-34cfd339db70532448126a465078a823
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\UnityTempFile-34cfd339db70532448126a465078a823
-    projectPath: Temp\UnityTempFile-34cfd339db70532448126a465078a823
+  - path: AR-God\Temp\UnityTempFile-1461b86add868b44a9e3322160eaa211
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\UnityTempFile-1461b86add868b44a9e3322160eaa211
+    projectPath: Temp\UnityTempFile-1461b86add868b44a9e3322160eaa211
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Temp\UnityTempFile-396e4268b1a067e419f0daa52c487af6
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\UnityTempFile-396e4268b1a067e419f0daa52c487af6
-    projectPath: Temp\UnityTempFile-396e4268b1a067e419f0daa52c487af6
+  - path: AR-God\Temp\UnityTempFile-1c0330f3e41b58b43903454e3475e794
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\UnityTempFile-1c0330f3e41b58b43903454e3475e794
+    projectPath: Temp\UnityTempFile-1c0330f3e41b58b43903454e3475e794
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Temp\UnityTempFile-3e98f83222f7421488a3673ecb337409
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\UnityTempFile-3e98f83222f7421488a3673ecb337409
-    projectPath: Temp\UnityTempFile-3e98f83222f7421488a3673ecb337409
+  - path: AR-God\Temp\UnityTempFile-1d8f5629a14301e498235af6b8b08974
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\UnityTempFile-1d8f5629a14301e498235af6b8b08974
+    projectPath: Temp\UnityTempFile-1d8f5629a14301e498235af6b8b08974
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Temp\UnityTempFile-3ed42671458e56e4e87ccd2e2302ab23
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\UnityTempFile-3ed42671458e56e4e87ccd2e2302ab23
-    projectPath: Temp\UnityTempFile-3ed42671458e56e4e87ccd2e2302ab23
+  - path: AR-God\Temp\UnityTempFile-1f28e0563ffe076458de561d40ea24a0
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\UnityTempFile-1f28e0563ffe076458de561d40ea24a0
+    projectPath: Temp\UnityTempFile-1f28e0563ffe076458de561d40ea24a0
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Temp\UnityTempFile-4789b092d563cc942ba125c31167ae9f
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\UnityTempFile-4789b092d563cc942ba125c31167ae9f
-    projectPath: Temp\UnityTempFile-4789b092d563cc942ba125c31167ae9f
+  - path: AR-God\Temp\UnityTempFile-2354c25fa6ffdf54dbb621e407e74285
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\UnityTempFile-2354c25fa6ffdf54dbb621e407e74285
+    projectPath: Temp\UnityTempFile-2354c25fa6ffdf54dbb621e407e74285
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Temp\UnityTempFile-61d110860a8d1fe42a26ab923d21f10c
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\UnityTempFile-61d110860a8d1fe42a26ab923d21f10c
-    projectPath: Temp\UnityTempFile-61d110860a8d1fe42a26ab923d21f10c
+  - path: AR-God\Temp\UnityTempFile-2a5024c9248fefa4cafbb5489c09eb79
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\UnityTempFile-2a5024c9248fefa4cafbb5489c09eb79
+    projectPath: Temp\UnityTempFile-2a5024c9248fefa4cafbb5489c09eb79
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Temp\UnityTempFile-83cf7f795d58f3443be8b61cfcad08a2
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\UnityTempFile-83cf7f795d58f3443be8b61cfcad08a2
-    projectPath: Temp\UnityTempFile-83cf7f795d58f3443be8b61cfcad08a2
+  - path: AR-God\Temp\UnityTempFile-2b7c67556155bef4f891114131d5e3e9
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\UnityTempFile-2b7c67556155bef4f891114131d5e3e9
+    projectPath: Temp\UnityTempFile-2b7c67556155bef4f891114131d5e3e9
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Temp\UnityTempFile-99c471f68e708d247a87808a26d1a47d
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\UnityTempFile-99c471f68e708d247a87808a26d1a47d
-    projectPath: Temp\UnityTempFile-99c471f68e708d247a87808a26d1a47d
+  - path: AR-God\Temp\UnityTempFile-2d78e6bb09dce25469817a4a2282de40
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\UnityTempFile-2d78e6bb09dce25469817a4a2282de40
+    projectPath: Temp\UnityTempFile-2d78e6bb09dce25469817a4a2282de40
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Temp\UnityTempFile-c03b8a8f4cf02774495238320cc4e10e
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\UnityTempFile-c03b8a8f4cf02774495238320cc4e10e
-    projectPath: Temp\UnityTempFile-c03b8a8f4cf02774495238320cc4e10e
+  - path: AR-God\Temp\UnityTempFile-3465a938fb0c0734a9d6f287a70dbf4f
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\UnityTempFile-3465a938fb0c0734a9d6f287a70dbf4f
+    projectPath: Temp\UnityTempFile-3465a938fb0c0734a9d6f287a70dbf4f
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Temp\UnityTempFile-c1ed69db108d333438ec1cbe23b5c1fa
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\UnityTempFile-c1ed69db108d333438ec1cbe23b5c1fa
-    projectPath: Temp\UnityTempFile-c1ed69db108d333438ec1cbe23b5c1fa
+  - path: AR-God\Temp\UnityTempFile-39b4a54e6add44b4b99bef1e1b4e43a6
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\UnityTempFile-39b4a54e6add44b4b99bef1e1b4e43a6
+    projectPath: Temp\UnityTempFile-39b4a54e6add44b4b99bef1e1b4e43a6
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Temp\UnityTempFile-d99366f2fff65364e8f47198be07e991
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\UnityTempFile-d99366f2fff65364e8f47198be07e991
-    projectPath: Temp\UnityTempFile-d99366f2fff65364e8f47198be07e991
+  - path: AR-God\Temp\UnityTempFile-3ee8ebfced8e00749bd3ac89c6a9996c
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\UnityTempFile-3ee8ebfced8e00749bd3ac89c6a9996c
+    projectPath: Temp\UnityTempFile-3ee8ebfced8e00749bd3ac89c6a9996c
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Temp\UnityTempFile-dfd3ad0d98703bc439043fe671d44ec9
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\UnityTempFile-dfd3ad0d98703bc439043fe671d44ec9
-    projectPath: Temp\UnityTempFile-dfd3ad0d98703bc439043fe671d44ec9
+  - path: AR-God\Temp\UnityTempFile-410aa5671b3f4ef48834f0afe3a93f33
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\UnityTempFile-410aa5671b3f4ef48834f0afe3a93f33
+    projectPath: Temp\UnityTempFile-410aa5671b3f4ef48834f0afe3a93f33
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AR-God\Temp\UnityTempFile-ff1389b820fa3e442b8d34aa157601db
-    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\UnityTempFile-ff1389b820fa3e442b8d34aa157601db
-    projectPath: Temp\UnityTempFile-ff1389b820fa3e442b8d34aa157601db
+  - path: AR-God\Temp\UnityTempFile-4d1db99e6d3b1fd40906246746f18928
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\UnityTempFile-4d1db99e6d3b1fd40906246746f18928
+    projectPath: Temp\UnityTempFile-4d1db99e6d3b1fd40906246746f18928
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Temp\UnityTempFile-51c1dbd5ce3dbf54cabc339041f2d42f
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\UnityTempFile-51c1dbd5ce3dbf54cabc339041f2d42f
+    projectPath: Temp\UnityTempFile-51c1dbd5ce3dbf54cabc339041f2d42f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Temp\UnityTempFile-53d143a0fd39fc241ad76d72519a19fd
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\UnityTempFile-53d143a0fd39fc241ad76d72519a19fd
+    projectPath: Temp\UnityTempFile-53d143a0fd39fc241ad76d72519a19fd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Temp\UnityTempFile-5657f96374af0e3439ff9323ec297f01
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\UnityTempFile-5657f96374af0e3439ff9323ec297f01
+    projectPath: Temp\UnityTempFile-5657f96374af0e3439ff9323ec297f01
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Temp\UnityTempFile-5d2d5b3d2a28040418b37d53bc5f868b
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\UnityTempFile-5d2d5b3d2a28040418b37d53bc5f868b
+    projectPath: Temp\UnityTempFile-5d2d5b3d2a28040418b37d53bc5f868b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Temp\UnityTempFile-5dbf511b5489f2046be56e13daa9a28a
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\UnityTempFile-5dbf511b5489f2046be56e13daa9a28a
+    projectPath: Temp\UnityTempFile-5dbf511b5489f2046be56e13daa9a28a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Temp\UnityTempFile-5e285c5caed77a145b96b0ae1d3dd098
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\UnityTempFile-5e285c5caed77a145b96b0ae1d3dd098
+    projectPath: Temp\UnityTempFile-5e285c5caed77a145b96b0ae1d3dd098
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Temp\UnityTempFile-60e5cebb135cfda4ca913b8a22d9023a
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\UnityTempFile-60e5cebb135cfda4ca913b8a22d9023a
+    projectPath: Temp\UnityTempFile-60e5cebb135cfda4ca913b8a22d9023a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Temp\UnityTempFile-653bda95ad473d244915336d5ba8fcb4
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\UnityTempFile-653bda95ad473d244915336d5ba8fcb4
+    projectPath: Temp\UnityTempFile-653bda95ad473d244915336d5ba8fcb4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Temp\UnityTempFile-6673f1ce63c62744b8d68b36f13b0ef4
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\UnityTempFile-6673f1ce63c62744b8d68b36f13b0ef4
+    projectPath: Temp\UnityTempFile-6673f1ce63c62744b8d68b36f13b0ef4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Temp\UnityTempFile-6714054dac92c0d4abbe185d0eab870c
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\UnityTempFile-6714054dac92c0d4abbe185d0eab870c
+    projectPath: Temp\UnityTempFile-6714054dac92c0d4abbe185d0eab870c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Temp\UnityTempFile-687b984f28aad464589c6baf6a323d30
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\UnityTempFile-687b984f28aad464589c6baf6a323d30
+    projectPath: Temp\UnityTempFile-687b984f28aad464589c6baf6a323d30
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Temp\UnityTempFile-6e67eeb5ba482dd4eba0626bb3ad37f8
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\UnityTempFile-6e67eeb5ba482dd4eba0626bb3ad37f8
+    projectPath: Temp\UnityTempFile-6e67eeb5ba482dd4eba0626bb3ad37f8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Temp\UnityTempFile-70bae3a20c211bf4785f16c0f35466ce
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\UnityTempFile-70bae3a20c211bf4785f16c0f35466ce
+    projectPath: Temp\UnityTempFile-70bae3a20c211bf4785f16c0f35466ce
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Temp\UnityTempFile-762e538265872bf4e8a0f2d91cb56b2e
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\UnityTempFile-762e538265872bf4e8a0f2d91cb56b2e
+    projectPath: Temp\UnityTempFile-762e538265872bf4e8a0f2d91cb56b2e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Temp\UnityTempFile-7937a5cda0d0a104a8d305f0c84831b6
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\UnityTempFile-7937a5cda0d0a104a8d305f0c84831b6
+    projectPath: Temp\UnityTempFile-7937a5cda0d0a104a8d305f0c84831b6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Temp\UnityTempFile-7ba3feb245082b244a8fec9217ce1645
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\UnityTempFile-7ba3feb245082b244a8fec9217ce1645
+    projectPath: Temp\UnityTempFile-7ba3feb245082b244a8fec9217ce1645
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Temp\UnityTempFile-7ffe0a39763c4164f924c0362bc582ae
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\UnityTempFile-7ffe0a39763c4164f924c0362bc582ae
+    projectPath: Temp\UnityTempFile-7ffe0a39763c4164f924c0362bc582ae
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Temp\UnityTempFile-855b490b7856b904784cddee0f775b66
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\UnityTempFile-855b490b7856b904784cddee0f775b66
+    projectPath: Temp\UnityTempFile-855b490b7856b904784cddee0f775b66
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Temp\UnityTempFile-89902c65475badd4cbadfec47d2d8051
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\UnityTempFile-89902c65475badd4cbadfec47d2d8051
+    projectPath: Temp\UnityTempFile-89902c65475badd4cbadfec47d2d8051
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Temp\UnityTempFile-8a50ef98cb4ccbe40b411cb582d919e3
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\UnityTempFile-8a50ef98cb4ccbe40b411cb582d919e3
+    projectPath: Temp\UnityTempFile-8a50ef98cb4ccbe40b411cb582d919e3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Temp\UnityTempFile-9083f5e5af8015641a387caf635e53d3
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\UnityTempFile-9083f5e5af8015641a387caf635e53d3
+    projectPath: Temp\UnityTempFile-9083f5e5af8015641a387caf635e53d3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Temp\UnityTempFile-92d30b59af8045646bc609bd8adfa5fb
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\UnityTempFile-92d30b59af8045646bc609bd8adfa5fb
+    projectPath: Temp\UnityTempFile-92d30b59af8045646bc609bd8adfa5fb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Temp\UnityTempFile-94af824862fbd6943a60ce132aceb304
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\UnityTempFile-94af824862fbd6943a60ce132aceb304
+    projectPath: Temp\UnityTempFile-94af824862fbd6943a60ce132aceb304
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Temp\UnityTempFile-98d82f208acf9d74c87d58f63650f352
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\UnityTempFile-98d82f208acf9d74c87d58f63650f352
+    projectPath: Temp\UnityTempFile-98d82f208acf9d74c87d58f63650f352
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Temp\UnityTempFile-9dca9843e78348c42ae33937cce2a70a
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\UnityTempFile-9dca9843e78348c42ae33937cce2a70a
+    projectPath: Temp\UnityTempFile-9dca9843e78348c42ae33937cce2a70a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Temp\UnityTempFile-9ef55044d576a764e8f86031945342f3
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\UnityTempFile-9ef55044d576a764e8f86031945342f3
+    projectPath: Temp\UnityTempFile-9ef55044d576a764e8f86031945342f3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Temp\UnityTempFile-9ef96645c9d4b3743a9c64bf1afd71ce
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\UnityTempFile-9ef96645c9d4b3743a9c64bf1afd71ce
+    projectPath: Temp\UnityTempFile-9ef96645c9d4b3743a9c64bf1afd71ce
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Temp\UnityTempFile-a386ee82a518b154ea0e842619e4f113
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\UnityTempFile-a386ee82a518b154ea0e842619e4f113
+    projectPath: Temp\UnityTempFile-a386ee82a518b154ea0e842619e4f113
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Temp\UnityTempFile-a7d2718197ebb374cbb53b4cf187386a
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\UnityTempFile-a7d2718197ebb374cbb53b4cf187386a
+    projectPath: Temp\UnityTempFile-a7d2718197ebb374cbb53b4cf187386a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Temp\UnityTempFile-ab5fe22f78aeff04eb7383c34f6402b3
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\UnityTempFile-ab5fe22f78aeff04eb7383c34f6402b3
+    projectPath: Temp\UnityTempFile-ab5fe22f78aeff04eb7383c34f6402b3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Temp\UnityTempFile-af287032ca9f0cf478d913196703d2b1
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\UnityTempFile-af287032ca9f0cf478d913196703d2b1
+    projectPath: Temp\UnityTempFile-af287032ca9f0cf478d913196703d2b1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Temp\UnityTempFile-baeb001a6c1876f4a8be3cacc36f8d3c
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\UnityTempFile-baeb001a6c1876f4a8be3cacc36f8d3c
+    projectPath: Temp\UnityTempFile-baeb001a6c1876f4a8be3cacc36f8d3c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Temp\UnityTempFile-c49d82c76437827448d658c32294868d
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\UnityTempFile-c49d82c76437827448d658c32294868d
+    projectPath: Temp\UnityTempFile-c49d82c76437827448d658c32294868d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Temp\UnityTempFile-cac89c83dbb68d440a432addc4fd08fd
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\UnityTempFile-cac89c83dbb68d440a432addc4fd08fd
+    projectPath: Temp\UnityTempFile-cac89c83dbb68d440a432addc4fd08fd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Temp\UnityTempFile-cc564b064cd5c6e419f8b73075b017d3
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\UnityTempFile-cc564b064cd5c6e419f8b73075b017d3
+    projectPath: Temp\UnityTempFile-cc564b064cd5c6e419f8b73075b017d3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Temp\UnityTempFile-cf04cbf534f9e3e41b01359a364f8dc4
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\UnityTempFile-cf04cbf534f9e3e41b01359a364f8dc4
+    projectPath: Temp\UnityTempFile-cf04cbf534f9e3e41b01359a364f8dc4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Temp\UnityTempFile-d22e5b35b8f220f4e8804d5228cade8e
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\UnityTempFile-d22e5b35b8f220f4e8804d5228cade8e
+    projectPath: Temp\UnityTempFile-d22e5b35b8f220f4e8804d5228cade8e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Temp\UnityTempFile-d88a8815d8435204da7a187bdb0ef4f9
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\UnityTempFile-d88a8815d8435204da7a187bdb0ef4f9
+    projectPath: Temp\UnityTempFile-d88a8815d8435204da7a187bdb0ef4f9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Temp\UnityTempFile-d9eaa39533d7e504da962ee4f9779b53
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\UnityTempFile-d9eaa39533d7e504da962ee4f9779b53
+    projectPath: Temp\UnityTempFile-d9eaa39533d7e504da962ee4f9779b53
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Temp\UnityTempFile-da08718396c957543a272226ca24425d
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\UnityTempFile-da08718396c957543a272226ca24425d
+    projectPath: Temp\UnityTempFile-da08718396c957543a272226ca24425d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Temp\UnityTempFile-e52bd49b42b80374bbe3f2d6ca2bcb0b
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\UnityTempFile-e52bd49b42b80374bbe3f2d6ca2bcb0b
+    projectPath: Temp\UnityTempFile-e52bd49b42b80374bbe3f2d6ca2bcb0b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Temp\UnityTempFile-e75494d60b94bb14cbe5ad096d088dd3
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\UnityTempFile-e75494d60b94bb14cbe5ad096d088dd3
+    projectPath: Temp\UnityTempFile-e75494d60b94bb14cbe5ad096d088dd3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Temp\UnityTempFile-ea5deec0eeb9ff54b8351773cdd64ef3
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\UnityTempFile-ea5deec0eeb9ff54b8351773cdd64ef3
+    projectPath: Temp\UnityTempFile-ea5deec0eeb9ff54b8351773cdd64ef3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Temp\UnityTempFile-eaac77b1c666d8a468a89a0840ff170f
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\UnityTempFile-eaac77b1c666d8a468a89a0840ff170f
+    projectPath: Temp\UnityTempFile-eaac77b1c666d8a468a89a0840ff170f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Temp\UnityTempFile-f41325960bc56554284f2da5cf1a5e35
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\UnityTempFile-f41325960bc56554284f2da5cf1a5e35
+    projectPath: Temp\UnityTempFile-f41325960bc56554284f2da5cf1a5e35
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Temp\UnityTempFile-f494d9b2d3e515a4999f6ffe5f82af74
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\UnityTempFile-f494d9b2d3e515a4999f6ffe5f82af74
+    projectPath: Temp\UnityTempFile-f494d9b2d3e515a4999f6ffe5f82af74
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Temp\UnityTempFile-f51fff997217dfd4280c3ebadfe29280
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\UnityTempFile-f51fff997217dfd4280c3ebadfe29280
+    projectPath: Temp\UnityTempFile-f51fff997217dfd4280c3ebadfe29280
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Temp\UnityTempFile-f80835607766887499af927abdc7fc55
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\UnityTempFile-f80835607766887499af927abdc7fc55
+    projectPath: Temp\UnityTempFile-f80835607766887499af927abdc7fc55
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Temp\UnityTempFile-ffc1abecded7ec74d83c71e93569962f
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\UnityTempFile-ffc1abecded7ec74d83c71e93569962f
+    projectPath: Temp\UnityTempFile-ffc1abecded7ec74d83c71e93569962f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AR-God\Temp\UnityTempFile-ffcb6507762699445aa00ca16c575ad8
+    fullPath: D:\ESGI\AR VR\AR God\AR-God\AR-God\Temp\UnityTempFile-ffcb6507762699445aa00ca16c575ad8
+    projectPath: Temp\UnityTempFile-ffcb6507762699445aa00ca16c575ad8
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1

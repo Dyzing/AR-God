@@ -54,7 +54,8 @@ namespace DigitalRuby.LightningBolt
         private Transform[] EndObjectChildren;
         private int randChhild;
         public GameObject ExplodeParticle;
-        public Light DirectionalLight; 
+        public Light DirectionalLight;
+        public AudioSource[] source;
 
         [Tooltip("The end position where the lightning will end at. This is in world space if EndObject is null, otherwise this is offset from EndObject position.")]
         public Vector3 EndPosition;
@@ -291,6 +292,7 @@ namespace DigitalRuby.LightningBolt
 
         private void Start()
         {
+            source = GetComponents<AudioSource>();
             orthographic = (Camera.main != null && Camera.main.orthographic);
             lineRenderer = GetComponent<LineRenderer>();
             lineRenderer.positionCount = 0;
@@ -346,7 +348,7 @@ namespace DigitalRuby.LightningBolt
                     randChhild = Random.Range(1, EndObjectChildren.Length);
                     end = EndObjectChildren[randChhild].position + EndPosition;
                     Instantiate(ExplodeParticle, end, Quaternion.identity);
-                    Destroy(EndObjectChildren[randChhild].gameObject, 0.5f);
+                    Destroy(EndObjectChildren[randChhild].gameObject, 0.25f);
                 }
             }
             startIndex = 0;
@@ -355,6 +357,8 @@ namespace DigitalRuby.LightningBolt
                 DirectionalLight.intensity = 0.25f;
                 lineRenderer.enabled = true;
                 GenerateLightningBolt(start, end, Generations, Generations, 0.0f);
+                source[0].Play();
+                source[1].Play();
                 UpdateLineRenderer();
             }
             else
@@ -364,8 +368,6 @@ namespace DigitalRuby.LightningBolt
             }
 
         }
-
-      
 
         /// <summary>
         /// Call this method if you change the material on the line renderer

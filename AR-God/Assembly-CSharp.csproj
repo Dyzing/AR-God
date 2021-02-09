@@ -70,6 +70,7 @@
     <Compile Include="Assets\52SpecialEffectPack\Animation&amp;Script\csShowAllEffect.cs" />
     <Compile Include="Assets\52SpecialEffectPack\EffectEditor\ShurikenEffectEditor\csShurikenEffectChanger.cs" />
     <Compile Include="Assets\52SpecialEffectPack\EffectEditor\ShurikenEffectEditor\csShurikenEffectEditor.cs" />
+    <Compile Include="Assets\Dynamic Flickering Light\FlickeringLight.cs" />
     <Compile Include="Assets\FROOD\Scripts\Spin.cs" />
     <Compile Include="Assets\Island\Prefabs\Scripts\BateauMove.cs" />
     <Compile Include="Assets\Island\Prefabs\Scripts\Canvas Script\PauseMenuScript.cs" />
@@ -88,6 +89,7 @@
     <None Include="Assets\LightningBolt\Readme.txt" />
     <None Include="Assets\StreamingAssets\Vuforia\VuforiaMars_Images.xml" />
     <None Include="Assets\Lava_Flowing_Shader\Shaders\Diffuse_Lava_Distort.shader" />
+    <None Include="Assets\Dynamic Flickering Light\readme.txt" />
     <None Include="Assets\Lava_Flowing_Shader\ReadMe.txt" />
     <None Include="Assets\Lava_Flowing_Shader\Shaders\Unlit_Lava_Distort_Transparent.shader" />
     <None Include="Assets\Lava_Flowing_Shader\Shaders\Unlit_Lava_Distort.shader" />

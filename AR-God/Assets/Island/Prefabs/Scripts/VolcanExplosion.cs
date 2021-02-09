@@ -8,10 +8,12 @@ public class VolcanExplosion : MonoBehaviour
     public GameObject explosionVolcanParticles;
     public int timer =  3;
     private bool doitExploser = false;
+    public AudioSource source;
 
     // Start is called before the first frame update
     void Start()
     {
+        source = GetComponent<AudioSource>();
         StartCoroutine(Timer());
     }
 
@@ -28,6 +30,7 @@ public class VolcanExplosion : MonoBehaviour
     void VolcanExplosionWithCoroutine()
     {
         Instantiate(explosionVolcanParticles, cratere.position, Quaternion.identity);
+        source.Play();
         doitExploser = false;
         StartCoroutine(Timer());
     }
